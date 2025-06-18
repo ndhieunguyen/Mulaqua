@@ -1,0 +1,3112 @@
+,label,class,smiles,split
+0,1,PMT1,Oc1c(Br)cc(Br)cc1Br,train
+1,1,PMT2,Cn1cc(C(=O)Nc2cccc3c2[C@@H]2CC[C@H]3C2=C(Cl)Cl)c(n1)C(F)F,train
+2,1,PMT3,C1CCCCC1N(C1CCCCC1)Sc1nc2ccccc2s1,train
+3,1,PMT4,C1Cc2cccc3c2c1ccc3,train
+4,1,PMT5,COc1cc(O)c(C(=O)c2ccccc2)cc1S(=O)(=O)O,train
+5,1,PMT6,CCC(C)(C)c1cc(c(cc1O)C(C)(C)CC)O,train
+6,1,PMT7,c1ccccc1Nc1ccccc1,train
+7,1,PMT8,COc1ccc(C(=O)c2ccccc2)c(O)c1,train
+8,1,PMT9,Cc1cc(ccc1)Oc1cc(C)ccc1,train
+9,1,PMT10,Cc1ccc(Cl)cc1Cl,train
+10,1,PMT11,N=C(NCCCCCCNC(=N)NC(=N)Nc1ccc(Cl)cc1)NC(=N)Nc1ccc(Cl)cc1,train
+11,1,PMT12,c1cc(ccc1S(=O)(=O)c1ccc(cc1)Cl)Cl,train
+12,1,PMT13,Oc1ccc(C=C)cc1C=C,train
+13,1,PMT14,CC(C)Cc1ccc(cc1)C(C)C(=O)O,train
+14,1,PMT15,CC(C)(C)c1cc(c(cc1)O)C(C)(C)C,train
+15,1,PMT16,CC(C)(C)CC(C)(C)c1ccc(cc1)O,test
+16,1,PMT17,CNc1ccc(C(O)(c2ccc(N(C)C)cc2)c2ccc(N(C)C)cc2)cc1,train
+17,1,PMT18,CC(C)c1ccccc1c1ccc(cc1)O,train
+18,1,PMT19,c1ccc2cc3ccccc3cc2c1,train
+19,1,PMT20,C1CCC2CCCCC2C1,train
+20,1,PMT21,CC(C)c1ccccc1OOc1ccccc1C(C)C,test
+21,1,PMT22,CC1COCc2cc3c(cc12)C(C)(C)C(C)C3(C)C,train
+22,1,PMT23,CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1ccnc1,train
+23,1,PMT24,Clc1ccc(Cl)cc1Cl,train
+24,1,PMT25,Nc1ccc(O)cc1,train
+25,1,PMT26,C[SiH](O[Si](C)(C)C)O[Si](C)(C)C,test
+26,1,PMT27,Nc1cc(cc(c1O)N(=O)=O)N(=O)=O,train
+27,1,PMT28,Cc1cccc(C)c1N,train
+28,1,PMT29,CC(C)(C)CC(C)(C)c1cc(n2nc3ccccc3n2)c(O)c(c1)C(C)(C)c1ccccc1,train
+29,1,PMT30,c1cc(c(cc1N(=O)=O)N(=O)=O)Cl,train
+30,1,PMT31,ClC=C(Cl)Cl,train
+31,1,PMT32,Oc1ccc(cc1)C(c1ccc(O)cc1)(C(F)(F)F)C(F)(F)F,train
+32,1,PMT33,CC(C)(C)c1ccc(cc1)OC1CCCCC1OS(=O)OCC#C,train
+33,1,PMT34,c1cc(c(cc1c1cc(c(cc1)N)Cl)Cl)N,train
+34,1,PMT35,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+35,1,PMT36,[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+36,1,PMT37,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+37,1,PMT38,c1cc(ccc1N=C=O)Cl,train
+38,1,PMT39,Clc1c(Cl)c(Cl)c2C(=O)OC(=O)c2c1Cl,train
+39,1,PMT40,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2CC[C@@]2(C)[C@H]1CC[C@@]2(O)C#C,train
+40,1,PMT41,CCCCC(CC)C(=O)O[Sn](CCCC)(CCCC)OC(=O)C(CC)CCCC,train
+41,1,PMT42,c1(F)c(F)c(F)cc(Br)c1,train
+42,1,PMT43,CC(=O)OCC(=O)C1[C@H](C)CC2C3C[C@H](F)C4=CC(=O)CCC4(C)C3[C@@H](O)CC12C,train
+43,1,PMT44,c1cc(ccc1C(=O)c1ccc(cc1)F)F,train
+44,1,PMT45,Nc1ccc(c2ccc(N)cc2S(=O)(=O)O)c(S(=O)(=O)O)c1,train
+45,1,PMT46,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F)cc2)ccn1,train
+46,1,PMT47,CC(=O)OC1(CCC2C3CCC4=CC(=O)CCC4C3CCC12C)C(=O)C,train
+47,1,PMT48,c1ncn[nH]1,train
+48,1,PMT49,CCCCN(CCCC)C=O,train
+49,1,PMT50,Nc1ccc(Cl)cc1N(=O)=O,train
+50,1,PMT51,OC(=O)c1ccccc1C(=O)Nc1ccc(S(=O)(=O)N=c2[nH]ccs2)cc1,train
+51,1,PMT52,CCCCC(CC)COC(=O)CS[Sn](CCCC)(CCCC)SCC(=O)OCC(CC)CCCC,train
+52,1,PMT53,CC(C)C1CC2CCC3C(C)(CCCC3(C)C2CC1)C(=O)OCC(O)CO,train
+53,1,PMT54,O=N(=O)c1ccc(Cl)cc1Cl,train
+54,1,PMT55,Clc1ccccc1Cl,train
+55,1,PMT56,CC1(C)CC(N)CC(C)(CN)C1,train
+56,1,PMT57,C1COCCO1,train
+57,1,PMT58,COc1ccc(NC(=O)c2cc3ccccc3cc2O)cc1,train
+58,1,PMT59,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC12CCC(=O)O1,train
+59,1,PMT60,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@]2(O)C#C,train
+60,1,PMT61,ClCCCl,train
+61,1,PMT62,COc1ccc(C)cc1N,train
+62,1,PMT63,C1CNCC[N+]1,train
+63,1,PMT64,CC1=CC(=CC=C1)[N+](=O)[O-],train
+64,1,PMT65,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O.C1C(O1)CCl,train
+65,1,PMT66,CC(C)(C)C#CC=CCN(C)CC1=CC=CC2=CC=CC=C21,train
+66,1,vPvM1,OC(=O)C(F)(F)C(F)OC(F)(F)C(F)(F)C(F)(F)OC(F)(F)F,train
+67,1,vPvM2,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,train
+68,1,vPvM3,CC(C)C1(C)N=C(NC1=O)c1ncccc1C(=O)O,train
+69,1,vPvM4,CC(C)(C)O,train
+70,1,vPvM5,CCOP(=O)(OCC)OCC,train
+71,1,vPvM6,OC(=O)C(F)(F)F,test
+72,1,vPvM7,Cc1nn(C)c(O)c1C(=O)c1ccc(cc1S(=O)(=O)C)C(F)(F)F,train
+73,1,vPvM8,OCCOCCOCCCNc1ccc(NCCCOCCOCCO)c2c1C(=O)c1ccccc1C2=O,train
+74,1,vPvM9,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C=C,train
+75,1,vPvM10,NC(=O)Nc1cc(Nc2nc(N)nc(Cl)n2)ccc1N=Nc1cc2c(cc(cc2cc1S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O,train
+76,1,vPvM11,Nc1nc(N)nc(n1)c1ccccc1,train
+77,1,vPvM12,Cc1ccc(cc1)S(=O)(=O)NC(=O)Nc1cccc(OS(=O)(=O)c2ccc(C)cc2)c1,train
+78,1,vPvM13,C1CCC=CC1,train
+79,1,vPvM14,Cn1nnc2ccccc12,train
+80,1,vPvM15,OS(=O)(=O)C(F)(F)F,train
+81,1,vPvM16,CNC(=O)c1cc(cc(C)c1NC(=O)c1cc(Cn2nnc(n2)C(F)(F)F)nn1c1ncccc1Cl)C#N,train
+82,1,vPvM17,c1cc(ccc1N)F,train
+83,1,vPvM18,CC(CCl)OP(=O)(OC(C)CCl)OC(C)CCl,train
+84,1,vPvM19,FC(F)(F)c1cc(ccc1)[C-]1C(=O)n2ccccc2=[N+](Cc2cncnc2)C1=O,train
+85,1,vPvM20,[C@@H]12C[C@H](O)[C@@]3(C)Oc4c([C@H](O)[C@@H]3[C@@]1(C)CC[C@H](OC(=O)C1CC1)[C@@]2(C)COC(=O)C1CC1)c(=O)oc(c4)c1cnccc1,train
+86,1,vPvM21,Clc1ccccc1,test
+87,1,vPvM22,CCCCC(CC)COC(=O)[C@@H](C)Oc1ccc(Cl)cc1C,train
+88,1,vPvM23,C[N+](C)(CCCNS(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)CC(=O)[O-],train
+89,1,vPvM24,CC(C)c1nn(C(=O)NC(C)(C)C)c(=O)n1N,train
+90,1,vPvM25,FC(F)(Cl)Cl,train
+91,1,vPvM26,NC(=N)NC#N,train
+92,1,vPvM27,c1(OC(C)C(=O)OCCCCCCCC)c(C)cc(Cl)cc1,train
+93,1,vPvM28,CN(C)C(=O)C(CCN1CCC(O)(CC1)c1ccc(Cl)cc1)(c1ccccc1)c1ccccc1,train
+94,1,vPvM29,CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c(Cl)c1COCC1CCCO1,train
+95,1,vPvM30,Cc1cc(=O)n(c2ccccc2)n1C,test
+96,1,vPvM31,OS(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+97,1,vPvM32,COC(=O)C(F)(F)C(F)OC(F)(F)C(F)(F)C(F)(F)OC(F)(F)F,train
+98,1,vPvM33,CCCCC(CC)CN1C(=O)C2C3CC(C=C3)C2C1=O,train
+99,1,vPvM34,CC(=O)OC(C)(C)C,train
+100,1,vPvM35,C1N(CN(CN1N(=O)=O)N(=O)=O)N(=O)=O,train
+101,1,vPvM36,CC1(C)NC(=O)NC1=O,train
+102,1,vPvM37,N#Cc1c(Cl)cccc1Cl,train
+103,1,vPvM38,CCOc1nc(NC)nc(NC(=O)NS(=O)(=O)c2ccccc2C(=O)OC)n1,train
+104,1,vPvM39,[O-]C(=O)C(F)(F)OC1(F)OC(F)(F)OC1(F)OC(F)(F)F,train
+105,1,vPvM40,CCN(Cc1cccc(c1)S(=O)(=O)[O-])c1ccc(cc1)C(=C1C=CC(=[N+](CC)Cc2cccc(c2)S(=O)(=O)[O-])C=C1)c1ccccc1S(=O)(=O)[O-],train
+106,1,vPvM41,CC(C)(C)c1cc2Cc3cc(cc(c3OP(=O)([O-])Oc2c(c1)C(C)(C)C)C(C)(C)C)C(C)(C)C,test
+107,1,vPvM42,CCCCOP(=O)([O-])OCCCC,train
+108,1,vPvM43,C(=O)(C(=Cc1ccc(N(CC)CC)cc1)C#N)OCCC[N+](C)(C)CCOC(=O)C(=Cc1ccc(N(CC)CC)cc1)C#N,train
+109,1,vPvM44,CCCCCCCCCc1ccc(OCCOCC(O)CN(C)CC(=O)OC(=O)CN(C)CC(O)COC(CCl)COCCOc2ccc(CCCCCCCCC)cc2)cc1,train
+110,1,vPvM45,CCCCC(CC)COP(=S)([S-])OCC(C)C,train
+111,1,vPvM46,[O-]c1c(I)cc2c(Oc3c(I)c([O-])c(I)cc3C32OC(=O)c2ccccc32)c1I,train
+112,1,vPvM47,Oc1cc(c2ccc3c(cc(c4c3c2c1cc4)S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-],test
+113,1,vPvM48,[C@@]1(c2c(Cl)cc(Cl)cc2)(Cn2cncn2)OC(COS(=O)(=O)C)CO1,train
+114,1,vPvM49,[O-]c1c(Br)cc2c(Oc3c(cc(Br)c([O-])c3[Hg])C32OC(=O)c2ccccc32)c1,train
+115,1,vPvM50,Cc1cc(Nc2cc(c(N)c3c2C(=O)c2ccccc2C3=O)S(=O)(=O)[O-])cc(c1C)S(=O)(=O)NCCO,train
+116,1,vPvM51,CCN(c1ccccc1)c1nc(Cl)nc(Nc2cc(cc3c2C(=O)/C(=N/Nc2ccc(C)cc2S(=O)(=O)[O-])/C(=C3)S(=O)(=O)[O-])S(=O)(=O)[O-])n1,train
+117,1,vPvM52,CC(=O)Nc1cccc(Nc2cc(c(N)c3c2C(=O)c2ccccc2C3=O)S(=O)(=O)[O-])c1,train
+118,1,vPvM53,Nc1c2c(O)c(N=Nc3c(cc(cc3)N(=O)=O)S(=O)(=O)[O-])c(cc2c(cc1N=Nc1c(cc(cc1)S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-],train
+119,1,vPvM54,COc1cc(c(C)cc1N=Nc1c(O)c2ccc(N)c(N=Nc3ccc(cc3S(=O)(=O)O)S(=O)(=O)CCOS(=O)(=O)O)c2cc1S(=O)(=O)[O-])S(=O)(=O)CCOS(=O)(=O)O,train
+120,1,vPvM55,CN1c2ccc(Cl)cc2C(=NCC1=O)c1ccccc1,train
+121,1,vPvM56,FC(F)(Cl)C(F)(Cl)Cl,train
+122,1,vPvM57,NC(=O)N1c2ccccc2C=Cc2c1cccc2,train
+123,1,vPvM58,CN1COCN(Cc2cnc(Cl)s2)/C/1=N/N(=O)=O,train
+124,1,vPvM59,OC(=O)C(F)(F)C(F)(F)C(F)(F)F,test
+125,1,vPvM60,CO/N=C(/C(=O)OC)\c1ccccc1COc1ccccc1C,train
+126,1,vPvM61,CN(C)Cc1cc(CN(C)C)cc(CN(C)C)c1O,train
+127,1,vPvM62,CCC(C)(N=NC(C)(CC)C#N)C#N,train
+128,1,vPvM63,CC(COC(C)CN(CCN(CC(C)OCC(C)OCCO)CC(C)OCC(C)OCCO)CC(C)OCC(C)OCCO)OCCO,train
+129,1,vPvM64,OC(C(F)(F)F)C(F)(F)F,train
+130,1,vPvM65,COc1cc(NC(=O)C(/N=N\c2ccc(cc2Cl)c2ccc(/N=N/C(C(=O)C)C(=O)Nc3ccc(C)cc3C)c(Cl)c2)C(=O)C)c(cc1Cl)OC,train
+131,1,vPvM66,Clc1cc(ccc1/N=N\C(C(=O)C)C(=O)Nc1ccc(OC)cc1)c1ccc(/N=N/C(C(=O)C)C(=O)Nc2ccccc2)c(Cl)c1,train
+132,1,vPvM67,C(CCN(CCCN(C)C)CCCN(C)C)N(C)C,train
+133,1,vPvM68,OP(=O)(O)CN(CCN(CP(=O)(O)O)CP(=O)(O)O)CCN(CP(=O)(O)O)CP(=O)(O)O,train
+134,1,vPvM69,CC(=O)C(N=Nc1ccc(cc1Cl)c1ccc(N=NC(C(=O)C)C(=O)Nc2ccccc2)c(Cl)c1)C(=O)Nc1ccccc1,train
+135,1,vPvM70,CC(=O)C(N=Nc1cc(Cl)c(cc1Cl)c1cc(Cl)c(cc1Cl)N=NC(C(=O)C)C(=O)Nc1ccc(C)cc1C)C(=O)Nc1ccc(C)cc1C,train
+136,1,vPvM71,CN(C)CCOCCN(C)C,train
+137,1,vPvM72,Clc1cc(ccc1/N=N/C(C(=O)C)C(=O)Nc1ccccc1OC)c1ccc(/N=N/C(C(=O)C)C(=O)Nc2ccc(C)cc2C)c(Cl)c1,train
+138,1,vPvM73,CCOc1nc2cccc(C(=O)O)c2n1Cc1ccc(cc1)c1ccccc1c1nn[nH]n1,train
+139,1,vPvM74,CC(=O)C(N=Nc1ccc(cc1Cl)c1ccc(N=NC(C(=O)C)C(=O)Nc2ccc(C)cc2C)c(Cl)c1)C(=O)Nc1ccc(C)cc1C,train
+140,1,vPvM75,CC1(C)OC2[C@@H](O1)[C@@H](O[C@@H]2OC)COS(=O)(=O)c1ccc(C)cc1,train
+141,1,vPvM76,C(C)(CN)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)N,train
+142,1,vPvM77,CCCCNS(=O)(=O)c1ccccc1,train
+143,1,vPvM78,C1(=O)C(=c2c3c(c(=C4C(=O)NC(=O)NC4=O)[nH]2)cccc3)C(=O)NC(=O)N1,train
+144,1,vPvM79,ClC=CCl,train
+145,1,vPvM80,c1(c2cc(Cl)c(/N=N/C(C(=O)C)C(=O)Nc3ccc(OCC)cc3)cc2)cc(Cl)c(/N=N/C(C(=O)C)C(=O)Nc2ccc(OCC)cc2)cc1,train
+146,1,vPvM81,CC(=O)C(N=Nc1ccc(cc1Cl)c1ccc(N=NC(C(=O)C)C(=O)Nc2ccccc2C)c(Cl)c1)C(=O)Nc1ccccc1C,train
+147,1,vPvM82,Clc1cc(c2nc3c4C(=O)c5ccccc5C(=O)c4ccc3[nH]2)c(Cl)cc1c1nc2c3C(=O)c4ccccc4C(=O)c3ccc2[nH]1,train
+148,1,vPvM83,c1(/N=N/C(C(=O)C)C(=O)Nc2ccc(S(=O)(=O)NCCCN(C)C)cc2)c(OC)cc(N(=O)=O)cc1,test
+149,1,vPvM84,OP(=O)(O)CN(CCN(CP(=O)(O)O)CP(=O)(O)O)CP(=O)(O)O,train
+150,1,vPvM85,Cc1nc(nc(n1)N)N,train
+151,1,vPvM86,COc1cc(NC(=O)C(N=Nc2ccc(cc2Cl)c2ccc(N=NC(C(=O)C)C(=O)Nc3cc(OC)c(Cl)cc3OC)c(Cl)c2)C(=O)C)c(OC)cc1Cl,train
+152,1,vPvM87,CCOC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc1nc(Cl)cc(OC)n1,train
+153,1,vPvM88,CC(=O)N(CC(O)CO)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I,train
+154,1,vPvM89,Cc1ccccc1NC(=N)Nc1ccccc1C,train
+155,1,vPvM90,CC(C)(C#N)N=NC(C)(C)C#N,train
+156,1,vPvM91,O=S(=O)(C)c1cc(c(cc1)C(=O)O)N(=O)=O,train
+157,1,vPvM92,Cc1ccc(Nc2ccc(Nc3ccc(C)cc3)c3c2C(=O)c2ccccc2C3=O)cc1,train
+158,1,vPvM93,COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)cc1Cl,train
+159,1,vPvM94,CN(C)CCN(C)CCN(C)C,train
+160,1,vPvM95,CC(Cl)(Cl)Cl,train
+161,1,vPvM96,COc1cc(N=Nc2c(Cl)cc(cc2N(=O)=O)N(=O)=O)c(NC(=O)C)cc1N(CCOC(=O)C)CCOC(=O)C,train
+162,1,vPvM97,COc1ccccc1NC(=O)C(N=Nc1ccc(cc1Cl)c1ccc(N=NC(C(=O)C)C(=O)Nc2ccccc2OC)c(Cl)c1)C(=O)C,train
+163,1,vPvM98,FC(F)(F)S(=O)(=O)OS(=O)(=O)C(F)(F)F,train
+164,1,vPvM99,CC(=O)OC1C(CC2C3CCC4CC(O)C(CC4(C)C3CCC12C)N1CCOCC1)N1CCCC1,train
+165,1,vPvM100,CC(C)(CN1CCOCC1)C=NCC1(C)CC(CC(C)(C)C1)N=CC(C)(C)CN1CCOCC1,test
+166,1,vPvM101,Nc1nc(N)nc(Nc2nc(N)nc(N)n2)n1,test
+167,1,vPvM102,CC(C)OC(C)C,test
+168,1,vPvM103,Cc1ccc(N(=O)=O)cc1S(=O)(=O)O,train
+169,1,vPvM104,C1COCCN1CCOCCN1CCOCC1,train
+170,1,vPvM105,C[N+](C)(C)CC(O)CSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+171,1,vPvM106,CCN(CC)c1ccc(cc1)[C+](c1ccc(cc1)N(CC)CC)c1cc(O)c(cc1S(=O)(=O)[O-])S(=O)(=O)[O-],train
+172,1,vPvM107,Nc1ccc2cc(cc(O)c2c1N=Nc1ccccc1C(F)(F)F)S(=O)(=O)[O-],test
+173,1,vPvM108,CC(C)(CS(=O)(=O)[O-])NC(=O)CCSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+174,1,vPvM109,CCc1cc(Nc2c3C(=O)c4c(cccc4)C(=O)c3c(Nc3c(C)c(cc(CC)c3)S(=O)(=O)[O-])cc2)c(C)c(c1)S(=O)(=O)[O-],test
+175,1,vPvM110,Nc1nc(Cl)nc(Nc2cc(cc3cc(c(N=Nc4c([O-])c5c(cccc5c(c4)S(=O)(=O)[O-])S(=O)(=O)[O-])c([O-])c23)S(=O)(=O)[O-])S(=O)(=O)[O-])n1,train
+176,1,vPvM111,C(=C)COCC(O)CS(=O)(=O)[O-],train
+177,1,vPvM112,CN(C)S(=O)(=O)c1ccc2/N=N/c3c(O[Cr-]4(Oc5c(/N=N/c6ccc(cc6O4)S(=O)(=O)N(C)C)c(C)nn5c4ccccc4)Oc2c1)n(nc3C)c1ccccc1,test
+178,1,vPvM113,Clc1ccc(C(Cn2ccnc2)OCC=C)c(Cl)c1,train
+179,1,vPvM114,CC1N=NC2=C1/N=N/c1ccc(cc1O[Cr-2]13(Oc4c(cc(cc4/N=N/c4c(O1)n(nc4C)c1ccc(C)cc1)S(=O)(=O)O3)[N+](=O)[O-])O2)[N+](=O)[O-],train
+180,1,vPvM115,CC1=NN(C(=O)C21N=Nc1cc3cc(c1O[Cr-2]12(OS3(=O)=O)Oc2ccccc2/C=N/c2cc(ccc2O1)[N+](=O)[O-])[N+](=O)[O-])c1ccccc1,train
+181,1,vPvM116,CCN(CC)c1ccc(cc1)[C+](c1ccc(cc1C)N(CC)Cc1cccc(c1)S(=O)(=O)O)c1ccc(cc1C)N(CC)Cc1cccc(c1)S(=O)(=O)[O-],train
+182,1,vPvM117,CN(C)C(=N)N=C(N)N,train
+183,1,vPvM118,Cc1cc(N/N=C/2\C=CC(=O)C(=C2)C(=O)[O-])c(OCCCS(=O)(=O)[O-])cc1N=Nc1ccc(cc1S(=O)(=O)[O-])[N+](=O)[O-],train
+184,1,vPvM119,C[N+](C)(C)Cc1ccccc1,train
+185,1,vPvM120,CC1=NNC(=O)N(C1)/N=C/c1cccnc1,train
+186,1,vPvM121,C(C(F)(F)S(=O)(=O)O)(F)(F)F,train
+187,1,vPvM122,C(C(F)(F)F)(C(F)(F)S(=O)(=O)O)(F)F,train
+188,1,vPvM123,C(=O)(C(C(F)(F)F)(F)F)O,train
+189,1,vPvM&PMT1,CC(N)CN,train
+190,1,vPvM&PMT2,ClCC(CCl)OP(=O)(OC(CCl)CCl)OC(CCl)CCl,train
+191,1,vPvM&PMT3,C=CC1CCC=CC1,train
+192,1,vPvM&PMT4,O=N(=O)c1ccccc1Cl,train
+193,1,vPvM&PMT5,FC(=C(F)F)F,train
+194,1,vPvM&PMT6,CC(c1ccc(O)cc1)(c1ccc(O)cc1)c1ccc(O)cc1,train
+195,1,vPvM&PMT7,C=CCl,train
+196,1,vPvM&PMT8,ClCC(Cl)CCl,train
+197,1,vPvM&PMT9,CC(C)(C)OO,train
+198,1,vPvM&PMT10,Cc1cc(ccc1)N=C=O,train
+199,1,vPvM&PMT11,O=C1NC(=O)C(N1)(c1ccccc1)c1ccccc1,train
+200,1,vPvM&PMT12,C1CCc2ccccc2C1,train
+201,1,vPvM&PMT13,ClC(=C(Cl)Cl)Cl,train
+202,1,vPvM&PMT14,Cc1cccc(c1N(=O)=O)N(=O)=O,train
+203,1,vPvM&PMT15,Nc1ccccc1N,train
+204,1,vPvM&PMT16,Nc1cc(Cl)c(Cl)cc1Cl,train
+205,1,vPvM&PMT17,Nc1ccc(N)cc1S(=O)(=O)O,train
+206,1,vPvM&PMT18,ClC(Cl)Cl,train
+207,1,vPvM&PMT19,Oc1ccc(Cl)cc1Cl,train
+208,1,vPvM&PMT20,c1cc(ccc1N)Oc1ccc(cc1)N,test
+209,1,vPvM&PMT21,CCCl,train
+210,1,vPvM&PMT22,Nc1nc(N)nc(N)n1,train
+211,1,vPvM&PMT23,Cn1c(=O)n(c(=O)cc1C(F)(F)F)c1ccc(Cl)c(c1)C(=O)OC(C)(C)C(=O)OCC=C,train
+212,1,vPvM&PMT24,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+213,1,vPvM&PMT25,Cc1ccccc1OCC1CO1,train
+214,1,vPvM&PMT26,CC(CCl)Cl,train
+215,1,vPvM&PMT27,C=C(Cl)Cl,train
+216,1,vPvM&PMT28,Nc1cccc(c1)S(=O)(=O)c1cccc(N)c1,train
+217,1,vPvM&PMT29,O=N(=O)c1ccccc1,train
+218,1,vPvM&PMT30,CC(C)c1ccc(cc1)N,train
+219,1,vPvM&PMT31,C=CCOCC1CO1,train
+220,1,vPvM&PMT32,CC(C)(N1CCOCC1)C(=O)c1ccc(SC)cc1,train
+221,1,vPvM&PMT33,ClCCCBr,train
+222,1,vPvM&PMT34,c1cc(ccc1N)S(=O)(=O)c1ccc(cc1)N,train
+223,1,vPvM&PMT35,CCNc1nc(nc(n1)Cl)NC(C)C,train
+224,1,vPvM&PMT36,CC(C)(C)NCC(O)c1ccc(O)c(CO)c1,train
+225,1,vPvM&PMT37,N=C(Nc1ccccc1)Nc1ccccc1,train
+226,1,vPvM&PMT38,CCC(C)c1cc(N(=O)=O)cc(N(=O)=O)c1O,train
+227,1,vPvM&PMT39,c1(C)c(N(=O)=O)cc(S(=O)(=O)C)cc1,train
+228,1,vPvM&PMT40,BrCCBr,train
+229,1,vPvM&PMT41,Cc1ccccc1N(=O)=O,train
+230,1,vPvM&PMT42,Nc1cccc(Cl)c1,train
+231,1,vPvM&PMT43,c1(O)c(C(C)c2ccccc2)ccc(O)c1,train
+232,1,vPvM&PMT44,CN1CCNCC1,train
+233,1,vPvM&PMT45,CC1=NNC(=O)N(C1)N=Cc1cccnc1,train
+234,1,vPvM&PMT46,FC(F)(F)C(=C)Br,train
+235,1,vPvM&PMT47,c1ccc2[nH]nnc2c1,train
+236,1,vPvM&PMT48,Nc1ccc(Cl)cc1,train
+237,1,vPvM&PMT49,Clc1cccc(Cl)c1Cl,train
+238,1,vPvM&PMT50,Cc1cc(Cl)ccc1O,train
+239,1,vPvM&PMT51,CCNc1nc(nc(n1)SC)NC(C)C,train
+240,1,vPvM&PMT52,O=C(c1ccccc1)c1ccccc1,train
+241,1,vPvM&PMT53,COCCOCCOC,train
+242,1,vPvM&PMT54,c1cc(c(cc1N)Cl)Cl,train
+243,1,vPvM&PMT55,Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1,train
+244,1,vPvM&PMT56,ClCC(Cl)Cl,train
+245,1,vPvM&PMT57,Oc1ccc(N(=O)=O)cc1N(=O)=O,train
+246,1,vPvM&PMT58,C[Si](C)(C)O[Si](C)(C)C,train
+247,1,vPvM&PMT59,ClC(Cl)(Cl)Cl,test
+248,1,vPvM&PMT60,c1(CC)cc(C)ccn1,train
+249,1,vPvM&PMT61,CC(C)Nc1nc(nc(n1)Cl)NC(C)C,train
+250,1,vPvM&PMT62,C1COCO1,train
+251,1,vPvM&PMT63,CC(C)CC=C,train
+252,1,vPvM&PMT64,C=C(C(CCl)Cl)Cl,train
+253,1,vPvM&PMT65,Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl,train
+254,1,vPvM&PMT66,CN(C)C(=O)Nc1cc(c(cc1)Cl)Cl,train
+255,1,vPvM&PMT67,C=CC(=C)Cl,train
+256,1,vPvM&PMT68,OC(=O)C(Cl)(Cl)Cl,train
+257,1,vPvM&PMT69,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+258,1,vPvM&PMT70,O=c1[nH]c(=O)[nH]c(=O)[nH]1,train
+259,1,vPvM&PMT71,ClCCOCCCl,train
+260,1,vPvM&PMT72,CON=C(C(=O)OC)c1ccccc1COc1ccccc1C,test
+261,1,vPvM&PMT73,Clc1cccc(Cl)c1,train
+262,1,vPvM&PMT74,COCCOCCOCCOCCOC,train
+263,1,vPvM&PMT75,COc1cc(OC)nc(NC(=O)[N-]S(=O)(=O)c2ncccc2OCC(F)(F)F)n1,train
+264,1,vPvM&PMT76,COc1c(C)c(ccc1N=Nc1c(O)ccc2cc(ccc12)S(=O)(=O)[O-])S(=O)(=O)[O-],train
+265,1,vPvM&PMT77,[O-]C(=O)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,train
+266,1,vPvM&PMT78,CCN(CC)c1ccc(cc1)C(=C1C=CC(=[N+](CC)CC)C=C1)c1ccc(cc1S(=O)(=O)[O-])S(=O)(=O)[O-],train
+267,1,vPvM&PMT79,COC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+268,1,vPvM&PMT80,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,test
+269,1,vPvM&PMT81,[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+270,1,vPvM&PMT82,COC(F)(F)C(F)(C(F)(F)F)C(F)(F)F,train
+271,1,vPvM&PMT83,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+272,1,vPvM&PMT84,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+273,1,vPvM&PMT85,OS(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+274,1,vPvM&PMT86,CCNc1nc(NC(C)(C)C)nc(SC)n1,train
+275,1,vPvM&PMT87,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+276,1,vPvM&PMT88,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+277,1,vPvM&PMT89,[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,test
+278,1,vPvM&PMT90,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,test
+279,1,vPvM&PMT91,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+280,1,vPvM&PMT92,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+281,1,vPvM&PMT93,CC1(C)C[C@H](O)C[C@@H](C)[C@@]1(O)C#C/C(=C/CO)/C,train
+282,1,vPvM&PMT94,Nc1cc(Cl)c(Cl)cc1S(=O)(=O)O,train
+283,1,vPvM&PMT95,CC(C)(C)OC,train
+284,1,vPvM&PMT96,CNS(=O)(=O)c1cc(OC)c(N)cc1OC,train
+285,1,vPvM&PMT97,c1cc(ccc1N(=O)=O)Cl,train
+286,1,vPvM&PMT98,CC1CCC2C(C1)C(=O)OC2=O,train
+287,1,vPvM&PMT99,C12C(C(=O)OC1=O)[C@@]1(C(=C([C@]2(C1(Cl)Cl)Cl)Cl)Cl)Cl,train
+288,1,vPvM&PMT100,C[C@@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@H]3[C@@H](O)C[C@]2(C)[C@H]1C(=O)CO,train
+289,1,vPvM&PMT101,Oc1cc(Cl)cc(Br)c1,train
+290,1,vPvM&PMT102,Nc1ccc2cc(S(=O)(=O)O)cc(O)c2c1,train
+291,1,vPvM&PMT103,C(=O)(c1c(O)cc2c(cccc2)c1)N/N=C(/C)\CC(C)C,test
+292,1,vPvM&PMT104,ClCCOP(=O)(OCCCl)OCCCl,train
+293,1,vPvM&PMT105,CC1=CC2CC1C1C2C(=O)OC1=O,train
+294,1,vPvM&PMT106,Nc1cccc2c1cccc2N,test
+295,1,vPvM&PMT107,Nc1ccc2c(c1)cc(S(=O)(=O)O)cc2O,train
+296,1,vPvM&PMT108,COc1ccc(cc1N)C(=O)Nc1ccccc1,train
+297,1,vPvM&PMT109,CC1(C)SC2C(NC(=O)C(N)c3ccc(O)cc3)C(=O)N2C1C(=O)O,train
+298,1,vPvM&PMT110,Cc1ccc(N)c(S(=O)(=O)O)c1,train
+299,1,vPvM&PMT111,CC1(C)CC(N=C=O)CC(C)(CN=C=O)C1,train
+300,1,vPvM&PMT112,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,train
+301,1,vPvM&PMT113,C=Cn1ccnc1,train
+302,1,vPvM&PMT114,CC(C)Nc1ccc(cc1)Nc1ccccc1,train
+303,1,vPvM&PMT115,C1(C)(C)C(C)C2C(C3CCC(O)CC3)CC1C2,train
+304,1,vPvM&PMT116,C1(CC2CCC(NC(C)CC)CC2)CCC(NC(C)CC)CC1,train
+305,1,vPvM&PMT117,CCCCc1nc(Cl)c(CO)n1Cc1ccc(cc1)c1ccccc1c1nn[nH]n1,train
+306,1,vPvM&PMT118,OCC(F)(F)F,train
+307,1,vPvM&PMT119,O=C=Nc1cccc2c1cccc2N=C=O,train
+308,1,vPvM&PMT120,c1(N)c(O)c(NC(=O)C)cc(S(=O)(=O)O)c1,train
+309,1,vPvM&PMT121,Nc1cccc2cc(S(=O)(=O)O)ccc12,train
+310,1,vPvM&PMT122,FC(F)(F)I,train
+311,1,vPvM&PMT123,CC12CCCCC1C(=O)OC2=O,train
+312,1,vPvM&PMT124,Clc1ccc(cc1)CNC1CCCC1,train
+313,1,vPvM&PMT125,CCC(CC)c1cccc(N)c1N,train
+314,1,vPvM&PMT126,C=CC(CCl)Cl,train
+315,1,vPvM&PMT127,COc1cc(c(cc1N)OC)Cl,test
+316,1,vPvM&PMT128,ClCCl,train
+317,1,vPvM&PMT129,Nc1cccc(S(=O)(=O)O)c1,train
+318,1,vPvM&PMT130,Cc1ccc(cc1)N(=O)=O,train
+319,1,vPvM&PMT131,CC1=NN(C(=O)C1N=Nc1cc(NC(=O)C(=C)Br)ccc1S(=O)(=O)[O-])c1cc(Cl)c(cc1Cl)S(=O)(=O)[O-],train
+320,1,vPvM&PMT132,c1ccccc1S(=O)(=O)[N-]Cl,train
+321,0,PM5,CC(C)CCOCCC(C)C,train
+322,0,PM20,CN(CCO)CCO,train
+323,0,PM25,CCS,train
+324,0,PM26,CC1CC(C)(C)c2cc(C(=O)C)c(C)cc2C1(C)C,train
+325,0,PM27,COCCCN,train
+326,0,PM35,CC(C)(O)C(=O)c1ccc(OCCO)cc1,train
+327,0,PM43,CC(C)OCCO,train
+328,0,PM56,Cc1cc(c(cc1)O)C(C)(C)C,train
+329,0,PM63,CCN(C(C)C)C(C)C,train
+330,0,PM71,CC(CC1CCCC1=O)C1CCC(=CC1)C,train
+331,0,PM78,CCN(C1CCCCC1)C(=O)n1nnn(c1=O)c1ccccc1Cl,train
+332,0,PM87,CC1C(C)(C)C2=C(C(=O)CCC2)C1(C)C,train
+333,0,PM112,CCC(C)(C)c1ccccc1,train
+334,0,PM122,CC(O)CN(CC(C)O)CC(C)O,train
+335,0,PM152,c12c(c(C(C)CC)ccc1)cc(S(=O)(=O)O)cc2,train
+336,0,PM164,CCC(C)c1ccccc1,train
+337,0,PM182,Cc1cc[cH-]c1,train
+338,0,PM186,C(=O)(C(=c1c2c(c(=C3C(=O)NC(=O)NC3=O)[nH]1)cccc2)C#N)NC,test
+339,0,PM196,C=COCCOCCOCCOC=C,train
+340,0,PM199,CC(C)C1=CC2=CCC3C(C2CC1)(C)CCCC3(C)C(=O)OCC(CO)(CO)CO,train
+341,0,PM201,CC(C)C1=CC2=CCC3C(C2CC1)(C)CCCC3(C)C(=O)OCCOCCOCCO,test
+342,0,PM203,CCN(O)CC,train
+343,0,PM210,CC(C)C1=CC2=CCC3C(C2CC1)(C)CCCC3(C)C(=O)OCC(O)CO,train
+344,0,PM219,O=c1[nH]c(c2c(=O)[nH]c(c12)c1ccc(Cl)cc1)c1ccc(Cl)cc1,test
+345,0,PM255,COCCOCOCCOC,train
+346,0,PM277,c1(c2ccccc2)nc2c(cc(S(=O)(=O)O)cc2)[nH]1,train
+347,0,PM291,c1(=O)c2c(cccc2)nc2c(N=Nc3c(N(=O)=O)cc(Cl)cc3)c(C)[nH]n12,train
+348,0,PM293,CC(O)CN(C)CC(C)O,train
+349,0,PM297,CCCN(CCC)CCC,test
+350,0,Not P1,OC1CC(O)(CC(O)C1O)C(=O)O,train
+351,0,Not P2,CCCCC(CC)COC(=O)C1CCC2OC2C1,train
+352,0,Not P3,COc1ccccc1OC,test
+353,0,Not P4,C1c2ccccc2OC1=O,train
+354,0,Not P5,ClC(C)C(=O)OCC(C)C,train
+355,0,Not P6,CCCCCCC(CO)O,train
+356,0,Not P7,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CCC2=O)C,train
+357,0,Not P8,OCC(=O)O,train
+358,0,Not P9,CCCCCCCCCCCCCC[C@@H](O)[C@@H](O)[C@@H](N)CO,train
+359,0,Not P10,CCCC(C)C,train
+360,0,Not P11,OC(=O)c1cccc(c1)N(=O)=O,train
+361,0,Not P12,CS(=O)(=O)O,train
+362,0,Not P13,Cc1ccc(cc1)C(=O)OOC(=O)c1ccc(C)cc1,train
+363,0,Not P14,Cc1cccc(C)c1OS(=O)(=O)c1ccc(O)cc1,train
+364,0,Not P15,CCC(C)C(N)C(=O)O,train
+365,0,Not P16,CCCCC(O)C(N)CC,train
+366,0,Not P17,CC(=O)C=O,train
+367,0,Not P18,c1cc(ccc1F)Br,train
+368,0,Not P19,B(O)(O)OCCNC(=O)CCCCCCCC=CCCCCCCCC,train
+369,0,Not P20,CCOB(OCC)OCC,train
+370,0,Not P21,CC(=O)CCc1ccccc1,train
+371,0,Not P22,CC1CCCCC1OC(=O)C,train
+372,0,Not P23,CC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@]12C,train
+373,0,Not P24,OCCCCCO,train
+374,0,Not P25,CCO[Si](OCC)(OCC)CC(C)C,train
+375,0,Not P26,OCCCCCCCCCO,train
+376,0,Not P27,CCCCCCC1(C)CCC(=O)O1,train
+377,0,Not P28,Nc1ccc(C(=O)O)cc1,train
+378,0,Not P29,CC(C)C=O,train
+379,0,Not P30,ClC(CCCCCCCCCC)CS(=O)(=O)O,train
+380,0,Not P31,COC(=O)CC#N,train
+381,0,Not P32,COc1ccc(CCN)cc1OC,train
+382,0,Not P33,O=c1oc(=O)c2cc3c(=O)oc(=O)c3cc12,train
+383,0,Not P34,CCCCCCOC(=O)C,train
+384,0,Not P35,CC(=C)C(=O)OCc1ccccc1,test
+385,0,Not P36,C(=O)(C1CC1)OCC/C=C/CC,train
+386,0,Not P37,C(Cc1ccccc1)Cc1ccncc1,train
+387,0,Not P38,CCC(C)(C)OOC(=O)C(C)(C)C,train
+388,0,Not P39,CC(CCC(=O)O)C(=O)O,train
+389,0,Not P40,COc1ccccc1NC(=O)c1cc2ccccc2cc1O,train
+390,0,Not P41,COc1ccc(cc1O)[C@@H]1CC(=O)c2c(O)cc(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O[C@@H]3O[C@@H](C)[C@H](O)[C@@H](O)[C@H]3O)cc2O1,train
+391,0,Not P42,CCCCCCCCCCCC(=O)OCC(O)CO,train
+392,0,Not P43,CCC(C)C(=O)C=CC,train
+393,0,Not P44,CC(COC)O,train
+394,0,Not P45,COc1ccc(CC#N)cc1OC,train
+395,0,Not P46,CC(=CCO)C,train
+396,0,Not P47,C(CCCN=CC=Cc1ccccc1)CCN=CC=Cc1ccccc1,train
+397,0,Not P48,C1OC1c1ccccc1,train
+398,0,Not P49,CC(=O)OCCC1=CC[C@H]2C[C@@H]1C2(C)C,train
+399,0,Not P50,CC=C(C)C(=O)OC1C(OC(=O)C)C2(CO)C(O)CC3(C)C(=CCC4C5(C)CCC(OC6OC(C(OC7OC(CO)C(O)C(O)C7O)C(O)C6OC6OC(CO)C(O)C(O)C6O)C(=O)O)C(C)(CO)C5CCC34C)C2CC1(C)C,train
+400,0,Not P51,CC(C)/C=C(\C)/C(=O)C,train
+401,0,Not P52,CC1=CC(=O)CC(C1=O)(C)C,train
+402,0,Not P53,C/C(=C\C=C\C=C(/C)\C=O)/C=O,train
+403,0,Not P54,NP(=O)(N)Oc1ccccc1,train
+404,0,Not P55,OC(=O)CCCC(=O)OOC(=O)CCCC(=O)O,test
+405,0,Not P56,CCCCOCCOCCOCCOCCOCCO,train
+406,0,Not P57,CCCCCCCCCCCC(=O)N(C)CC(=O)O,train
+407,0,Not P58,COC(=O)C=C,train
+408,0,Not P59,COCCOCCO[Si](CCCOCC1CO1)(OCCOCCOC)OCCOCCOC,train
+409,0,Not P60,CC(=O)N1CC(O)CC1C(=O)O,train
+410,0,Not P61,CN1CCC(O)CC1,train
+411,0,Not P62,CN,train
+412,0,Not P63,Nc1c2c(ncn1)n(C1C(O)C(O)C(COP(=O)(O)OP(=O)([O-])OCC3C(O)C(O)C([n+]4cccc(C(=O)N)c4)O3)O1)cn2,train
+413,0,Not P64,COc1cccc(c1)C(=O)C,train
+414,0,Not P65,c1(O)c(O)c(N(=O)=O)cc(C=O)c1,train
+415,0,Not P66,CC(C)OC(=O)Oc1c(cccc1)C(=O)OOC(=O)c1ccccc1,train
+416,0,Not P67,CCCCCCCO,train
+417,0,Not P68,CC/C=C\CCOC(=O)c1ccccc1,train
+418,0,Not P69,OC=O,train
+419,0,Not P70,CCCO,train
+420,0,Not P71,OC(=O)CCCCCCCC(=O)O,train
+421,0,Not P72,CC(CCCC(C)(C)OC(=O)C)C=C,test
+422,0,Not P73,Cn1sccc1=O,train
+423,0,Not P74,COC(=O)CC(=O)OC,train
+424,0,Not P75,CCN(CC)CCO,train
+425,0,Not P76,CCC1(COCOC1)CO,train
+426,0,Not P77,C(=O)c1ccc(OC(=O)C(C)C)c(OC)c1,train
+427,0,Not P78,CCC(C)(C)c1ccccc1O,train
+428,0,Not P79,CC(=O)N(CCN(C(=O)C)C(=O)C)C(=O)C,train
+429,0,Not P80,O=C1CCCC1,train
+430,0,Not P81,COc1ccc(N)cc1,train
+431,0,Not P82,NCCc1ccccc1,train
+432,0,Not P83,CCCCCCCCCCCC(=O)OCC(C)O,train
+433,0,Not P84,CCC(C)N,train
+434,0,Not P85,CCN(CC)CC(C)O,train
+435,0,Not P86,CCOCCC(=O)OCC,test
+436,0,Not P87,CCCCCCCCC=CCCCCCCCCN(CCO)CCO,train
+437,0,Not P88,OC(CC(=O)O)C(=O)O,train
+438,0,Not P89,COc1cc(C=CC)ccc1O,train
+439,0,Not P90,CC1(OCCO1)[C@@]1(O)CC[C@H]2[C@@H]3C=CC4=CC(=O)C=C[C@]4(C)[C@H]3CC[C@]12C,train
+440,0,Not P91,C1CNC(=N1)c1ccccc1,train
+441,0,Not P92,C(=O)(O)CCCCCNc1nc(NCCCCCC(=O)O)nc(NCCCCCC(=O)O)n1,train
+442,0,Not P93,C(=O)(CCCCCCCC=CCCCCCCCC)OCC(O)COCC(O)CO,train
+443,0,Not P94,CCO[Si](C)(N(C)C(=O)c1ccccc1)N(C)C(=O)c1ccccc1,train
+444,0,Not P95,CC/C=C/CCOC(=O)OC,train
+445,0,Not P96,CCC(O)CO,train
+446,0,Not P97,CCCCCCN,test
+447,0,Not P98,OC(=O)CCCCCCCCCCCCCCCCC(=O)O,train
+448,0,Not P99,CCCCOP(=O)(O)O,train
+449,0,Not P100,CC(CCO)CC(C)(C)C,train
+450,0,Not P101,CCO[Si](OCC)(OCC)OCC,train
+451,0,Not P102,CCCCCCOCCCCCC,train
+452,0,Not P103,C(C)(C)(C1OCC2(COC(C(C)(C)CO)OC2)CO1)CO,train
+453,0,Not P104,CC1=CC[C@@H]2[C@H](C1)C2(C)C,train
+454,0,Not P105,CC1=CCC2C(C1)C2(C)C,train
+455,0,Not P106,O=C1C=CC(=O)N1C1CCCCC1,train
+456,0,Not P107,CC(C)(O)C1CCC(C)(O1)C=C,train
+457,0,Not P108,ClCC1CO1,train
+458,0,Not P109,CC(C)C(=O)c1ccccc1,test
+459,0,Not P110,CCC(C)Cl,train
+460,0,Not P111,CC(c1ccccc1)c1ccccc1,train
+461,0,Not P112,CCC(C)O,train
+462,0,Not P113,NCCCC(=O)O,train
+463,0,Not P114,N#CCCCCC#N,train
+464,0,Not P115,Oc1ccc(N(=O)=O)cc1,train
+465,0,Not P116,CCCCOC(=O)CC,train
+466,0,Not P117,CC(C)CCCCCO,test
+467,0,Not P118,CC(=O)/C=C/c1ccccc1,train
+468,0,Not P119,OC1CCC(=O)CC1,train
+469,0,Not P120,CCCCCCCCCCCCCCCC(=O)OCCO,train
+470,0,Not P121,OCCc1ccccn1,train
+471,0,Not P122,OCOCCOCO,train
+472,0,Not P123,CCCCOC(=O)CCC(C)(OOC(C)(C)C)OOC(C)(C)C,train
+473,0,Not P124,CN(C)CCCNCCCN(C)C,train
+474,0,Not P125,CCC(=O)OCC=C(C)CCC=C(C)C,train
+475,0,Not P126,O=C(OCCCOCCCOC(=O)c1ccccc1)c1ccccc1,train
+476,0,Not P127,COCCOCCOCCOB(OCCOCCOCCOC)OCCOCCOCCOC,train
+477,0,Not P128,CC(=C(C)O)C,train
+478,0,Not P129,COP(=O)(O)O,train
+479,0,Not P130,ClC(Cl)c1ccccc1,train
+480,0,Not P131,CCCCCC(=O)C,train
+481,0,Not P132,c1cc(ccc1N)N,train
+482,0,Not P133,CCOc1cc(C=O)ccc1O,train
+483,0,Not P134,CC(C)(N)CO,train
+484,0,Not P135,CC(C)(C)[C@H]1CC[C@H](O)CC1,train
+485,0,Not P136,CC(C)(C)C1CCC(CC1)O,train
+486,0,Not P137,COC(=O)/C=C/c1ccccc1,train
+487,0,Not P138,OC1C(O)C(O)C(O)C(O)C1O,test
+488,0,Not P139,ClCCCC(=O)Cl,test
+489,0,Not P140,CC(=O)Oc1ccc(C)cc1,train
+490,0,Not P141,CC(=CCCC(C)(C=C)O)C,train
+491,0,Not P142,CC(=C)C(=O)O,train
+492,0,Not P143,CC(=C)C(=O)OCCOc1ccccc1,train
+493,0,Not P144,CC1=C(C(=O)CC1)O,train
+494,0,Not P145,Cc1cc(C)c(N)c(c1)S(=O)(=O)O,train
+495,0,Not P146,Cc1cc(O)ccc1Cl,train
+496,0,Not P147,SCCC(=O)OCCn1c(=O)n(CCOC(=O)CCS)c(=O)n(CCOC(=O)CCS)c1=O,train
+497,0,Not P148,ON1C(=O)c2ccccc2C1=O,train
+498,0,Not P149,Cc1ccc(cc1)OC,train
+499,0,Not P150,OC(=O)c1ccc(C(=O)O)o1,test
+500,0,Not P151,N#Cc1ccccc1O,train
+501,0,Not P152,O=C1C2CC=CCC2C(=O)N1,train
+502,0,Not P153,CC1CCC(=C(C)C)C=C1,train
+503,0,Not P154,O=C(C)Oc1ccc(cc1)C#N,test
+504,0,Not P155,CCCCCCCCCCCCCCCC(=O)OCCCCCC(C)C,train
+505,0,Not P156,NC(CC(=O)O)C(=O)O,train
+506,0,Not P157,C(CO)NC(=O)N,train
+507,0,Not P158,CSCCC=O,train
+508,0,Not P159,CC(=O)CCCCCl,test
+509,0,Not P160,CC(C)OC(=O)c1ccc(O)cc1,train
+510,0,Not P161,C(=O)(C=C)NCC(OC)OC,train
+511,0,Not P162,CCCCCCCCCl,train
+512,0,Not P163,CCCCOCCOCCOCCO,train
+513,0,Not P164,OC1C(O)C(O)C(CO)OC1OCC1OC(OCCCCCCCCCC)C(O)C(O)C1O,train
+514,0,Not P165,Oc1ccc(cc1)C(=O)OC1COC2C(COC12)OC(=O)c1ccc(O)cc1,train
+515,0,Not P166,CC(=C)CCO,test
+516,0,Not P167,CCO[Si](C)(OCC)OCC,train
+517,0,Not P168,CCCCOC(=O)C=C,train
+518,0,Not P169,NCCC(=O)NC(Cc1c[nH]cn1)C(=O)O,train
+519,0,Not P170,CC(=CCCC(=CCCC(=CCO)C)C)C,train
+520,0,Not P171,CC(C)(C)C,train
+521,0,Not P172,COC(CCl)OC,train
+522,0,Not P173,COC(=O)Cc1ccccc1,train
+523,0,Not P174,CC(=O)C,train
+524,0,Not P175,O=Cc1ccccn1,train
+525,0,Not P176,CCCCCON=O,train
+526,0,Not P177,ClS(=O)(=O)c1ccccc1,train
+527,0,Not P178,CC1(C)C[C@H](O)C[C@@H](C)C1=O,train
+528,0,Not P179,CC(C)(O)C(=O)OCC=C,train
+529,0,Not P180,Cc1ccccc1C,test
+530,0,Not P181,COC(C)COC(C)CO,train
+531,0,Not P182,CN(C)CC(O)C(O)C(O)C(O)CO,train
+532,0,Not P183,CCCCOCC(C)OCC(C)O,train
+533,0,Not P184,CN(CC(=O)[O-])C(=[NH2+])N,train
+534,0,Not P185,COc1ccc(cc1N(=O)=O)N(=O)=O,train
+535,0,Not P186,Oc1ccc(cc1)CCC(=O)c1c(O)cc(cc1O)O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O[C@@H]1O[C@@H](C)[C@H](O)[C@@H](O)[C@H]1O,train
+536,0,Not P187,OC(=O)CS,train
+537,0,Not P188,CCCCCC=CCCC=O,test
+538,0,Not P189,OC(=O)CCCCCCCCC(=O)O,train
+539,0,Not P190,CC(=O)C=C(C)O[Zn]OC(=CC(=O)C)C,train
+540,0,Not P191,OC(=O)c1cc(C(=O)O)c(C(=O)O)cc1C(=O)O,train
+541,0,Not P192,C(=O)(CCCCCC(C)C)NCC(CCCC)CC,train
+542,0,Not P193,CC1CC(NC(=O)N1)NC(=O)N,train
+543,0,Not P194,CC1CCOC(C1)C=C(C)C,train
+544,0,Not P195,C1(CO)(OC2C(O)C(O)C(O)C(CO)O2)C(O)C(O)C(CO)O1,train
+545,0,Not P196,CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C,train
+546,0,Not P197,COCCOCCOC(=O)C(=C)C,test
+547,0,Not P198,CCN(C)C,train
+548,0,Not P199,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,train
+549,0,Not P200,CC(=C)C(=O)OCCN1CCOC21CCCCC2,train
+550,0,Not P201,CC(=C)C(=O)OC(=O)C(=C)C,train
+551,0,Not P202,CC(=O)OC(C)(C)CCCC(=C)C=C,train
+552,0,Not P203,CN1CC(=O)NC1=N,train
+553,0,Not P204,NC(=O)c1cccnc1,train
+554,0,Not P205,CC1OC(OC2C(O)C(O)C(CO)OC2Oc2cc(O)c3C(=O)CC(Oc3c2)c2ccc(O)cc2)C(O)C(O)C1O,train
+555,0,Not P206,CCC(=CCCC(=CC#N)C)C,train
+556,0,Not P207,CCOC(C)OCC,train
+557,0,Not P208,[NH3+]CC(=O)[O-],test
+558,0,Not P209,CC(C)CCC(C)Nc1ccccc1NC(C)CCC(C)C,train
+559,0,Not P210,CCCCCOC=O,train
+560,0,Not P211,CCC(C)C(=O)OC(C)C,train
+561,0,Not P212,CCCCN(C)C,train
+562,0,Not P213,CCCCOCCOC(=O)C(=C)C,train
+563,0,Not P214,O=C(CCCCC(=O)OCC1CCC2OC2C1)OCC1CCC2OC2C1,train
+564,0,Not P215,C(=O)(C)O[Si](CCC)(OC(=O)C)OC(=O)C,train
+565,0,Not P216,OC(=O)CCS,train
+566,0,Not P217,CC(C)C1CCC(O)CC1,train
+567,0,Not P218,CCCCOC(=O)C,test
+568,0,Not P219,CCCCOCCOCCOCOCCOCCOCCCC,train
+569,0,Not P220,O=C(OCCCCCCCCCCCC)c1ccccc1,train
+570,0,Not P221,OCC#CCO,train
+571,0,Not P222,C(=O)(O)c1c(NC(=O)CCc2ccc(O)cc2)cccc1,train
+572,0,Not P223,CC(=O)N,train
+573,0,Not P224,CCC(C)(CCCC(C)C)O,train
+574,0,Not P225,C(=O)(O)CSSCC(=O)O,train
+575,0,Not P226,CCCCCCCCCCCCCCCN(=O)(C)C,train
+576,0,Not P227,CCCCC(CC)COC(=O)OOOC(C)(C)C,test
+577,0,Not P228,CCCCCCCCC(=O)N(C)C,train
+578,0,Not P229,OC(=O)CN(CCCN(CC(=O)O)CC(=O)O)CC(=O)O,train
+579,0,Not P230,CC(=C)C(=O)NCO,train
+580,0,Not P231,CCCCOC(=O)c1ccccc1C(=O)OCCCC,train
+581,0,Not P232,CCOC(=O)CC(CC(=O)OCC)(C(=O)OCC)O,train
+582,0,Not P233,CC(C)(C)C(=O)OCCc1ccccc1,train
+583,0,Not P234,C1CCC(CC1)OC(=O)c1ccccc1,train
+584,0,Not P235,COC(=O)CCCCCCCC(=O)OC,train
+585,0,Not P236,C[C@]12CC[C@H](C1(C)C)CC2=O,train
+586,0,Not P237,CC1(C)C2CCC1(C)C(=O)C2,test
+587,0,Not P238,CC1(C)C2CCC1(C)C(O)C2,train
+588,0,Not P239,CCCC(=O)NC(C)C(=O)O,train
+589,0,Not P240,COCCOC(=C(OCCOC)OCCOC)[SiH3],test
+590,0,Not P241,O=CCc1ccccc1,train
+591,0,Not P242,CCCCC(=O)OC(=O)CCCC,train
+592,0,Not P243,Oc1cc(=O)nc[nH]1,train
+593,0,Not P244,O=C1c2ccccc2C(=O)N1C[C@H]1CO1,train
+594,0,Not P245,CCCCCCOC(=O)c1ccccc1O,train
+595,0,Not P246,CCOC(=O)Cc1ccccc1,train
+596,0,Not P247,CC/C=C/CCCCCCCC(=O)OC,train
+597,0,Not P248,CC(=O)S,train
+598,0,Not P249,CCCCCCCCCCCC[N+](C)(C)CC(=O)[O-],train
+599,0,Not P250,CCOC(=O)CC(C(=O)C)C(=O)OCC,train
+600,0,Not P251,CC(CC(=O)O)CC(C)(C)C(=O)O,train
+601,0,Not P252,CCCCCCC(O)CC=CCCCCCCCC(=O)NCCCN(C)C,train
+602,0,Not P253,OC(=O)CCCCCCCCCCCC(=O)O,train
+603,0,Not P254,CC(C)CCCCCOC(=O)C=C,train
+604,0,Not P255,CCCCC(CC)CCCCCC(C)CCCC(=O)O,train
+605,0,Not P256,CC(=O)CC(=O)Nc1ccccc1,train
+606,0,Not P257,CCC(O)c1ccccc1,train
+607,0,Not P258,C1(C(C)C)N(CCO)CCO1,test
+608,0,Not P259,NCCc1ccc(O)cc1,train
+609,0,Not P260,CC(CC)CC(C)CC,test
+610,0,Not P261,CC(CCOC=O)CCC=C(C)C,train
+611,0,Not P262,CC(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O,test
+612,0,Not P263,CC(O)CC(C)CCc1ccccc1,train
+613,0,Not P264,CCC(=O)OC1CC2CCC1(C)C2(C)C,train
+614,0,Not P265,CC(C)C1CCC(=CC1)C,train
+615,0,Not P266,C1OC1CN(CC1CO1)c1ccc(Cc2ccc(cc2)N(CC2CO2)CC2CO2)cc1,train
+616,0,Not P267,CC(=C)C(=O)OCC=C,train
+617,0,Not P268,CCCCCCCCC(=O)O,train
+618,0,Not P269,CCC=CCCC=CC=C,train
+619,0,Not P270,CCCCC(CC)COC(=O)C(C)O,train
+620,0,Not P271,OC(=O)CCC(N1C(=O)c2ccccc2C1=O)C(=O)O,train
+621,0,Not P272,CCCOCC(C)O,train
+622,0,Not P273,Oc1ccc(S(=O)(=O)O)cc1,train
+623,0,Not P274,CCCC(=O)O,train
+624,0,Not P275,OC(C(O)C(=O)O)C(=O)O,train
+625,0,Not P276,CC(C)OC(=O)c1ccccc1,train
+626,0,Not P277,CN(C)CC(=O)O,train
+627,0,Not P278,CSCCC(N)C(=O)O,train
+628,0,Not P279,CCOC(=O)C1CCC(C)CC1=O,train
+629,0,Not P280,CC(C)CCC(=O)C,train
+630,0,Not P281,CC(=C)C(=O)OCCN1CCOC1,train
+631,0,Not P282,CCCCC(CO)O,train
+632,0,Not P283,C=CC(=O)OCCCCCCOC(=O)C=C,train
+633,0,Not P284,CCOC=C,train
+634,0,Not P285,Oc1ccc(C(=O)O)cc1,train
+635,0,Not P286,CCOC(=O)CC,train
+636,0,Not P287,CCCCCCC=CC1CC(=O)OC1=O,test
+637,0,Not P288,C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@]34C)[C@@H]1CCC2=O,train
+638,0,Not P289,CCCOC(=O)/C(=C/Oc1ccccc1)/O,train
+639,0,Not P290,OCCCCCCCCCCO,train
+640,0,Not P291,CC(CCO)CCCC(C)(C)O,train
+641,0,Not P292,C1=CC(=O)OC1=O,train
+642,0,Not P293,CCOCCOCCOC(=O)C,train
+643,0,Not P294,CC(=CCCC(=CCOC=O)C)C,train
+644,0,Not P295,CC(=C)C(=O)N,train
+645,0,Not P296,CC(=CCC/C(=C/CCC(C)(O)C=C)/C)C,train
+646,0,Not P297,CCCCCC#CC(=O)OC,train
+647,0,Not P298,C=CCCCCCCCCC(=O)O,train
+648,0,Not P299,O=S1(=O)CCCO1,train
+649,0,Not P300,CNCC(=O)O,train
+650,0,Not P301,CCOCCOCCOC(=O)C=C,train
+651,0,Not P302,CC12CCC(O)CC1=CC(O)C1C2CCC2(C)C1C(O)CC2=O,train
+652,0,Not P303,CCCC1CCC(=O)OC1,test
+653,0,Not P304,Oc1ccc(C=C)cc1,train
+654,0,Not P305,CN(C)Cc1ccccc1O,train
+655,0,Not P306,CCCCCC(=O)O,test
+656,0,Not P307,CCC#N,train
+657,0,Not P308,CCO[Si](C=C)(OCC)OCC,train
+658,0,Not P309,CCCCCCCCCCOC(=O)C=C,train
+659,0,Not P310,CCCCCCC=O,train
+660,0,Not P311,CC(=O)N(C)C,train
+661,0,Not P312,CCCCCCCCOCC(O)CSCCO,train
+662,0,Not P313,Cc1ccc(C=O)cc1,train
+663,0,Not P314,NC(=[NH2+])S(=O)[O-],test
+664,0,Not P315,CCCC1CCCC(=O)O1,train
+665,0,Not P316,CC(=C)C(=O)OCC1CC[C@H]2O[C@H]2C1,train
+666,0,Not P317,CC(C)(C)c1ccc(CCC=O)cc1,train
+667,0,Not P318,CN(C)CCCN1CN(CCCN(C)C)CN(CCCN(C)C)C1,train
+668,0,Not P319,CC(Cl)C(=O)O,train
+669,0,Not P320,CC(C)CC1CC(C)(CCO1)OC(=O)C,train
+670,0,Not P321,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC2(O)C#CCO,train
+671,0,Not P322,CC(C)CCCCCCC(=O)OS,test
+672,0,Not P323,CCCCCCCCC(=O)N(C)CC(O)C(O)C(O)C(O)CO,train
+673,0,Not P324,CC(=C)C(=O)NCCCN(C)C,test
+674,0,Not P325,CC1CCCC1,train
+675,0,Not P326,OCC1OC2OC3C(CO)OC(OC4C(CO)OC(OC5C(CO)OC(OC6C(CO)OC(OC7C(CO)OC(OC8C(CO)OC(OC9C(CO)OC(OC1C(O)C2O)C(O)C9O)C(O)C8O)C(O)C7O)C(O)C6O)C(O)C5O)C(O)C4O)C(O)C3O,train
+676,0,Not P327,Nc1ccc(cc1)S(=O)(=O)Nc1ccccn1,train
+677,0,Not P328,CC1(CO1)C,train
+678,0,Not P329,CCC(=O)C(Cl)C(=O)OCC,train
+679,0,Not P330,CN(C)C,train
+680,0,Not P331,C(=O)(CCCl)OCCCCCl,train
+681,0,Not P332,Nc1ncnc2[nH]cnc12,test
+682,0,Not P333,CC1CCC2(O)C(C)(C)C3CCC2(C)C1C3,train
+683,0,Not P334,CCCCCCCC(=O)OCC(O)CO,train
+684,0,Not P335,Oc1cccc(O)c1,train
+685,0,Not P336,CCCCCCCCCC(=O)O,test
+686,0,Not P337,NCCOCCO,train
+687,0,Not P338,Cc1nccn1C,train
+688,0,Not P339,CC(C)(C)OOC(=O)c1ccccc1,train
+689,0,Not P340,O=C1CCCCCCCCCCC(=O)OCCO1,train
+690,0,Not P341,CCCCCCCCCOC(=O)C,train
+691,0,Not P342,CC(C)COC(=O)C,train
+692,0,Not P343,CCOC(OCC)OCC,train
+693,0,Not P344,CC(O)C#C,train
+694,0,Not P345,Cc1ccc(cc1)S(=O)(=O)NCCCCCC(=O)O,train
+695,0,Not P346,C1CNCCN1,train
+696,0,Not P347,CC(=CCC/C(=C/CO)/C)C,test
+697,0,Not P348,CC(=CCC/C(=C\CO)/C)C,train
+698,0,Not P349,CCOC(=O)CCC(=O)C,train
+699,0,Not P350,CCOC(=O)C=CC(C)C,train
+700,0,Not P351,Cc1ccc(cc1)C(=O)C,train
+701,0,Not P352,CCCCCCOC(=O)CC,train
+702,0,Not P353,CCOC(=O)C1OC1c1ccccc1,train
+703,0,Not P354,CC1CO1,train
+704,0,Not P355,CCCCC(CC)COC(=O)C=C,test
+705,0,Not P356,Cc1cccc(c1)C(=O)O,train
+706,0,Not P357,CCOC(=O)C1CCCO1,train
+707,0,Not P358,CC1=CC[C@H]2C[C@@H]1C2(C)C,train
+708,0,Not P359,CN(C1CCCCC1)C1CCCCC1,train
+709,0,Not P360,OCCN(CCO)CCO,train
+710,0,Not P361,O=CC1CCOC1,train
+711,0,Not P362,CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]1[C@H]2CCC2=CC(=O)CC[C@H]12)C)O,train
+712,0,Not P363,[NH3+]CCCCCCCCCCC(=O)[O-],train
+713,0,Not P364,CC(C)CCCC(=CCCC=O)C,train
+714,0,Not P365,CC1(C)COCN1,train
+715,0,Not P366,CCCCCCCCCCCCCCCCCCO[Si](C)(C)C,train
+716,0,Not P367,COCC(C)OCC(C)OC(C)CO,train
+717,0,Not P368,CCC1OC(=C(O)C1=O)C,test
+718,0,Not P369,CCCCOC(=O)C1CCC(O)CC1,train
+719,0,Not P370,Cc1ccc(C)cc1C,train
+720,0,Not P371,CC12CCC3C(C4CC4C4(O)CC(O)CCC34C)C1C1CC1C2=O,train
+721,0,Not P372,CC(C)CC(=O)O,train
+722,0,Not P373,CC(O)COC(=O)C=C,train
+723,0,Not P374,CC(=O)OCC(C)(C)C=O,train
+724,0,Not P375,CCOC(=O)c1ccccc1O,train
+725,0,Not P376,CC(=C)C#N,train
+726,0,Not P377,CCCCCCCCCCCC(=O)NCCCC[C@H](N)C(=O)O,train
+727,0,Not P378,CCCCCCCCC=O,train
+728,0,Not P379,CCCCC(CC)C(=O)OCCOCCOCCOCCOC(=O)C(CC)CCCC,train
+729,0,Not P380,CCCCCCOCCOCCO,train
+730,0,Not P381,COc1ccc(cc1O)c1oc2cc(OC3OC(COC4OC(C)C(O)C(O)C4O)C(O)C(O)C3O)cc(O)c2c(=O)c1,train
+731,0,Not P382,SCCC(=O)OCCOC(=O)CCS,train
+732,0,Not P383,CC1CNC(=O)O1,train
+733,0,Not P384,CCCCCCCCCCCCCCCCCCOCCCCCCCCCCCCCCCCCC,train
+734,0,Not P385,C(=O)(C)OCCOC(C)C,train
+735,0,Not P386,C=CC(=O)OCCOCCOCCOCCOC(=O)C=C,train
+736,0,Not P387,ClS(=O)(=O)CCN1C(=O)c2ccccc2C1=O,train
+737,0,Not P388,CCC(C)C(=O)OCC,train
+738,0,Not P389,NCCCCCCNC(=O)O,train
+739,0,Not P390,C[Si](NC1CCCCC1)(NC1CCCCC1)NC1CCCCC1,train
+740,0,Not P391,OC1CC[NH2+]CC1,train
+741,0,Not P392,COC(C)(OC)OC,train
+742,0,Not P393,OCC1OC(OC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O,test
+743,0,Not P394,CC(=C)OC(=O)C,train
+744,0,Not P395,COCCOC(=O)C=C,train
+745,0,Not P396,OC[C@H]1O[C@@H]2O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]1[C@H](O)[C@H]2O,train
+746,0,Not P397,CCCCCCCCCCCC=O,test
+747,0,Not P398,COc1ccc(COC(=O)C)cc1,train
+748,0,Not P399,CC(C)c1ccc(C)cc1,train
+749,0,Not P400,CCC(C)(O)C=C,train
+750,0,Not P401,CCCCC=O,train
+751,0,Not P402,CC(C)CCCC(C)(C)O,test
+752,0,Not P403,OC(=O)C=O,test
+753,0,Not P404,CS(=O)(=O)C,train
+754,0,Not P405,CC(=CCC/C(=C/COC(=O)C)/C)C,train
+755,0,Not P406,CC(=O)OCC=C(C)CCC=C(C)C,train
+756,0,Not P407,O=C(N[C@@H](CCC(=O)N)C(=O)O)[C@H](C)N,train
+757,0,Not P408,CC1=CC(=O)CC(C1)(C)C,train
+758,0,Not P409,CCCCCCCCCCCCOC(=O)C1CCC(=O)N1,train
+759,0,Not P410,OC(=O)COCCOCCOCC(=O)O,train
+760,0,Not P411,COc1ccc(cc1)c1coc2cc(O)ccc2c1=O,train
+761,0,Not P412,C1CN(SSN2CCOCC2)CCO1,train
+762,0,Not P413,CC(=CCCC(=CC#N)C)C,test
+763,0,Not P414,C(=O)/C(=C/c1ccccc1)/CCCCC,train
+764,0,Not P415,CCCCCC(=Cc1ccccc1)C=O,train
+765,0,Not P416,ClCC(=O)OCCOCCOC(=O)CCl,train
+766,0,Not P417,CCC(C)(C)C,train
+767,0,Not P418,O=C1CC(=O)NC(=O)N1,train
+768,0,Not P419,CC(=CCCC(=CCCC(=O)C)C)C,train
+769,0,Not P420,S=C(SN1CCOCC1)N1CCOCC1,train
+770,0,Not P421,COC1OC(CO)C(O)C(O)C1O,test
+771,0,Not P422,CCNCC,test
+772,0,Not P423,CCCCCCC=C=O,train
+773,0,Not P424,OC1CCCCC1,test
+774,0,Not P425,CCCCN,train
+775,0,Not P426,CCCCCCCC1=CCC(=O)O1,train
+776,0,Not P427,CC(C)CCC(C)CC,train
+777,0,Not P428,CC(C)COP(=O)(OCC(C)C)OCC(C)C,train
+778,0,Not P429,CCC(CC)CCCCCCCCCO,train
+779,0,Not P430,Nc1ccccc1NC(=O)c1ccc(CNc2nccc(n2)c2cnccc2)cc1,train
+780,0,Not P431,C=CC(=O)N,train
+781,0,Not P432,CC(C)O[Al]=O,train
+782,0,Not P433,CC(=O)NCl,train
+783,0,Not P434,C(C)(C)(CC)OOC(=O)OCC(CCCC)CC,train
+784,0,Not P435,CCN1CCCCC1,test
+785,0,Not P436,O=S(Cc1ccccc1)Cc1ccccc1,test
+786,0,Not P437,C(=O)(CC#N)OCC(COC(=O)CC#N)(COC(=O)CC#N)COC(=O)CC#N,train
+787,0,Not P438,OCCN1CN(CCO)CN(CCO)C1,train
+788,0,Not P439,CCCCOC(=O)c1ccccc1N,train
+789,0,Not P440,O=Cc1ccccc1,train
+790,0,Not P441,CCC(=O)OCCc1ccccc1,train
+791,0,Not P442,CC(C)CC(=O)OCc1ccccc1,train
+792,0,Not P443,CC(=O)OC(=C)c1ccccc1,train
+793,0,Not P444,C(=O)(C(CC(=O)O)S(=O)(=O)O)OCCCCCCCCCCCCCC,train
+794,0,Not P445,CC(=C)C(=O)OCCOCCOCCOC(=O)C(=C)C,train
+795,0,Not P446,CCc1ccc(O)cc1,train
+796,0,Not P447,CC(O)CN,train
+797,0,Not P448,CC1C(=O)CCC1=O,train
+798,0,Not P449,C(=O)(c1cc(C(=O)N2C(=O)CCCCC2)ccc1)N1C(=O)CCCCC1,train
+799,0,Not P450,O=Cc1occc1,train
+800,0,Not P451,c1ccc2[nH]cnc2c1,train
+801,0,Not P452,NCCO,train
+802,0,Not P453,N#CCCC#N,train
+803,0,Not P454,CC1(C)C2CCC(C)(C2)C1O,train
+804,0,Not P455,C(=C\C)/C,train
+805,0,Not P456,CC(=C)C(=O)O[C@@H]1C[C@H]2CC[C@@]1(C2(C)C)C,train
+806,0,Not P457,C1CO1,train
+807,0,Not P458,CC(COc1ccccc1)O,train
+808,0,Not P459,NNC(=O)CCCCC(=O)NN,train
+809,0,Not P460,CCCCCCOC,train
+810,0,Not P461,O=C1N([C@H]2CCC(=O)OC2=O)C(=O)c2c1cccc2,train
+811,0,Not P462,C=CCCC(=O)Oc1ccccc1,train
+812,0,Not P463,COc1ccc(CN)cc1,test
+813,0,Not P464,COC(=O)OC,train
+814,0,Not P465,CCOC(=O)/C=C\C(=O)OCC,train
+815,0,Not P466,Nc1ccn(C2OC(COP(=O)(O)O)C(O)C2O)c(=O)n1,train
+816,0,Not P467,OCCCNCCO,train
+817,0,Not P468,CCCCC(CC)C(=O)OOC(C)(C)CC,train
+818,0,Not P469,CC(=O)OCCCNC(=O)C(OC(=O)C)C(C)(C)COC(=O)C,train
+819,0,Not P470,CCCCCCC1CCC(=O)O1,train
+820,0,Not P471,CC1=CCC(CC1)C(C)(C)OC(=O)C,train
+821,0,Not P472,CC(=CCC=C(C)C=C)C,train
+822,0,Not P473,CC(C)(c1ccc(cc1)O)c1ccc(cc1)O,train
+823,0,Not P474,CC(C)c1ccc(O)cc1C,train
+824,0,Not P475,O=COCCOC=O,train
+825,0,Not P476,CC=O,train
+826,0,Not P477,CCCCCC1=CCCC1=O,train
+827,0,Not P478,CCCCCC=CC,train
+828,0,Not P479,C(C)(O)C(=O)OCCC,train
+829,0,Not P480,CCOC(=O)C(C)Oc1ccc(O)cc1,train
+830,0,Not P481,CCCCN(CCCC)CCCC,train
+831,0,Not P482,CC12CCC3C(C)(C)CCCC3(C)C1CC(=O)O2,train
+832,0,Not P483,CCOc1ccc(cc1)N,train
+833,0,Not P484,OP(=O)(O)OC1C(OP(=O)(O)O)C(OP(=O)(O)O)C(OP(=O)(O)O)C(OP(=O)(O)O)C1OP(=O)(O)O,train
+834,0,Not P485,CCCCCCCCCCCCCCCCCCCN,train
+835,0,Not P486,CC(CCO)CC1=CCCCC1,train
+836,0,Not P487,CCOC(=O)C(C)(C)Br,train
+837,0,Not P488,CCCCCCCCN,train
+838,0,Not P489,OCC1OC(Oc2cc(O)cc(O)c2C(=O)CCc2ccc(O)cc2)C(O)C(O)C1O,train
+839,0,Not P490,CCCCC1CCC(=O)O1,train
+840,0,Not P491,CCCCCCC1C(CCC1=O)C(=O)OC,train
+841,0,Not P492,CCCCC(CC)COC(=O)C=CC(=O)O,train
+842,0,Not P493,Cc1cn([C@H]2C[C@H](O)[C@@H](CO)O2)c(=O)[nH]c1=O,train
+843,0,Not P494,CC(CCOC(=O)C=C)CCOC(=O)C=C,train
+844,0,Not P495,CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1,train
+845,0,Not P496,CCC=CC#N,train
+846,0,Not P497,CCCCOC(=O)CCC(=O)C,train
+847,0,Not P498,C(=O)(C)O[Si](C)(OC(=O)C)OC(C)C,train
+848,0,Not P499,Oc1ccccc1,train
+849,0,Not P500,CC(C)(C)OC(=O)C=C,train
+850,0,Not P501,CC(C)C1=CC2=CCC3C(C)(CCCC3(C2CC1)C)C(=O)O[Na],train
+851,0,Not P502,Cc1cnccc1,train
+852,0,Not P503,COc1ccc(CCC(=O)c2c(O)cc(OC3OC(CO)C(O)C(O)C3OC3OC(C)C(O)C(O)C3O)cc2O)cc1O,train
+853,0,Not P504,NCCCNC1CCCCC1,train
+854,0,Not P505,CC(C)CCCC(C)(O)C=C,train
+855,0,Not P506,CN(C)CCCN,train
+856,0,Not P507,COc1cc(/C=C/C)ccc1OC(=O)C,train
+857,0,Not P508,CC(=CCCC=O)CCCC(C)(C)O,train
+858,0,Not P509,CCC(=CCCC(C)(OC(=O)C)C=C)C,train
+859,0,Not P510,Cc1cc(ccc1)C,train
+860,0,Not P511,Cc1ccc(cc1)O,train
+861,0,Not P512,Nc1ccc(N=Nc2ccccc2)c(N)c1,train
+862,0,Not P513,ClCC=Cc1ccccc1,train
+863,0,Not P514,OC(C(=O)O)c1ccccc1,train
+864,0,Not P515,COC(=O)C1CCCO1,train
+865,0,Not P516,C(=O)(O)c1c(O)ccc(C(=O)CCCCCCC)c1,train
+866,0,Not P517,CCCCCCCCCCCC(=O)NCCC[N+](C)(C)CC(O)CS(=O)(=O)[O-],train
+867,0,Not P518,CC12CCC3C(C=CC4(O)CC(O)CCC34C)C1C1CC1C2=O,train
+868,0,Not P519,Cc1cc(O)c(Cl)c(C)c1Cl,train
+869,0,Not P520,CCOC(=O)CC(=O)OCC,test
+870,0,Not P521,C(=O)(C(CCCC)OOCC)OC(C)(C)CC(C)(C)C,train
+871,0,Not P522,CC(=O)Oc1ccc(C=C)cc1,train
+872,0,Not P523,CCCCCC=O,train
+873,0,Not P524,CC(OC(=O)C)C1CCCCC1,train
+874,0,Not P525,CCC1CCC(=O)O1,test
+875,0,Not P526,O=C1CCCCCN1,train
+876,0,Not P527,CCCCOC(=O)/C=C\C(=O)OCCCC,train
+877,0,Not P528,O=C(OC)OCC,train
+878,0,Not P529,CCC(N)CO,train
+879,0,Not P530,CO[Si](CC[Si](OC)(OC)OC)(OC)OC,train
+880,0,Not P531,CC(C)C(C(C)(C)CO)O,train
+881,0,Not P532,C=CCCC(=O)Cl,train
+882,0,Not P533,CC(=O)c1ccccc1O,train
+883,0,Not P534,OC(=O)CCCC(=O)O,train
+884,0,Not P535,N#Cc1ccccc1,train
+885,0,Not P536,CC(C)C1CCC(C)CC1OC(=O)OCCO,train
+886,0,Not P537,OCC1COC(=O)O1,train
+887,0,Not P538,CC(O)CN(CC(C)O)c1ccc(C)cc1,train
+888,0,Not P539,O=C1CCCCC1,train
+889,0,Not P540,CC(=O)CCC1C(=CCCC1(C)C)C,train
+890,0,Not P541,C(=O)([O-])CCC[N+](C)(C)C,train
+891,0,Not P542,C=CCOC(=O)OCCOCCOC(=O)OCC=C,train
+892,0,Not P543,O=C1CCCCCCCCCCCN1,train
+893,0,Not P544,CCOC(=O)C=C,train
+894,0,Not P545,CCCCCCCCCCCCCCCCCCCCCCN(C)CCCCCCCCCCCCCCCCCCC,train
+895,0,Not P546,C[C@@H]1OC(=O)[C@H](C)OC1=O,train
+896,0,Not P547,CC1OC(=O)C(C)OC1=O,test
+897,0,Not P548,CC(C)N,train
+898,0,Not P549,CC(C)C(=O)OC(C)CC(=C)C,train
+899,0,Not P550,Cc1cc(ccc1)N,train
+900,0,Not P551,CCC=C(C)C(=O)O,train
+901,0,Not P552,COc1cc(cc(OC)c1O)C#N,train
+902,0,Not P553,CC(=O)OC(c1ccccc1)C(Cl)(Cl)Cl,train
+903,0,Not P554,CC(=O)CC(=O)OC(C)(C)C,train
+904,0,Not P555,C(O)COCCOCCOCCOCCO,train
+905,0,Not P556,COCCOCCOCCO,train
+906,0,Not P557,CC(C)OC(=O)[C@H](C)OC(=O)C(C)(C)C,train
+907,0,Not P558,CC(C)OC(=O)C,test
+908,0,Not P559,CCCCCCCCC(CCCCCC)C(=O)O,train
+909,0,Not P560,CC(O)C1CCCCC1,train
+910,0,Not P561,CCCCCCCCC=CCCCCCCCCN(OCCO)OCCO,train
+911,0,Not P562,OCCCCCCCl,train
+912,0,Not P563,CCOCC(C)O,train
+913,0,Not P564,C=CCC=CCC=CCCCCCCCc1cccc(O)c1,train
+914,0,Not P565,CC(=O)CCC(=O)O,train
+915,0,Not P566,Cc1ccc(S(=O)(=O)O)cc1,train
+916,0,Not P567,CC(CCC=C(C)C)CCOC(=O)C,train
+917,0,Not P568,C(CSSCCC[Si]12OCCN(CCO1)CCO2)C[Si]12OCCN(CCO1)CCO2,train
+918,0,Not P569,NCCCOC=C,train
+919,0,Not P570,CCCCNCCCC,train
+920,0,Not P571,CCCCCCCCCCCCN,train
+921,0,Not P572,CC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2=O,train
+922,0,Not P573,CC(=O)C(=CC1C(=CCCC1(C)C)C)C,train
+923,0,Not P574,CC(=O)OCCCc1ccccc1,train
+924,0,Not P575,CCC(CO)C=C,train
+925,0,Not P576,CCOOc1ccccc1,train
+926,0,Not P577,CCC(C)(O)CCC=C(C)C,train
+927,0,Not P578,CCCCCCCC=C,train
+928,0,Not P579,CC(C)CC(=NCCN(CCN=C(C)CC(C)C)CC(O)COc1ccccc1)C,train
+929,0,Not P580,CC(C)CCCCCCc1ccc(O)cc1,train
+930,0,Not P581,CC(CCO)OC,test
+931,0,Not P582,Oc1ccc(cc1)N=O,train
+932,0,Not P583,CCCCCCC1CCCC1=O,train
+933,0,Not P584,CC(=O)OCCOC(=O)C,train
+934,0,Not P585,CCCCCCOC1OC(CO)C(O)C(O)C1O,test
+935,0,Not P586,CC(O)C(=O)O,train
+936,0,Not P587,COc1ccc(C=O)cc1O,test
+937,0,Not P588,OC(=O)/C=C\C(=O)OCCOCCOCCOC(=O)/C=C\C(=O)O,train
+938,0,Not P589,Oc1ccc2ccccc2c1,train
+939,0,Not P590,CC(=CCCC(=CC=CC(=O)C)C)C,train
+940,0,Not P591,OC1CC(=CC(O)C1O)C(=O)O,train
+941,0,Not P592,OC(=O)C(Cl)Cl,train
+942,0,Not P593,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC2(O)C#N,train
+943,0,Not P594,C[C@]12CCC(=O)C=C1CC[C@H]1[C@@H]3CC[C@](O)(C(=O)CO)[C@@]3(C)C[C@H](O)[C@H]21,train
+944,0,Not P595,C[C@H](O)CCC,test
+945,0,Not P596,OCCN(CC(=O)O)CC(=O)O,test
+946,0,Not P597,CCN(CC)CC#C,train
+947,0,Not P598,CC(=CCCC(C)(OC=O)C=C)C,train
+948,0,Not P599,CC(CN)CCCN,test
+949,0,Not P600,N#CCNc1ccccc1,test
+950,0,Not P601,CCOC(=O)C=Cc1ccccc1,test
+951,0,Not P602,CCCCCCCC(NCCCCCC(=O)O)C=O,train
+952,0,Not P603,CCCCCCCCO,train
+953,0,Not P604,CCOC(=O)c1ccc(O)c(O)c1,train
+954,0,Not P605,COc1cc(C)cc(OC)c1OC,train
+955,0,Not P606,C=CCOC(=O)C=Cc1ccccc1,test
+956,0,Not P607,ClCc1ccccc1,train
+957,0,Not P608,CC(C)OC(=O)OOC(C)(C)C,train
+958,0,Not P609,OC(=O)CBr,train
+959,0,Not P610,OC(=O)CCC(=O)O,train
+960,0,Not P611,CC(C)OCCOC(=O)c1ccccc1O,train
+961,0,Not P612,CC(=O)OO,train
+962,0,Not P613,CC(C)O,train
+963,0,Not P614,CC(=O)O[C@H]1C[C@@H]2CC[C@@]1(C)C2(C)C,train
+964,0,Not P615,C(=O)(C(C)(C)C)OCCCCCCCC(C)C,train
+965,0,Not P616,OC(=O)CC(=O)C(=O)O,train
+966,0,Not P617,CC(C)C1CCC(CO)CC1,train
+967,0,Not P618,CCCCC(CC)C(=O)OC,test
+968,0,Not P619,NCCCCN,train
+969,0,Not P620,Oc1cccc2ccccc12,train
+970,0,Not P621,Oc1ccc(cc1)C1(OC(=O)c2ccccc12)c1ccc(O)cc1,train
+971,0,Not P622,NC(CO)CO,test
+972,0,Not P623,O=C/C=C/c1ccccc1,train
+973,0,Not P624,OC(=O)c1ccc(C(=O)O)cc1,train
+974,0,Not P625,O[C@@H]1CO[C@@H]2[C@@H](O)CO[C@H]12,train
+975,0,Not P626,CN(CCCN)CCCN,train
+976,0,Not P627,C1C=CCC2C1C(=O)OC2=O,test
+977,0,Not P628,CCCCCCCCCCC=O,train
+978,0,Not P629,OC(C1CC2CCN1CC2C=C)c1ccnc2ccccc12,train
+979,0,Not P630,Cc1ccc(CO)cc1,train
+980,0,Not P631,O=C1OCCO1,train
+981,0,Not P632,CCCCCCCc1ccc(O)cc1,train
+982,0,Not P633,CN(O)CCO,train
+983,0,Not P634,C=COC(=O)c1ccccc1,train
+984,0,Not P635,CC(C)C(=O)O,train
+985,0,Not P636,CC(=O)OC(=C(OC(=O)C)OC(=O)C)[SiH3],train
+986,0,Not P637,C(=O)(C1CCC(C(=O)OCC)CC1)OCC,train
+987,0,Not P638,CCC(=CCCC(C)(O)C=C)C,train
+988,0,Not P639,CCCCCCCCCC=O,train
+989,0,Not P640,O=C(OCC1CO1)C1CC=CCC1C(=O)OCC1CO1,train
+990,0,Not P641,O=Cc1ccc(C=O)cc1,train
+991,0,Not P642,Cc1cc(c(cc1)O)C,train
+992,0,Not P643,CCCCCCCCCc1ccc(OCCO)cc1,train
+993,0,Not P644,CCCC#N,train
+994,0,Not P645,CCCCCCCCCCCCCCCC(=O)NCC(=O)O,train
+995,0,Not P646,CCCCC[C@H]1[C@@H](CC(=O)OC)CCC1=O,test
+996,0,Not P647,CCCCCC1C(CCC1=O)CC(=O)OC,train
+997,0,Not P648,C[N+](C)(C)CC(=O)[O-],train
+998,0,Not P649,CCCCCCC=C,train
+999,0,Not P650,CC(=O)c1ccccc1,train
+1000,0,Not P651,CN(C)CCN(C)C,train
+1001,0,Not P652,C(=O)(C)O[Si](CC)(OC(=O)C)OC(=O)C,train
+1002,0,Not P653,CC1CCC(C(C)C)C(C1)OC(=O)C1OC(O)CS1,train
+1003,0,Not P654,CC(=O)OC,train
+1004,0,Not P655,CCCCCCCCSCCO,train
+1005,0,Not P656,CC(=O)CC(=O)Nc1ccccc1OC,train
+1006,0,Not P657,CC(C)[C@H]([NH3+])C(=O)[O-],train
+1007,0,Not P658,CC(C)C(N)C(=O)O,train
+1008,0,Not P659,OCCN1CCCCC1,train
+1009,0,Not P660,OC(=O)c1ccccc1SSc1ccccc1C(=O)O,train
+1010,0,Not P661,O=COCC=Cc1ccccc1,train
+1011,0,Not P662,CCCCCCCCC(C)C=O,train
+1012,0,Not P663,CC(=C)C(=O)OCC1CCCO1,train
+1013,0,Not P664,COC(=O)/C=C\C(=O)OC,train
+1014,0,Not P665,COC(=O)OC1CCCC=CCC1,train
+1015,0,Not P666,CC=CC(=O)O,train
+1016,0,Not P667,COc1ccc(CCC#N)cc1OC,test
+1017,0,Not P668,NC(CO)(CO)CO,train
+1018,0,Not P669,O=CC=O,train
+1019,0,Not P670,NC(CSSCC(N)C(=O)O)C(=O)O,train
+1020,0,Not P671,CCN(CC)CCC#N,train
+1021,0,Not P672,CCO,train
+1022,0,Not P673,CN1C(C(N(C1=O)C)O)O,train
+1023,0,Not P674,O=C1OC(=O)c2ccccc12,train
+1024,0,Not P675,CCCCOC(=O)CC(C)O,train
+1025,0,Not P676,COc1ccccc1O,train
+1026,0,Not P677,NCCNCCO,train
+1027,0,Not P678,CC1(C)C2CCC(C)(C2)C1=O,test
+1028,0,Not P679,C=CCCCCCC=O,train
+1029,0,Not P680,CC(=CCC1OC1(C)C)C=C,train
+1030,0,Not P681,CCOCC(C)OC(=O)C,train
+1031,0,Not P682,CCNC,test
+1032,0,Not P683,CC1CC2C3CC=C4CC(O)CCC4(C)C3CCC2(C)C1C(=O)COC(=O)C,train
+1033,0,Not P684,N#CCN(CC#N)CC#N,train
+1034,0,Not P685,CCCCNCCO,train
+1035,0,Not P686,CCCCC(CC)COP(=O)(O)O,train
+1036,0,Not P687,O=C(OC(C)COC(C)COC(C)COC(=O)C=C)C=C,train
+1037,0,Not P688,CC1=CC(CC(=O)C1)(C)C,train
+1038,0,Not P689,CCCCCCCCCC(=O)OCC(O)CO,train
+1039,0,Not P690,Oc1ccccc1c1ccccc1,train
+1040,0,Not P691,CC(COC)OC(=O)C,train
+1041,0,Not P692,CC(O)C(=O)OCC1CCC=CC1,train
+1042,0,Not P693,Cc1ccc(cc1)S(=O)(=O)N,train
+1043,0,Not P694,CCCCCCOC(=O)C=C,train
+1044,0,Not P695,COc1ccc2nccc(C(O)C3CC4CCN3CC4C=C)c2c1,train
+1045,0,Not P696,C(=O)(CCCCCCC/C=C/CCCCCCCC)N(CCO)CCO,train
+1046,0,Not P697,Cc1ccc(cc1)C(=O)O,train
+1047,0,Not P698,CC(=O)OCC1OC(OC(=O)C)C(OC(=O)C)C(OC(=O)C)C1OC(=O)C,train
+1048,0,Not P699,CCCCO,train
+1049,0,Not P700,CCCCCOC(=O)Cc1ccccc1,train
+1050,0,Not P701,CS,train
+1051,0,Not P702,CC(=C)C(=O)OCCOCCOCCOCCOC(=O)C(=C)C,train
+1052,0,Not P703,CCCCC(CC)CN,train
+1053,0,Not P704,CCOC=C(C(=O)OCC)C(=O)OCC,train
+1054,0,Not P705,CC(Cc1ccccc1)CO,train
+1055,0,Not P706,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]1CCC2=O,train
+1056,0,Not P707,COc1cc2ccccc2cc1,train
+1057,0,Not P708,OCC(Br)(CO)N(=O)=O,train
+1058,0,Not P709,OC(=O)CC(C(=O)O)c1ccccc1,train
+1059,0,Not P710,CCCCCCCCC=CCCCCCCCC(=O)OCC,train
+1060,0,Not P711,C=C(CC(=O)O)C(=O)O,train
+1061,0,Not P712,CCO[Si](CCCNC(=O)N)(OCC)OCC,train
+1062,0,Not P713,CC(O)CNCC(C)O,train
+1063,0,Not P714,O=C(CCCCCCC/C=C\CCCCCCCCC)OC,train
+1064,0,Not P715,c1cc(ccc1C(Cl)(Cl)Cl)Cl,train
+1065,0,Not P716,Nc1ccc(NS(=O)(=O)c2ccc(N)cc2)cc1,train
+1066,0,Not P717,COC(=O)c1ccc(cc1)O,train
+1067,0,Not P718,OCCO,train
+1068,0,Not P719,CN(=O)=O,train
+1069,0,Not P720,CCOC(=O)[C@H](C)O,train
+1070,0,Not P721,CCOC(=O)C(C)O,train
+1071,0,Not P722,O=C1c2ccccc2C(=O)OCCOCCO1,train
+1072,0,Not P723,CO[Si](C)(CCCOC(=O)C(=C)C)OC,train
+1073,0,Not P724,CC(C)O[Si](OC(C)C)(OC(C)C)C=C,train
+1074,0,Not P725,CNCC(O)C(O)C(O)C(O)CO,train
+1075,0,Not P726,COc1ccc(cc1O)c1oc2cc(O)cc(O)c2c(=O)c1,train
+1076,0,Not P727,C=CCOC(=O)COC1CCCCC1,train
+1077,0,Not P728,CC(=O)O[C@@H]1CC[C@@H](CC1)C(C)(C)C,train
+1078,0,Not P729,CC(=O)OC1CCC(CC1)C(C)(C)C,train
+1079,0,Not P730,CC(=CCOC(=O)c1ccccc1O)C,train
+1080,0,Not P731,CCCOC(=O)CC,train
+1081,0,Not P732,CC(=O)OCCc1ccccc1,train
+1082,0,Not P733,COC(C)(C)CCO,train
+1083,0,Not P734,CCCCOC(=O)CCS,train
+1084,0,Not P735,OC(=O)CN(CC(=O)O)CC(=O)O,train
+1085,0,Not P736,CNC(=O)NC,train
+1086,0,Not P737,CC(C)c1ccc(C)cc1O,train
+1087,0,Not P738,CC(C)COC(=O)c1ccccc1C(=O)OCC(C)C,train
+1088,0,Not P739,CC(C/C(=C/C1CCCCC1)/C)C=O,train
+1089,0,Not P740,COc1cccc(C)c1C(=O)O,train
+1090,0,Not P741,CCNCCO,train
+1091,0,Not P742,COC/C=C/CCCC=C,test
+1092,0,Not P743,CCCOC(C)OCCC,train
+1093,0,Not P744,O=C(Cc1ccccc1)OCc1ccccc1,train
+1094,0,Not P745,CC(C)C(=O)OCCOc1ccccc1,train
+1095,0,Not P746,CCOP(=O)OCC,train
+1096,0,Not P747,Cc1cc(cc(c1)N)C,train
+1097,0,Not P748,O=C1CCCCCCCCCOCCCCCO1,train
+1098,0,Not P749,OC(=O)CCC(=O)OOC(=O)CCC(=O)O,train
+1099,0,Not P750,CC(C)CCOC(=O)C,train
+1100,0,Not P751,CC(COC(=O)C)OC(=O)C,train
+1101,0,Not P752,N#CCC(=O)O,train
+1102,0,Not P753,CC(C)CCOC(=O)c1ccccc1,train
+1103,0,Not P754,CC(=C)C(=O)OCCC[Si](OC(=O)C)(OC(=O)C)OC(=O)C,test
+1104,0,Not P755,C/C=C/C=O,train
+1105,0,Not P756,CC(=CCCC(=CCCC=O)C)C,train
+1106,0,Not P757,CCCCCCC(=O)O,train
+1107,0,Not P758,CC(CCOC(=O)C)OC(=O)C,train
+1108,0,Not P759,CCCCOC(=O)C(C)O,train
+1109,0,Not P760,COc1ccc(O)c(c1)C(C)(C)C,train
+1110,0,Not P761,O=C1CCCCCCCCCCOCCCCO1,train
+1111,0,Not P762,NCCCCCCNCCCCCCN,train
+1112,0,Not P763,O=C1CCC2CCCCC2O1,train
+1113,0,Not P764,COc1ccc(cc1)CO,train
+1114,0,Not P765,Nc1[nH]c2NCC(CNc3ccc(cc3)C(=O)NC(CCC(=O)O)C(=O)O)Nc2c(=O)n1,train
+1115,0,Not P766,COC(=C(OC)OC)[SiH3],train
+1116,0,Not P767,[NH3+][C@@H](CO)C(=O)[O-],train
+1117,0,Not P768,NC(CO)C(=O)O,train
+1118,0,Not P769,C[C@H](CCC=C(C)C)CC#N,test
+1119,0,Not P770,CC(CCC=C(C)C)CC#N,train
+1120,0,Not P771,OCCOCCO,train
+1121,0,Not P772,CCC(COCCOC(=O)C=C)(COCCOC(=O)C=C)COCCOC(=O)C=C,train
+1122,0,Not P773,CN(C)CCC#N,test
+1123,0,Not P774,CC(=CCC1CC=C(C)C1(C)C)CO,train
+1124,0,Not P775,CCOC(=O)c1ccccc1,train
+1125,0,Not P776,O=C1C2CCCCC2C(=O)O1,test
+1126,0,Not P777,CCOC(=O)c1ccnc(c1)C(=O)OCC,train
+1127,0,Not P778,COC(=O)CCC(=O)OC,train
+1128,0,Not P779,CC1=CCC23C1CC2C3(C)C,train
+1129,0,Not P780,OCc1cccnc1,train
+1130,0,Not P781,CCCCCCCCCCO,train
+1131,0,Not P782,COc1cc(C=O)ccc1O,train
+1132,0,Not P783,CCCCCOC1OC(C)C(O)C(O)C1O,train
+1133,0,Not P784,CC(C)C1=CC2=CCC3C(C)(CCCC3(C)C(=O)O[Zn]OC(=O)C3(C)CCCC4(C)C5CCC(=CC5=CCC34)C(C)C)C2CC1,train
+1134,0,Not P785,CCCCOCCOCCOCCOCCO,train
+1135,0,Not P786,CC(CC=O)c1ccccc1,test
+1136,0,Not P787,Oc1ccccc1C(=O)Nc1ncn[nH]1,train
+1137,0,Not P788,CC(C)Br,train
+1138,0,Not P789,CCCCCCCCCCCCCCCCCCN(C)C,train
+1139,0,Not P790,NCCCCCCN,train
+1140,0,Not P791,CCC=O,train
+1141,0,Not P792,CC=CCCC1CCCC(=O)O1,train
+1142,0,Not P793,CCCCCCOC(=O)CCCCC,test
+1143,0,Not P794,C(=O)(C=C)OCC(C)CC,train
+1144,0,Not P795,CC(O)CN(C)C,train
+1145,0,Not P796,CC1(CCCO)CCCCC1,train
+1146,0,Not P797,CCCCCCCCCCCCCCCCCCN(CCO)CCO,train
+1147,0,Not P798,CC1CCCCC1O,train
+1148,0,Not P799,CC(C)CC(C)(O)C#C,test
+1149,0,Not P800,CCl,train
+1150,0,Not P801,C[C@H](CCC=C(C)C)CC=O,train
+1151,0,Not P802,CC(CCC=C(C)C)CC=O,test
+1152,0,Not P803,O=C(OCC1CO1)c1ccc(cc1)C(=O)OCC1CO1,train
+1153,0,Not P804,OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)O,train
+1154,0,Not P805,CCCCCCCCCC(C)C=O,train
+1155,0,Not P806,CCCCOP(=O)OCCCC,train
+1156,0,Not P807,OCCN(CCO)C(=O)CCCCCCCCC=C,train
+1157,0,Not P808,CC1(C)C(C(=O)O)N2C(C(N)C2=O)S1,train
+1158,0,Not P809,CCCCCCCCCCCCCCCC(=O)N[C@@H]([C@@H](C)CC)C(=O)O,train
+1159,0,Not P810,CCCCCCCCCCCCCCCCN(C)C,train
+1160,0,Not P811,CCCC(CCC)C(=O)O,train
+1161,0,Not P812,COC(=O)c1ccccc1C(=O)OC,train
+1162,0,Not P813,C=CC(=O)O,train
+1163,0,Not P814,CC(C)CNCC(C)C,train
+1164,0,Not P815,CC(=O)CCc1ccc(O)cc1,train
+1165,0,Not P816,CCCCCCCCP(=O)(O)O,train
+1166,0,Not P817,ClC(=O)c1ccc2C(=O)OC(=O)c2c1,train
+1167,0,Not P818,CCCCCCCCCCCCN1CCCC1=O,train
+1168,0,Not P819,C1(C)(C)C2=C(C(C)(C)C1C)C1C(CC2)COCO1,train
+1169,0,Not P820,OCCN(CCCCCCCCCCCC)CCO,train
+1170,0,Not P821,Cc1ccc(C)cc1O,train
+1171,0,Not P822,C=CC#N,train
+1172,0,Not P823,CC(=O)c1ccc(cc1)C#N,test
+1173,0,Not P824,CCCCOCCOC(=O)c1ccccc1,test
+1174,0,Not P825,CCCCCC(CC)O,train
+1175,0,Not P826,COc1ccc(cc1)C(OC)OC,train
+1176,0,Not P827,COc1ccc(/C=C/C)cc1OC,test
+1177,0,Not P828,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,train
+1178,0,Not P829,CCCCOC(=O)C(C)OC(=O)CCC,train
+1179,0,Not P830,CCC=CCCOC(=O)C,train
+1180,0,Not P831,Oc1ccc(cc1)C(=O)c1ccccc1,train
+1181,0,Not P832,CCCCOCCOC(=O)C,train
+1182,0,Not P833,CC(C)(COCCCOC(=O)C=C)COCCCOC(=O)C=C,train
+1183,0,Not P834,CCCCC(=O)O,train
+1184,0,Not P835,O=C1NCCCN1,train
+1185,0,Not P836,C1CCCCN1,train
+1186,0,Not P837,COc1ccc(CC(=O)O)cc1,train
+1187,0,Not P838,CCC(C)(C)c1ccc(cc1)O,train
+1188,0,Not P839,CC(C)CCC(C)C(C)O,test
+1189,0,Not P840,CC(C)CC(=O)C,test
+1190,0,Not P841,CCCCCCC#CC(=O)OC,train
+1191,0,Not P842,CCN(CC)C(=O)CC(=O)C,train
+1192,0,Not P843,CC(=O)c1ccc(OC)cc1,train
+1193,0,Not P844,CCc1cnc(cc1)C,train
+1194,0,Not P845,CCCCCCCCCCCCCCCC(=O)OCC(O)C1OC(=C(O)C1=O)O,train
+1195,0,Not P846,C(=O)(c1c(O)cccc1)OC1CCCCC1,train
+1196,0,Not P847,CCOC(=O)c1ccc(cc1)O,train
+1197,0,Not P848,Oc1ccc(cc1O)C#N,train
+1198,0,Not P849,CC(C)C1=CC2=CCC3C(C)(CCCC3(C2CC1)C)C(=O)O[K],train
+1199,0,Not P850,O=C(C)C(C#N)C(=O)OCC,train
+1200,0,Not P851,COc1ccc(cc1)O,train
+1201,0,Not P852,O=C(OCCOCCOC(=O)c1ccccc1)c1ccccc1,train
+1202,0,Not P853,Cc1cccc(C)c1O,train
+1203,0,Not P854,CCC1=NCCO1,train
+1204,0,Not P855,CCCCCCCCCCCCN(CCCN)CCCN,train
+1205,0,Not P856,CCCCCC1CCC(=O)O1,train
+1206,0,Not P857,CCCCCCC(CCCC)C(=O)O,train
+1207,0,Not P858,CCCCOCCOCCO,train
+1208,0,Not P859,c1cc(ccc1Cl)Cl,train
+1209,0,Not P860,CCOC(=O)CC(=O)C(F)(F)F,train
+1210,0,Not P861,CC(=C)CCOC(=O)C,train
+1211,0,Not P862,OC(=O)C1CCC(=O)N1,train
+1212,0,Not P863,OC(=O)CCSCCC(=O)O,train
+1213,0,Not P864,NC(CCCN=C(N)N)C(=O)O,train
+1214,0,Not P865,CC1(O)CC(C)(O)OO1,train
+1215,0,Not P866,CCCCC,train
+1216,0,Not P867,OC(=O)CC(=O)O,train
+1217,0,Not P868,O=P(Oc1ccccc1)Oc1ccccc1,test
+1218,0,Not P869,CCCCCCC(=O)CO,train
+1219,0,Not P870,CCCCCCCCCCCC(=O)OCC(O)COCC(O)CO,train
+1220,0,Not P871,CC(C)C(=O)OCC=C(C)CCC=C(C)C,train
+1221,0,Not P872,CC(C)C1CC=C(C)C=C1,train
+1222,0,Not P873,CCCCOC(=O)CC(=C)C(=O)OCCCC,train
+1223,0,Not P874,COc1ccc(cc1)OC,train
+1224,0,Not P875,CCCCC(CC)COCCO,train
+1225,0,Not P876,c1(C(C)CC=O)cc(C(C)C)ccc1,train
+1226,0,Not P877,CC(CCC(=O)O)C1CCC2C3C(CC(=O)C12C)C1(C)CCC(=O)CC1CC3=O,train
+1227,0,Not P878,CCOC(=O)OCC,train
+1228,0,Not P879,CC(Cl)C(=O)C,train
+1229,0,Not P880,OCCOCC/N=C/C(C)(C)COC(=O)CCCCCCCCCCC,train
+1230,0,Not P881,Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O,train
+1231,0,Not P882,CC(=C)C(=O)OC1CCCCC1,train
+1232,0,Not P883,CCCCCCCC(=O)NCCN(CCO)CCC(=O)O,test
+1233,0,Not P884,CCC(COC(=O)C(=C)C)(COC(=O)C(=C)C)COC(=O)C(=C)C,train
+1234,0,Not P885,COC(=O)Oc1ccc(C)cc1OC,train
+1235,0,Not P886,C=CC(=O)OCCO,train
+1236,0,Not P887,CN(C)CCCNCCCN,train
+1237,0,Not P888,O=C(OOC(=O)c1ccccc1)c1ccccc1,test
+1238,0,Not P889,CC(=O)C1CCOC1=O,train
+1239,0,Not P890,CC(C)C(C(C)(C)COC(=O)C(C)C)OC(=O)C(C)C,train
+1240,0,Not P891,CCC1(CC=C2CCCc3cc(OC)ccc23)C(=O)CCC1=O,train
+1241,0,Not P892,CCCCCCCCCCCCCCN(=O)(C)C,train
+1242,0,Not P893,[O-]C(=O)[C@@H]1CCC[NH2+]1,test
+1243,0,Not P894,OC(=O)C1CCCN1,train
+1244,0,Not P895,CC(CCCC(C)(C)OC=O)C=C,train
+1245,0,Not P896,OC/C=C/c1ccccc1,train
+1246,0,Not P897,C(C)(C)(C)O[Si](OC(C)(C)C)(OC(=O)C)OC(=O)C,train
+1247,0,Not P898,CCCCCC=CC=CC(=O)OCC,train
+1248,0,Not P899,ClS(=O)(=O)c1ccc2ccccc2c1,train
+1249,0,Not P900,CNCCO,train
+1250,0,Not P901,CC(C)(C)C(=O)OOC(C)(C)C,train
+1251,0,Not P902,C(=O)(CCCCCC)OCC(C)(C)CO,train
+1252,0,Not P903,CC(=C)C(=O)OCC(O)COC(=O)C(=C)C,train
+1253,0,Not P904,O=S1(=O)OCCCO1,train
+1254,0,Not P905,CC(C)(O)C(Cl)(Cl)Cl,train
+1255,0,Not P906,Cc1cc(O)cc(C)c1Cl,train
+1256,0,Not P907,C=CCCl,train
+1257,0,Not P908,CC/C=C\CCOC(=O)C(C)C,test
+1258,0,Not P909,O=C1CCCCCCCCCCCCCC1,train
+1259,0,Not P910,COC(=O)c1ccccc1O,train
+1260,0,Not P911,NCCCNCCCN,train
+1261,0,Not P912,CCCCCCCCCCCCCCCCCC(=O)NCCO,train
+1262,0,Not P913,CC(=O)Oc1cccc(c1)C(=O)C,train
+1263,0,Not P914,OC(=O)c1ccc(N(=O)=O)cc1,train
+1264,0,Not P915,CC(C)(C)c1ccc(cc1)C=O,train
+1265,0,Not P916,NC(Cc1ccc(O)cc1)C(=O)O,train
+1266,0,Not P917,CCCC(C)C(=O)O,train
+1267,0,Not P918,CCN(CC)C(=O)C=C,train
+1268,0,Not P919,CC(=O)OCCOCCOCCOC(=O)C,train
+1269,0,Not P920,CCOC(CCl)OCC,train
+1270,0,Not P921,CC(C(C)O)O,test
+1271,0,Not P922,C[C@@H](O)[C@H](C)O,train
+1272,0,Not P923,CC(C)CCON=O,train
+1273,0,Not P924,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1cccc(OP(=O)(Oc2ccccc2)Oc2ccccc2)c1,train
+1274,0,Not P925,CCC(CC)C(=O)O,test
+1275,0,Not P926,c1(CCC(C)CCO)ccccc1,train
+1276,0,Not P927,CC(C)(C)c1ccc(cc1)C(=O)O[Al](O)OC(=O)c1ccc(cc1)C(C)(C)C,train
+1277,0,Not P928,CCCCCCCCCCCCC(CCCCCCCCCC)C(=O)O,train
+1278,0,Not P929,CC(C)COC=C,train
+1279,0,Not P930,O=C1CCCCO1,train
+1280,0,Not P931,CCCCCCC(O)CCCCCCCCCCC(=O)NCCO,train
+1281,0,Not P932,NC1CCCCC1,train
+1282,0,Not P933,O=C1CCCCCO1,train
+1283,0,Not P934,ClC(=O)c1ccccc1,train
+1284,0,Not P935,CCC(=O)c1ccc(C)cc1,train
+1285,0,Not P936,Nc1ccccc1,train
+1286,0,Not P937,COc1ccc(CCC(=O)C)cc1,train
+1287,0,Not P938,CCCCC(=O)OCCc1ccccc1,train
+1288,0,Not P939,OCC(O)CO,test
+1289,0,Not P940,CC(=O)NCC(=O)NCCC(=O)O,train
+1290,0,Not P941,CC(CCOC(=O)C)CC=O,train
+1291,0,Not P942,CC(C)C(=O)OOC(C)(C)C,train
+1292,0,Not P943,CCC(C)CC,train
+1293,0,Not P944,NCCCNCCCCNCCCN,train
+1294,0,Not P945,CCCC1CC=C(C)C(=O)C1,train
+1295,0,Not P946,CC(=O)C1C(=O)OC(=CC1=O)C,train
+1296,0,Not P947,CC(C)(C)C(=O)OC(=O)C(C)(C)C,train
+1297,0,Not P948,CCCCCCOP(=O)(O)O,train
+1298,0,Not P949,CC(C)CCO,train
+1299,0,Not P950,NCCN,train
+1300,0,Not P951,CC(=O)C1(O)CCC2C3C=CC4=CC(=O)C=CC4(C)C3CCC12C,test
+1301,0,Not P952,OCC(O)CS,train
+1302,0,Not P953,CCCCCCCC1CCCC1=O,train
+1303,0,Not P954,CCCCCC(=O)OC(=O)CCCCC,train
+1304,0,Not P955,CCCCCCCCCCCC(=O)OCC(C)(C)C=NCC1(C)CC(CC(C)(C)C1)N=CC(C)(C)COC(=O)CCCCCCCCCCC,train
+1305,0,Not P956,CC(C)CCCCCCCO,train
+1306,0,Not P957,CC(S)C(=O)O,train
+1307,0,Not P958,CC(C)c1cccc2ccccc12,train
+1308,0,Not P959,O=C(N[C@@H](CCC(=O)N)C(=O)O)CN,train
+1309,0,Not P960,CCCCOCCO,train
+1310,0,Not P961,C/C=C/C(=O)C1=C(C)C=CCC1(C)C,train
+1311,0,Not P962,NC(=O)NC1NC(=O)NC1=O,train
+1312,0,Not P963,C=Cc1ccccc1,train
+1313,0,Not P964,CCOC(=O)CC(C)C,train
+1314,0,Not P965,Cc1ccccc1Cc1ccccc1,train
+1315,0,Not P966,CC(C)CCCC(C)CCO,train
+1316,0,Not P967,CC(=O)OCC(C)(C)C=NCC1(C)CC(CC(C)(C)C1)N=CC(C)(C)COC(=O)C,train
+1317,0,Not P968,C[C@]12CC[C@H](C1(C)C)C[C@@H]2OC(=O)C=C,train
+1318,0,Not P969,SCC(=O)OCCOC(=O)CS,train
+1319,0,Not P970,CC(CO)(CO)C(=O)O,train
+1320,0,Not P971,OCCC1CCCCN1,train
+1321,0,Not P972,CC(C)COC(=O)c1ccccc1O,train
+1322,0,Not P973,CC(O)CCO,test
+1323,0,Not P974,CCC(OC(=O)/C=C/C)C(C)C,train
+1324,0,Not P975,CC(C)(c1ccc(O)cc1)c1cccc(c1)C(C)(C)c1ccc(O)cc1,train
+1325,0,Not P976,OC(=O)c1cccnc1,train
+1326,0,Not P977,NCCCCCCCCN,train
+1327,0,Not P978,CC(=O)NC(CS)C(=O)O,train
+1328,0,Not P979,NC(=O)c1ccccc1N,train
+1329,0,Not P980,OC(=O)C1CCC(C(=O)O)CC1,train
+1330,0,Not P981,CCCc1ccc(O)c(OC)c1,train
+1331,0,Not P982,CCCCC1CCCC(=O)O1,train
+1332,0,Not P983,CCCCCCCCCCCCOC1OC(CO)C(O)C(O)C1O,train
+1333,0,Not P984,OCC(O)C(O)C(O)C=O,train
+1334,0,Not P985,COC(OC)OC,train
+1335,0,Not P986,CN(C)CCCO,train
+1336,0,Not P987,CCOC(=O)COC(=O)c1ccccc1C(=O)OCC,train
+1337,0,Not P988,CCCCOCC,train
+1338,0,Not P989,CCCCCCCCCCCCCCCCCC(=O)OC(COC(=O)CCCCCCCCCCCCCCC)COP(=O)([O-])OCC[N+](C)(C)C,train
+1339,0,Not P990,C(=O)(C(C)C1CCCCC1)OCC,train
+1340,0,Not P991,COC(=O)CCl,train
+1341,0,Not P992,CS(=O)(=O)Cl,train
+1342,0,Not P993,CC(=O)Oc1ccc(cc1)N(=O)=O,train
+1343,0,Not P994,CC(C)CCCCCCO,train
+1344,0,Not P995,CCCOC(=O)c1ccc(cc1)O,train
+1345,0,Not P996,OC(=O)CCCl,train
+1346,0,Not P997,CC(C)C(NC(=O)N)NC(=O)N,test
+1347,0,Not P998,CCCCOC(=O)c1ccc(O)cc1,train
+1348,0,Not P999,NCCCCCCCCCCCCN,train
+1349,0,Not P1000,OCCCCCCCCC=C,train
+1350,0,Not P1001,S=C=S,train
+1351,0,Not P1002,CCCCOCCOCCOC(=O)C(=C)C,train
+1352,0,Not P1003,CC1(C)C2C1C(=O)OC2O,train
+1353,0,Not P1004,Oc1ccc(O)cc1,train
+1354,0,Not P1005,O=C1CCCCCCCC=CCCCCCCO1,train
+1355,0,Not P1006,CCCCCCCCCCCCCCCCCC(=O)O,train
+1356,0,Not P1007,Oc1ccccc1CC=C,train
+1357,0,Not P1008,CC(=O)N1CCCCCC1=O,train
+1358,0,Not P1009,[NH3+][C@@H](Cc1c[nH]c2ccccc12)C(=O)[O-],train
+1359,0,Not P1010,CC(=C)C(=O)Oc1ccccc1,train
+1360,0,Not P1011,CC(=O)C(Cl)C(=O)N(C)C,train
+1361,0,Not P1012,OC(=O)CCCCCN1C(=O)c2ccccc2C1=O,train
+1362,0,Not P1013,CC(=O)CCC1=C(C)CCCC1(C)C,train
+1363,0,Not P1014,CSC,train
+1364,0,Not P1015,O=c1nc[nH]c2ccccc12,test
+1365,0,Not P1016,CC(CCOC(=O)C)OC,train
+1366,0,Not P1017,CC(N)C(=O)O,test
+1367,0,Not P1018,CCCCCCCCCCCC1=NCCN1CCO,test
+1368,0,Not P1019,CCN(CC)CCCN,train
+1369,0,Not P1020,COC(=O)c1ccccc1,train
+1370,0,Not P1021,CCC(C)CO,train
+1371,0,Not P1022,Cc1ccc(C)c(O)c1C,train
+1372,0,Not P1023,OC(=O)c1cccc(C(=O)O)c1,train
+1373,0,Not P1024,Clc1c(Cl)c(Cl)c2C(=NC(=O)c2c1Cl)Nc1ccc(NC2=NC(=O)c3c(Cl)c(Cl)c(Cl)c(Cl)c23)cc1,train
+1374,0,Not P1025,CC(=C)C(=O)OCC(O)CO,train
+1375,0,Not P1026,CC=CC(C)(O)CCC=C(C)C,train
+1376,0,Not P1027,CC(=C)C(=O)OCC(F)(F)F,train
+1377,0,Not P1028,C(=O)(O)c1ccc(OC(=O)CCCCCCCCC)cc1,test
+1378,0,Not P1029,OCNC(=O)NCO,train
+1379,0,Not P1030,CC(=O)OCc1ccccc1,train
+1380,0,Not P1031,CC(C)COC(=O)C1CCCCC1C(=O)OCC(C)C,train
+1381,0,Not P1032,CC(c1ccccc1)OC(=O)C,train
+1382,0,Not P1033,COc1ccc(cc1O)[C@@H]1CC(=O)c2c(O)cc(O[C@@H]3O[C@H](CO[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]3O)cc2O1,train
+1383,0,Not P1034,CCN,train
+1384,0,Not P1035,CC(CCC=C(C)CCC=O)C=C,test
+1385,0,Not P1036,Cc1cccc(O)c1C,train
+1386,0,Not P1037,CC(C)CCOC(=O)Cc1ccccc1,train
+1387,0,Not P1038,CCCCC/C=C/CC(CC(=O)O)C(=O)O,train
+1388,0,Not P1039,CCC(C)C,train
+1389,0,Not P1040,Cc1ccccc1O,test
+1390,0,Not P1041,CC(=O)OC1(CCC2C3C=CC4=CC(=O)C=CC4(C)C3CCC12C)C(=O)C,train
+1391,0,Not P1042,O=C(CCCCCCC/C=C\CCCCCCCC)OC,train
+1392,0,Not P1043,CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)OC(=O)C,train
+1393,0,Not P1044,CCCCCCCCCCCCCCCC(=O)O[C@@H]1C[C@H](N(C1)C(=O)CCCCCCCCCCCCCCC)C(=O)O,train
+1394,0,Not P1045,CCCCCCCCN(CCO)CCO,train
+1395,0,Not P1046,CCCCCCCCCCCC(=O)NCCO,train
+1396,0,Not P1047,CCOc1ccccc1OCC,test
+1397,0,Not P1048,Oc1cc(Cl)ccc1Cl,train
+1398,0,Not P1049,CCCCCOC(=O)c1ccccc1O,train
+1399,0,Not P1050,c1cnc[nH]1,test
+1400,0,Not P1051,CCC1CO1,train
+1401,0,Not P1052,CCOCCOCCOCCOC(=O)C(=C)C,train
+1402,0,Not P1053,CC(=C)C(=O)OCCN=C=O,train
+1403,0,Not P1054,CCCCCC(=O)OCC=C,train
+1404,0,Not P1055,CC(C)COC(=O)CCCCC(=O)OCC(C)C,test
+1405,0,Not P1056,COc1ccccc1,test
+1406,0,Not P1057,[O-]S(=O)(=O)CCC[n+]1ccccc1,train
+1407,0,Not P1058,Oc1ccc(C=O)cc1,train
+1408,0,Not P1059,CCCCCCCC(=O)NO,train
+1409,0,Not P1060,c1(C(=O)c2cc(C(C)C#N)ccc2)ccccc1,train
+1410,0,Not P1061,CCCCCCCCCCOP(=O)(O)OCCCCCCCC,train
+1411,0,Not P1062,CCCCCC(=O)CC,train
+1412,0,Not P1063,COC1(CCC2=C(CCC3C2CCC2(C)C3CCC2=O)C1)OC,train
+1413,0,Not P1064,C=CC(=O)OCCCCCCCCCCOC(=O)C=C,train
+1414,0,Not P1065,CCOC(=O)Cl,train
+1415,0,Not P1066,C1CC(=O)OC1=O,test
+1416,0,Not P1067,CC(C)COC(=O)Cc1ccccc1,train
+1417,0,Not P1068,CCC(=O)OC,train
+1418,0,Not P1069,O=C1COC(=O)CO1,test
+1419,0,Not P1070,CC(C)c1ccc(CCC=O)cc1,train
+1420,0,Not P1071,Cc1cc(ccc1)O,train
+1421,0,Not P1072,COC(=N)N,test
+1422,0,Not P1073,COCC(=O)O,train
+1423,0,Not P1074,CCCCCCC=CCCC=CCCCC,train
+1424,0,Not P1075,CCCC(=O)OCC=C,train
+1425,0,Not P1076,OC(O)C(Cl)(Cl)Cl,train
+1426,0,Not P1077,COC(=O)CC(=O)CC(=O)OC,train
+1427,0,Not P1078,O=C(OC(C)COCC(C)OC(=O)C=C)C=C,train
+1428,0,Not P1079,CC(O)C(C)C=CC1CC=C(C)C1(C)C,train
+1429,0,Not P1080,Cc1ccccc1N,train
+1430,0,Not P1081,CC12CCC3C(CCC4=C3CCC(=O)C4)C1CCC2=O,train
+1431,0,Not P1082,CC(O)C(=O)C,test
+1432,0,Not P1083,CC(N)c1ccccc1,train
+1433,0,Not P1084,OCCOCCOC(=O)C(=O)c1ccccc1,train
+1434,0,Not P1085,CC(C)(C)OOC(=O)/C=C\C(=O)O,train
+1435,0,Not P1086,CCC(C)C1CCCCC1=O,train
+1436,0,Not P1087,COc1cc(CC=C)ccc1O,train
+1437,0,Not P1088,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]1CC[C@@H]2O,train
+1438,0,Not P1089,CCCCCCCCN(=O)(C)C,train
+1439,0,Not P1090,OCC(O)CNC(=O)c1cc(cc(c1)N(=O)=O)C(=O)O,test
+1440,0,Not P1091,CC(C)C1=CC2=CCC3C(C2CC1)(C)CCCC3(C)C(=O)O,train
+1441,0,Not P1092,C(=O)(O)C(Cc1ccccc1)NC(=O)CCCCCCCCC=C,train
+1442,0,Not P1093,CC(CCC(=O)O)C1CCC2C3C(CCC12C)C1(C)CCC(O)CC1CC3O,train
+1443,0,Not P1094,Cc1ccccc1CCO,train
+1444,0,Not P1095,CC(C)COC(=O)C(=C)C,test
+1445,0,Not P1096,CC1COC(=O)O1,train
+1446,0,Not P1097,CC(CN=Cc1ccccc1O)N=Cc1ccccc1O,train
+1447,0,Not P1098,COc1ccc(/C=C/C)cc1,train
+1448,0,Not P1099,CCCCCCC(O)CCCCCCCCCCC(=O)OC,train
+1449,0,Not P1100,CCCCOCC(C)O,train
+1450,0,Not P1101,C1CCCN1,train
+1451,0,Not P1102,Nc1ccccc1C(=O)O,train
+1452,0,Not P1103,NCCCNCCNCCCN,train
+1453,0,Not P1104,CC(C)COC(=O)C(C)C,train
+1454,0,Not P1105,OCC(=O)CO,train
+1455,0,Not P1106,Oc1ccc(cc1)C(=O)c1ccc(O)cc1,test
+1456,0,Not P1107,CN1CCN(C)CC1,train
+1457,0,Not P1108,CCCCCOC1OC(CO)C(O)C(O)C1O,train
+1458,0,Not P1109,CC(=C)C(=O)Oc1ccc(cc1)C(=O)c1ccccc1,train
+1459,0,Not P1110,Cn1cnc2c1c(=O)n(C)c(=O)n2C,train
+1460,0,Not P1111,CC(C)CCCCCOC(=O)CS,train
+1461,0,Not P1112,CC(O)C(=O)NCCO,test
+1462,0,Not P1113,O=C1c2ccccc2C(=O)c2ccccc12,train
+1463,0,Not P1114,C=CC(=O)OCCOc1ccccc1,train
+1464,0,Not P1115,C=COCCOCCOC=C,train
+1465,0,Not P1116,CC(=C)C(=O)OCCCCCCOC(=O)C(=C)C,train
+1466,0,Not P1117,O=Cc1ccc2OCOc2c1,train
+1467,0,Not P1118,CCCCCCCC(=O)NCC(=O)O,test
+1468,0,Not P1119,COCCOCCO,train
+1469,0,Not P1120,COC(=O)CCCCCCCC=C,train
+1470,0,Not P1121,OC(=O)CCCCCCCC=CCCCCCCCC(=O)O,train
+1471,0,Not P1122,O=C1OCC(F)O1,train
+1472,0,Not P1123,CCCCOCCOCCOC(=O)CCCCC(=O)OCCOCCOCCCC,train
+1473,0,Not P1124,COc1cc(CC=C)ccc1OC(=O)C,train
+1474,0,Not P1125,CC(Cc1ccc(cc1)C(C)(C)C)C=O,train
+1475,0,Not P1126,CN1CCCC1=O,train
+1476,0,Not P1127,CC(=C)C(=O)OCCOP(=O)([O-])[O-],train
+1477,0,Not P1128,Nc1ccc2cc(ccc2c1)S(=O)(=O)O,train
+1478,0,Not P1129,CC1(COC(=O)[C@@H]1O)C,train
+1479,0,Not P1130,CC1(C)COC(=O)C1O,train
+1480,0,Not P1131,O=C(OCc1ccccc1)c1ccccc1,train
+1481,0,Not P1132,CCCCCCCCCCCCCCN(C)C,train
+1482,0,Not P1133,CCCCCCCCCCCCOCCO,train
+1483,0,Not P1134,CCOCCOC(=O)C(=C)C,train
+1484,0,Not P1135,OC1CCCCCCCCCCC1,train
+1485,0,Not P1136,BrCCCCCCBr,train
+1486,0,Not P1137,CC(C)C1CCC(C)(CC1)OO,train
+1487,0,Not P1138,CC(=CC(=O)C)C,train
+1488,0,Not P1139,CCOc1ccc(cc1)C(=O)O,train
+1489,0,Not P1140,COC(=O)CCCCCC(=O)OC,train
+1490,0,Not P1141,CCCCCC(=O)OCC,train
+1491,0,Not P1142,OC(=O)c1ccccn1,test
+1492,0,Not P1143,CC(=O)CC(=O)OCCOC(=O)CC(=O)C,train
+1493,0,Not P1144,CCc1cc2c(cc1)C(=O)c1ccccc1C2=O,train
+1494,0,Not P1145,C(CCN)[Si](OC)(OC)OC,train
+1495,0,Not P1146,C[Si](C1CCCCC1)(OC)OC,train
+1496,0,Not P1147,CCOC(=O)C(Cl)(Cl)Cl,train
+1497,0,Not P1148,CCCCCCC(C)O,train
+1498,0,Not P1149,C1C2C=CC1C=C2,train
+1499,0,Not P1150,CC(C)ON=O,train
+1500,0,Not P1151,NC(=O)c1ccccc1O,train
+1501,0,Not P1152,CC(C)(CO)CO,train
+1502,0,Not P1153,NCCCCCC(=O)O,train
+1503,0,Not P1154,OC(=O)c1ccco1,train
+1504,0,Not P1155,CN1CCCC1c1cccnc1,train
+1505,0,Not P1156,C(=O)(C(O)C(C)(C)CO)NCCCO,train
+1506,0,Not P1157,CC(C)(CO)[C@@H](O)C(=O)NCCCO,train
+1507,0,Not P1158,CC1(C)NCCS1,train
+1508,0,Not P1159,On1ccccc1=O,train
+1509,0,Not P1160,CCCCOC(=O)C(=C)C,test
+1510,0,Not P1161,OCNC(=O)N(CO)C1N(CO)C(=O)N(CO)C1=O,train
+1511,0,Not P1162,Cc1ccccc1/N=C(\N)/N=C(N)N,train
+1512,0,Not P1163,OC(=O)c1ccc2c(c1)C(=O)OC2=O,train
+1513,0,Not P1164,OS(=O)(=O)c1ccccc1,train
+1514,0,Not P1165,NC1CCCCC1N,train
+1515,0,Not P1166,OCC(O)CCl,train
+1516,0,Not P1167,CCCCOP(=O)(OCCCC)OCCCC,train
+1517,0,Not P1168,C(=O)(C=C)OCC1(CC)COCOC1,train
+1518,0,Not P1169,CC(=C)C=O,train
+1519,0,Not P1170,CC(=O)Oc1cccc(OC(=O)C)c1,train
+1520,0,Not P1171,CC(=C)C(=O)OCCOC(=O)C(=C)C,train
+1521,0,Not P1172,OCCS(=O)(=O)O,train
+1522,0,Not P1173,CCOC(=O)C(=C)C,train
+1523,0,Not P1174,N#CCc1ccccc1,test
+1524,0,Not P1175,CCCS,train
+1525,0,Not P1176,CC1CCC2C(C)(C)C3CC12CCC3(C)O,train
+1526,0,Not P1177,CN(C)C1CCCCC1,train
+1527,0,Not P1178,O=Cc1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c(OCC)c1,train
+1528,0,Not P1179,CC(=O)CC(C)(C)O,train
+1529,0,Not P1180,CC(CCO)CCO,test
+1530,0,Not P1181,O=CCCCC=O,train
+1531,0,Not P1182,CC(C)C(=O)C,train
+1532,0,Not P1183,CCCCCCCCCCCCN(=O)(C)C,train
+1533,0,Not P1184,NC(c1ccc(O)cc1)C(=O)OC,train
+1534,0,Not P1185,CC(C)(CO)COC(=O)C(C)(C)CO,train
+1535,0,Not P1186,OCCCl,train
+1536,0,Not P1187,C(=C\CCCCCCCCNCCCN)\CCCCCCCC,train
+1537,0,Not P1188,CCCCCCCCC=CCCCCCCCCNCCCN,train
+1538,0,Not P1189,CCCCCCCCCCCCOP(=O)(O)O,train
+1539,0,Not P1190,C#CCO,train
+1540,0,Not P1191,OC(=O)CCCCCCCCCCC(=O)O,train
+1541,0,Not P1192,CC(=O)O[Si](C)(OC(=O)C)OC(=O)C,train
+1542,0,Not P1193,CCCCCCC(=O)OCC,train
+1543,0,Not P1194,Cc1ccccc1NC(=O)CC(=O)C,train
+1544,0,Not P1195,O=S(=O)(O)CCCCCCCCCCCCCCC,train
+1545,0,Not P1196,CCCCCOC(=O)CC,train
+1546,0,Not P1197,C=CCOC(=O)CCC1CCCCC1,train
+1547,0,Not P1198,CC(=O)c1ccc(cc1)O,train
+1548,0,Not P1199,O=c1[nH]c2ccccc2c(=O)o1,train
+1549,0,Not P1200,OC(=O)CCCCCCC(=O)O,train
+1550,0,Not P1201,CCCCCCCCCCCCCCCC[N+](C)(C)CC(=O)[O-],train
+1551,0,Not P1202,COC=O,train
+1552,0,Not P1203,CN(C)C(=O)CCCCCCCC=C,train
+1553,0,Not P1204,CC(=CCCC(=C)C=C)C,train
+1554,0,Not P1205,OCC#CC(O)C(O)C(Cl)(Cl)Cl,train
+1555,0,Not P1206,CC(=O)OCCOCCOC(=O)C,train
+1556,0,Not P1207,[NH3+]CCC(=O)[O-],train
+1557,0,Not P1208,CC(C)CCCC(C)CC=O,test
+1558,0,Not P1209,CCCCCCCCCCCCCCCCCCOC(=O)CCS,train
+1559,0,Not P1210,Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O,train
+1560,0,Not P1211,C1(=O)/C(=C/c2ccccc2)/NC(=O)N1,train
+1561,0,Not P1212,C12C(CC(CC[Si](OCC)(OCC)OCC)CC1)O2,train
+1562,0,Not P1213,CCCCCCCC/C=C\CCCCCCCC(=O)NCC(C)O,train
+1563,0,Not P1214,CN(C)CCO,train
+1564,0,Not P1215,CC(CCCC(C)C=O)CCC=C(C)C,train
+1565,0,Not P1216,CC(C)C/C(=C/C=C/C(=O)C)/C,train
+1566,0,Not P1217,CCOC(=O)CC1CCC=C1,train
+1567,0,Not P1218,CC/C=C\CCO,train
+1568,0,Not P1219,Clc1ccc(cc1)C(=O)c1ccccc1,train
+1569,0,Not P1220,CC(CO)CC(C)CC=C(C)C,train
+1570,0,Not P1221,c1ccccc1,train
+1571,0,Not P1222,OC(=O)c1ccc(O)cc1O,train
+1572,0,Not P1223,OOC1(CCCCC1)OOC1(O)CCCCC1,train
+1573,0,Not P1224,CC(C)C(=O)OCc1ccccc1,train
+1574,0,Not P1225,CCC(=O)OC=C,train
+1575,0,Not P1226,OCCCCC=C,train
+1576,0,Not P1227,C(=O)(C(C)O)OC1C(C(C)C)CCC(C)C1,train
+1577,0,Not P1228,CCC(C)(CCC(C)C)C(=O)OOC(C)(C)C,train
+1578,0,Not P1229,CCCCCCC(O)C/C=C/CCCCCCCC(=O)OCC(OC(=O)CCCCCC/C=C/CC(O)CCCCCC)C(=O)OCCCCCCC/C=C/CC(CCCCCC)OS(=O)(=O)O[Na],train
+1579,0,Not P1230,CC(=O)On1ccccc1=O,train
+1580,0,Not P1231,C[C@]12CCC(=O)C=C1C=C[C@@H]1[C@@H]2CC[C@@]2(C)[C@H]1CC[C@]12CCC(=O)O1,train
+1581,0,Not P1232,CCCCCC1CCC(=O)CC1,train
+1582,0,Not P1233,CCCCCCCCCCCCCCCCCCCCCC(=O)O,train
+1583,0,Not P1234,CCCCCCCCCCCOC1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,test
+1584,0,Not P1235,CC(=C)C1CC=C(C)C(=O)C1,train
+1585,0,Not P1236,CCc1[nH]c(C)cn1,train
+1586,0,Not P1237,CCCCCCC(O)CCCCCCCCCCC(=O)O,train
+1587,0,Not P1238,CC(COC(=O)c1ccccc1)OC(=O)c1ccccc1,train
+1588,0,Not P1239,OCC(O)C(O)CO,train
+1589,0,Not P1240,CC(=C(C)CCC(C)(O)C#C)C,train
+1590,0,Not P1241,CN(CCO)CCCN,test
+1591,0,Not P1242,CCCCCCOCCO,test
+1592,0,Not P1243,CCCCCCCCCCCC(=O)OC,test
+1593,0,Not P1244,CCCCCCC(=O)OCC(CC)(COC(=O)CCCCCC)COC(=O)CCCCCC,train
+1594,0,Not P1245,CCCCCCCCN(C)C,train
+1595,0,Not P1246,CC(=O)OCC(COC(=O)C)OC(=O)C,train
+1596,0,Not P1247,CCO[Si](CCCOC(=O)C(=C)C)(OCC)OCC,train
+1597,0,Not P1248,O=C(O)C(C)CC(C)CC(C)CC(C)CC(C)C,train
+1598,0,Not P1249,Cc1ccc(cc1)C,train
+1599,0,Not P1250,CCNC(C)Cc1ccc(OC)cc1,test
+1600,0,Not P1251,COCc1ccc(O)c(OC)c1,train
+1601,0,Not P1252,CCCCOC(=O)C=CC(=O)O,train
+1602,0,Not P1253,CCCCOCNC(=O)C=C,test
+1603,0,Not P1254,CCCCCCOC(=O)c1ccccc1,train
+1604,0,Not P1255,C=CC(=O)NCCO,train
+1605,0,Not P1256,COC(=O)c1c(C)cc(O)c(C)c1O,train
+1606,0,Not P1257,C/C=C/CC#N,train
+1607,0,Not P1258,OCCOCCOCCOCCO,train
+1608,0,Not P1259,CC(=CCCC(C)(C=C)OC(=O)C)C,train
+1609,0,Not P1260,CC(C)CCC(C)C,train
+1610,0,Not P1261,CCCCCCCCCC=CCC1CC(=O)OC1=O,train
+1611,0,Not P1262,CN(=O)(C)C,train
+1612,0,Not P1263,O=COCc1ccccc1,train
+1613,0,Not P1264,c1(C(C)N)ccc(C)cc1,train
+1614,0,Not P1265,CC(=O)C=CC1C(=CCCC1(C)C)C,train
+1615,0,Not P1266,CC/C=C\CCOC(=O)C/C=C\CC,train
+1616,0,Not P1267,CCCCOC=C,train
+1617,0,Not P1268,CC(C)C1=CC2C(CC1)C1(C(CC2CC2CC3C(C)(CCCC3(C)C3CCC(=CC23)C(C)C)C(=O)O)C(C)(CCC1)C(=O)O)C,train
+1618,0,Not P1269,OCCCc1ccccc1,train
+1619,0,Not P1270,COS(=O)(=O)OC,train
+1620,0,Not P1271,O=c1occo1,train
+1621,0,Not P1272,OCC(O)C(O)C(O)C(=O)C(=O)O,train
+1622,0,Not P1273,c1cc(ccc1c1ccc(cc1)O)O,train
+1623,0,Not P1274,ClC1CCCCCCCCCCC1=O,train
+1624,0,Not P1275,CC(CCOC(=O)C(=C)C)OC(=O)C(=C)C,train
+1625,0,Not P1276,CCOC(=O)CCl,train
+1626,0,Not P1277,ON=C1CCCCC1,train
+1627,0,Not P1278,CCCCOC(=O)CO,train
+1628,0,Not P1279,ClCC(=O)Cl,test
+1629,0,Not P1280,CC1CC2C3CCC4=CC(=O)CCC4(C)C3CCC2(C)C1C(=O)CO,train
+1630,0,Not P1281,C=COC1CCCCC1,train
+1631,0,Not P1282,CC1CCC(=O)CC1,test
+1632,0,Not P1283,Nc1ccc(cc1)C(=O)NCCC(=O)[O-],train
+1633,0,Not P1284,CCC(=O)OCc1ccccc1,train
+1634,0,Not P1285,[C@@H]12CC[C@](O)(C#N)[C@@]1(C)CC[C@@H]1C3=C(CC[C@@H]21)CC1(CC3)OCC(C)(C)CO1,train
+1635,0,Not P1286,CCCCCCCC(=O)N(C)C,test
+1636,0,Not P1287,CC(O)COC(=O)C(=C)C,train
+1637,0,Not P1288,OC(=O)CCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)ON1C(=O)CCC1=O)C(=O)O,train
+1638,0,Not P1289,CC(=C)C(=O)OCCOc1ccc(cc1)C(C)(C)c1ccc(OCCOC(=O)C(=C)C)cc1,train
+1639,0,Not P1290,CCCCC(CC)COC(=O)CCCCCCCCC(=O)OCC(CC)CCCC,train
+1640,0,Not P1291,CCC(C)Oc1ccccc1,train
+1641,0,Not P1292,CC(CC=O)C1CCC(=CC1)C,train
+1642,0,Not P1293,C1N2CN3CN1CN(C2)C3,train
+1643,0,Not P1294,CCCCOCc1ccc(O)c(OC)c1,train
+1644,0,Not P1295,COc1ccc(CC(C)C=O)cc1,train
+1645,0,Not P1296,NC(=O)C1CCCN1,train
+1646,0,Not P1297,CCCC1CCC(=O)O1,train
+1647,0,Not P1298,C(=O)/C(=C/c1ccccc1)/C,train
+1648,0,Not P1299,CCN(C(=O)C)[Si](C)(C=C)N(CC)C(=O)C,test
+1649,0,Not P1300,COc1ccccc1N,train
+1650,0,Not P1301,Fc1cccc2c1NC(=O)C2,train
+1651,0,Not P1302,O=C1CCc2ccccc2O1,train
+1652,0,Not P1303,COC(=O)c1cc(ccc1)C(=O)OC,train
+1653,0,Not P1304,CCCCCC1CCCC1=O,train
+1654,0,Not P1305,CCCC(=O)OCc1ccccc1,train
+1655,0,Not P1306,C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1CC[C@@H]2O,train
+1656,0,Not P1307,CC(=C)C(=O)OCC1CO1,train
+1657,0,Not P1308,O=C1NC2NC(=O)NC2N1,train
+1658,0,Not P1309,O=C1COCCO1,train
+1659,0,Not P1310,Cc1oncc1C(=O)O,train
+1660,0,Not P1311,OCC(O)C(O)C(OC1OC(CO)C(O)C(O)C1O)C(O)CO,train
+1661,0,Not P1312,C[C@]12CC[C@H]3[C@@H](CC=C4CC5(CC[C@]34C)OCCO5)[C@@H]1CC[C@@]2(O)C#N,train
+1662,0,Not P1313,CC(O)C(C)Cc1ccccc1,train
+1663,0,Not P1314,CCCCCC(O)C=C,train
+1664,0,Not P1315,CCCCCC1COCCC1OC(=O)C,train
+1665,0,Not P1316,CC(S)CC(=O)OCC(COC(=O)CC(C)S)(COC(=O)CC(C)S)COC(=O)CC(C)S,train
+1666,0,Not P1317,CCNC(=O)C(=O)O[C@@H]1C[C@H](C)CC[C@H]1C(C)C,train
+1667,0,Not P1318,C=CCOC(=O)COc1ccccc1,train
+1668,0,Not P1319,COS(=O)(=O)c1ccc(C)cc1,train
+1669,0,Not P1320,CC(=C)C(=O)OC,train
+1670,0,Not P1321,CSCCC(O)C#N,train
+1671,0,Not P1322,CCCCCCCCCCCC#N,train
+1672,0,Not P1323,C(=CCCCCCCC=CCCCCCC)CCN(CCO)CCO,test
+1673,0,Not P1324,CCC=C,train
+1674,0,Not P1325,CCCCOCCOCCOC(=O)C,train
+1675,0,Not P1326,COc1ccc2cc(C=O)ccc2c1,train
+1676,0,Not P1327,C(=O)(O)/C=C/C(=O)O,train
+1677,0,Not P1328,OC(=O)C=CC(=O)O,train
+1678,0,Not P1329,CC(C)[C@@H]1CCC(=CC1)CCC=O,train
+1679,0,Not P1330,C=C1CC(=O)O1,train
+1680,0,Not P1331,CC(C=C)C#N,train
+1681,0,Not P1332,CCOC(=O)C1=NN(C(=O)C1)c1ccccc1,train
+1682,0,Not P1333,COc1cccc(C)c1O,train
+1683,0,Not P1334,CCOC=O,test
+1684,0,Not P1335,C(=O)(C(C)O)OCC(C)C,test
+1685,0,Not P1336,CCCC(CO)O,train
+1686,0,Not P1337,CCOC(=O)C(C)C,train
+1687,0,Not P1338,C=CC(C)C(=O)OCC,train
+1688,0,Not P1339,OCCN1CCCC1=O,train
+1689,0,Not P1340,CCCCC(CC)COC(=O)C(=C)C,train
+1690,0,Not P1341,CCOC(=O)CC(CC(=O)OCC)(OC(=O)C)C(=O)OCC,train
+1691,0,Not P1342,C1([2H])(CC2(CCC1(OC2(C)C)C)[2H])[2H],train
+1692,0,Not P1343,C1(C)(C)C2CCC(C)(CC2)O1,test
+1693,0,Not P1344,CC(=O)c1cccnc1,test
+1694,0,Not P1345,CCCNCCC,train
+1695,0,Not P1346,OCCCCO,train
+1696,0,Not P1347,CC#N,train
+1697,0,Not P1348,CCCOCC(C)OCC(C)O,train
+1698,0,Not P1349,CC(=O)OC(=O)C,train
+1699,0,Not P1350,CCCC(=O)OCCc1ccccc1,train
+1700,0,Not P1351,CCCCC(CC)C(=O)Cl,train
+1701,0,Not P1352,CCOCCOCCOCCO,train
+1702,0,Not P1353,CCC(C)(OO)OOC(C)(CC)OO,test
+1703,0,Not P1354,COc1ccc(CC(=O)C)cc1,train
+1704,0,Not P1355,CCCCCCCCC1CCC(=O)O1,train
+1705,0,Not P1356,NCc1ccccc1,train
+1706,0,Not P1357,C(C1C2C(C(C(O1)OC1C(OC(C(C1O)O)OC1C(OC(C(C1O)O)OC1C(OC(C(C1O)O)OC1C(OC(C(C1O)O)OC1C(OC(C(C1O)O)OC1C(OC(O2)C(C1O)O)CO)CO)CO)CO)CO)CO)O)O)O,train
+1707,0,Not P1358,CCCCCCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1,train
+1708,0,Not P1359,O=C1CCC2COC1O2,train
+1709,0,Not P1360,C=CN1CCCC1=O,train
+1710,0,Not P1361,Cc1cccc(C(=O)O)c1O,train
+1711,0,Not P1362,NC(CCC(=O)O)C(=O)O,train
+1712,0,Not P1363,CC(C)C(=O)Nc1nc(cs1)c1c(O)cc(O)cc1,train
+1713,0,Not P1364,OC(=O)c1cccc(n1)C(=O)O,train
+1714,0,Not P1365,CC(C)(C)c1ccccc1O,train
+1715,0,Not P1366,O=C1CNC(=O)N1,train
+1716,0,Not P1367,CC(=O)OCC=Cc1ccccc1,train
+1717,0,Not P1368,COc1ccc(C=O)cc1OC,train
+1718,0,Not P1369,CCC(=O)C(C)CC=C(C)C,train
+1719,0,Not P1370,CCC(C)C(=O)O,train
+1720,0,Not P1371,OC(=O)Cc1ccccc1,train
+1721,0,Not P1372,OC(=O)CCCCC(=O)O,train
+1722,0,Not P1373,CC(=O)NCCNC(=O)C,train
+1723,0,Not P1374,O=C1OCc2ccccc12,train
+1724,0,Not P1375,CC(=C)C(=O)OCCO,train
+1725,0,Not P1376,CC(C#N)O,test
+1726,0,Not P1377,CCCCC(CC)COC(=O)C,train
+1727,0,Not P1378,CC(CCCC(C)(C)O)CC=O,train
+1728,0,Not P1379,C[C@@H](CCCC(C)(C)O)CC=O,train
+1729,0,Not P1380,CCCCCCCCN1CCCC1=O,train
+1730,0,Not P1381,OC(=O)c1ccccc1,train
+1731,0,Not P1382,Cc1cc(ccc1N)S(=O)(=O)O,train
+1732,0,Not P1383,OCC1OC(O)C(O)C(O)C1O,test
+1733,0,Not P1384,CCC(C)CCCC(C)(C)O,test
+1734,0,Not P1385,C(CCCCCCC)OP(=O)(O)O,train
+1735,0,Not P1386,OCCc1ccccc1,train
+1736,0,Not P1387,CC(=O)CC(=O)OC,train
+1737,0,Not P1388,CC1(C(=O)N(C(=O)N1CO)CO)C,train
+1738,0,Not P1389,C=O,train
+1739,0,Not P1390,OCCC#N,train
+1740,0,Not P1391,C(=CCC)(C)C(O)CCCCC,train
+1741,0,Not P1392,CC=CC=CC(=O)O,train
+1742,0,Not P1393,CC1(C)C2CCC(=C)C1C2,train
+1743,0,Not P1394,CC(=CCC/C(=C/C=O)/C)C,test
+1744,0,Not P1395,CC(=CCC/C(=C\C=O)/C)C,train
+1745,0,Not P1396,CCCCOCCOP(=O)(OCCOCCCC)OCCOCCCC,train
+1746,0,Not P1397,CCCCCOC(=S)SCC=C,train
+1747,0,Not P1398,CC(CC=O)CC(C)(C)C,train
+1748,0,Not P1399,CC(C)c1ccc(cc1)C=O,train
+1749,0,Not P1400,NCCCO,test
+1750,0,Not P1401,CC1=CCC(CC1)C(C)(C)O,train
+1751,0,Not P1402,OCc1ccccc1,train
+1752,0,Not P1403,COCCCOCCCOC(=O)C,train
+1753,0,Not P1404,COC(=O)c1ccccc1C,train
+1754,0,Not P1405,CC(C)CC(C)O,test
+1755,0,Not P1406,CCCCCCCC(=O)O,train
+1756,0,Not P1407,CCSC,train
+1757,0,Not P1408,OCCCCCCC=C,train
+1758,0,Not P1409,OCC(CO)(CO)CO,train
+1759,0,Not P1410,CC1CCC2(CCC3(C)C(=CCC4C5(C)CC(O)C(O)C(C)(CO)C5CCC34C)C2C1C)C(=O)OC1OC(COC2OC(CO)C(OC3OC(C)C(O)C(O)C3O)C(O)C2O)C(O)C(O)C1O,train
+1760,0,Not P1411,CCOC(=O)C(C(=O)C)[Ti]1(OCCCO1)C(C(=O)C)C(=O)C,train
+1761,0,Not P1412,C1CCOC1,train
+1762,0,Not P1413,CCC(=O)OCCC(C)C,train
+1763,0,Not P1414,CCCCCCOC(=O)CCC,train
+1764,0,Not P1415,CCC(=O)O,train
+1765,0,Not P1416,O=C(Nc1ccnc(=O)[nH]1)c1ccccc1,train
+1766,0,Not P1417,CCOC(=O)c1cccnc1,train
+1767,0,Not P1418,C1CCCCC1NC1CCCCC1,train
+1768,0,Not P1419,c1ccc(cc1)OCCOc1ccccc1,train
+1769,0,Not P1420,CCCNCC,train
+1770,0,Not P1421,CC(C)CCOCC(=O)OCC=C,train
+1771,0,Not P1422,CC(=C)C(=O)OCCC[Si](OC)(OC)OC,train
+1772,0,Not P1423,CC(C)CCCCCCCCCCCCCCC(=O)O,train
+1773,0,Not P1424,C1CCCCC1,train
+1774,0,Not P1425,CCOc1ccccc1C(=O)O,train
+1775,0,Not P1426,CCOC(=O)C,train
+1776,0,Not P1427,ClC(Cl)(Cl)c1ccccc1,train
+1777,0,Not P1428,O=C(OCCOC(=O)c1ccccc1)c1ccccc1,train
+1778,0,Not P1429,CC(C)(C)NC(=O)C=C,train
+1779,0,Not P1430,NCCCN,train
+1780,0,Not P1431,CC(C)CCCC(C)CCOC(=O)C,train
+1781,0,Not P1432,ClC(=O)OCCOCCOC(=O)Cl,train
+1782,0,Not P1433,CNC(=O)N,train
+1783,0,Not P1434,O=C(OC(C)COC(C)COCC(C)OC(=O)CCN(CC)CC)CCN(CC)CC,train
+1784,0,Not P1435,CC(C)NC,train
+1785,0,Not P1436,CCCCCCCCC=CCCCCCCCC(=O)OCC(O)COC(=O)C1CCC(=O)N1,train
+1786,0,Not P1437,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1OC(=O)C,train
+1787,0,Not P1438,CC1CCC(C(C)C)C(C1)OC(=O)C,train
+1788,0,Not P1439,O=C1c2cccc3cccc(c23)C(=O)N1,train
+1789,0,Not P1440,COC=C,train
+1790,0,Not P1441,CCCCCCC(O)CC=CCCCCCCCC(=O)OC,train
+1791,0,Not P1442,O=C1NC(=O)c2ccccc12,train
+1792,0,Not P1443,COC(=O)C=C(C)N,train
+1793,0,Not P1444,CC(C)CC(CC(C)C)OC(=O)C,train
+1794,0,Not P1445,CC(=O)CO,train
+1795,0,Not P1446,CC(=O)c1ccc(Cl)cc1Cl,train
+1796,0,Not P1447,CC(=C)[C@@H]1CCC(=CC1)C,train
+1797,0,Not P1448,CC1=CC[C@H](CC1)C(=C)C,test
+1798,0,Not P1449,CCC=CCC1=C(CCC1=O)C,train
+1799,0,Not P1450,CC(C)(C(=O)c1ccccc1)O,train
+1800,0,Not P1451,OC(=O)c1ccccc1C(=O)O,train
+1801,0,Not P1452,CCCC(=O)C,train
+1802,0,Not P1453,COCCO,train
+1803,0,Not P1454,[NH3+]CCS(=O)(=O)[O-],train
+1804,0,Not P1455,CC(=C)C(=O)OCCCCOC(=O)C(=C)C,test
+1805,0,Not P1456,C(=O)(N)/N=N/C(=O)N,train
+1806,0,Not P1457,CCCCCCCCC(C)C#N,train
+1807,0,Not P1458,Cc1occc(=O)c1O,test
+1808,0,Not P1459,OCc1occc1,train
+1809,0,Not P1460,CC(C)COC(=O)c1ccc(O)cc1,train
+1810,0,Not P1461,O=C(OCCOC(=O)c1ccc2C(=O)OC(=O)c2c1)c1ccc2C(=O)OC(=O)c2c1,test
+1811,0,Not P1462,CC(=O)C(CC(=O)OC)C(=O)OC,train
+1812,0,Not P1463,O=C1CCCCCCCCCCCC(=O)OCCO1,test
+1813,0,Not P1464,CCC(COCC(CC)(COC(=O)C=C)COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C,train
+1814,0,Not P1465,CC1Oc2ccc(CCC=O)cc2O1,train
+1815,0,Not P1466,CC(=O)c1cc2ccccc2cc1,train
+1816,0,Not P1467,CCCCOC(=O)c1ccccc1,train
+1817,0,Not P1468,CC(CCCC(C)(C)O)C=C,train
+1818,0,Not P1469,NC(=O)N,train
+1819,0,Not P1470,CCCCOC(=O)CCCCC(=O)OCCCC,train
+1820,0,Not P1471,CC(=O)OC=C,train
+1821,0,Not P1472,CC(C)CCCCCCCCCCO,train
+1822,0,Not P1473,[NH3+][C@@H](CS)C(=O)[O-],train
+1823,0,Not P1474,CN(C)Cc1ccccc1,train
+1824,0,Not P1475,CC(=CCOC(=O)C)C,train
+1825,0,Not P1476,CCOCCOCCO,train
+1826,0,Not P1477,OCCCCCCO,train
+1827,0,Not P1478,CCOC(=O)C(=O)C,train
+1828,0,Not P1479,C=CCO,train
+1829,0,Not P1480,CC(=O)OCCOCCO,train
+1830,0,Not P1481,CCOC(=O)CC(=O)C,train
+1831,0,Not P1482,C(=O)(O)CCN(CCC(=O)O)CCCCCCCCCCCC,train
+1832,0,Not P1483,NC#N,train
+1833,0,Not P1484,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,train
+1834,0,Not P1485,O=C1NCCN1,train
+1835,0,Not P1486,Cn1c(=O)[nH]c(=O)c2c1ncn2C,train
+1836,0,Not P1487,CN(C)C(=O)N,train
+1837,0,Not P1488,Oc1ccccc1O,test
+1838,0,Not P1489,Cc1ccc(O)cc1C,train
+1839,0,Not P1490,CCC1C(=O)CCC1=O,train
+1840,0,Not P1491,CCOC(=O)O/N=C(\C)/C(=O)c1ccccc1,train
+1841,0,Not P1492,CC(O)C(=O)N(C)C,train
+1842,0,Not P1493,O=C1CCCO1,train
+1843,0,Not P1494,O=C1OCCCO1,train
+1844,0,Not P1495,C(CCCCCCCCCCCCCCCCC)NCCCNCCCCCCCCCCCC,train
+1845,0,Not P1496,CC(CCC=C(C)C)C=O,train
+1846,0,Not P1497,CC(C)C1=CC=C(CC1)C,train
+1847,0,Not P1498,CN(C)C(=O)OC(C)(CCC=C(C)C)C=C,train
+1848,0,Not P1499,CCc1occc(=O)c1O,train
+1849,0,Not P1500,C1CC(CCC1CO)CO,train
+1850,0,Not P1501,CC(C)(C)C1CCC(=O)CC1,train
+1851,0,Not P1502,CCCOC(=O)C,train
+1852,0,Not P1503,C(=O)(C(=O)c1ccccc1)OC,train
+1853,0,Not P1504,CC(C)Cc1ccc(CC(C)C=O)cc1,train
+1854,0,Not P1505,CCCCCC(CCC)CO,train
+1855,0,Not P1506,C1CNCCO1,train
+1856,0,Not P1507,COC(=O)c1cccnc1,train
+1857,0,Not P1508,Oc1ccccc1C(=O)OCCc1ccccc1,train
+1858,0,Not P1509,O=C(c1ccc(C(=O)OCC2CO2)cc1C(=O)OCC1CO1)OCC1CO1,train
+1859,0,Not P1510,c1cc2ccc3ccccc3c2cc1,test
+1860,0,Not P1511,C=CC(=O)OCC1CCCO1,train
+1861,0,Not P1512,CC(C)(Br)C(=O)Br,train
+1862,0,Not P1513,OCCSCCO,test
+1863,0,Not P1514,OC(=O)C(C(C(=O)O)OC(=O)c1ccccc1)OC(=O)c1ccccc1,train
+1864,0,Not P1515,COCNC(=O)C(=C)C,train
+1865,0,Not P1516,Nc1ccc(cc1)C(=O)OCCCOC(=O)c1ccc(N)cc1,train
+1866,0,Not P1517,OCCCO,train
+1867,0,Not P1518,CC(C)C1CC2CCC3C(C)(CCCC3(C)C2CC1)C(=O)O,train
+1868,0,Not P1519,CCCOC(=O)OOC(=O)OCCC,train
+1869,0,Not P1520,CC1(C)CCCC2(C)C1CCC1(C)OCCC21,train
+1870,0,Not P1521,COCC(C)Cc1ccccc1,train
+1871,0,Not P1522,CC(=O)CC(=O)C,train
+1872,0,Not P1523,CCOC(=O)C(O)C(O)C(=O)OCC,train
+1873,0,Not P1524,CCCCCCCCC(O)CO,train
+1874,0,Not P1525,CC(C)C1CCC(=CC1=O)C,test
+1875,0,Not P1526,COc1ccc(OC=O)cc1,train
+1876,0,Not P1527,COc1cc(C=CC(=O)O)cc(OC)c1OC,train
+1877,0,Not P1528,CC(=O)c1cc2ccccc2o1,train
+1878,0,Not P1529,CCCCCCCCCCCCN(C)C,test
+1879,0,Not P1530,COC(C)(C)C1CCC(=CC1)C,train
+1880,0,Not P1531,CC(=CCCC(C)(O)C#C)C,train
+1881,0,Not P1532,CCCCCCCCCCN(C)C,train
+1882,0,Not P1533,CCCCC(CC)C(=O)OCC,train
+1883,0,Not P1534,O=C(OCC1CCC2OC2C1)C1CCC2OC2C1,train
+1884,0,Not P1535,Cc1ccccc1,train
+1885,0,Not P1536,COCCOC(=O)C(=C)C,test
+1886,0,Not P1537,Cc1ccc(cc1)S(=O)(=O)Cl,train
+1887,0,Not P1538,CCCCCCCC(=O)OCC,train
+1888,0,Not P1539,CCCCCCCCN(CCC(=O)O)CCC(=O)O,train
+1889,0,Not P1540,CCCCCCC1CCCC(=O)O1,train
+1890,0,Not P1541,CCCC(=O)OCC=Cc1ccccc1,train
+1891,0,Not P1542,CN1CC(C=C2C1Cc1c[nH]c3cccc2c13)C(=O)O,train
+1892,0,Not P1543,c12=NC3c4c(C5N=c6c7c(c8N=c9c%10c(c%11=Nc(c%12c1cccc%12)n2[Cu](N35)(n9%11)n68)ccc(c%10)CN(CC)CC)cc(cc7)CN(CC)CC)ccc(c4)CN(CC)CC,train
+1893,0,Not P1544,OCCNCCO,train
+1894,0,Not P1545,CC(=O)[C@H](O)c1ccccc1,train
+1895,0,Not P1546,COC(=O)c1cc(N(=O)=O)cc(C(=O)O)c1,train
+1896,0,Not P1547,Oc1ccccc1C(=O)OCc1ccccc1,train
+1897,0,Not P1548,OCN1C(NC(=O)NCNC(=O)NC2N(CO)C(=O)NC2=O)C(=O)NC1=O,train
+1898,0,Not P1549,COC(=O)C=C1CCCC1,test
+1899,0,Not P1550,CC12CCC3C(C4CC4C4(O)CC(O)CCC34C)C1C1CC1C2(O)CCCO,train
+1900,0,Not P1551,CC(C)OC(=O)CCCCC(=O)OC(C)C,train
+1901,0,Not P1552,NC(CCC(=O)N)C(=O)O,train
+1902,0,Not P1553,CC(=C)C(=O)OCCOC(=O)CCC(=O)O,train
+1903,0,Not P1554,COc1ccc(cc1)C(=O)O,train
+1904,0,Not P1555,CC(O)CN(CCO)CCO,train
+1905,0,Not P1556,CC(=O)OCC(C)(C)COC(=O)C,train
+1906,0,Not P1557,CC(C)C(C)C,train
+1907,0,Not P1558,CC(C)c1ccc(cc1)CC(C)C=O,train
+1908,0,Not P1559,CCN1CCCC1=O,train
+1909,0,Not P1560,Cn1c2c(c(=O)n(C)c1=O)nc[nH]2,train
+1910,0,Not P1561,CC(CCOC(=O)C(C)C)CCC=C(C)C,train
+1911,0,Not P1562,NC(c1ccccc1)C(=O)O,train
+1912,0,Not P1563,NC=O,train
+1913,0,Not P1564,OCCOCCOCCO,train
+1914,0,Not P1565,OC(CC)OC(C)COC(C)COCCCC,train
+1915,0,Not P1566,CCOC(=O)CC#N,train
+1916,0,Not P1567,CCOC(=O)C1C(=CC(=O)CC1(C)C)C,train
+1917,0,Not P1568,C(=O)(Cl)c1cc(C)cc(C)c1,train
+1918,0,Not P1569,OC(=O)c1cc(Nc2ccccc2)c(C(=O)O)cc1Nc1ccccc1,train
+1919,0,Not P1570,CC(C)CC(=NO)C,train
+1920,0,Not P1571,Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O,test
+1921,0,Not P1572,CCN(CC)CC,train
+1922,0,Not P1573,CCCCCCCCP(=O)(CCCCCCCC)CCCCCCCC,train
+1923,0,Not P1574,CN(C)C=O,train
+1924,0,Not P1575,CCOCCO,test
+1925,0,Not P1576,O=C(CC#N)OCC(CCCC)CC,test
+1926,0,Not P1577,COCCOCCOCCOCCO,train
+1927,0,Not P1578,O=C(Cc1ccccc1)OCCc1ccccc1,test
+1928,0,Not P1579,OCC1COC(Cc2ccccc2)O1,train
+1929,0,Not P1580,CCCCCCC(=O)C,train
+1930,0,Not P1581,CCCCCCCCOCCO,train
+1931,0,Not P1582,COC(=O)C(C)(C)N=NC(C)(C)C(=O)OC,train
+1932,0,Not P1583,CCC12COCN1COC2,train
+1933,0,Not P1584,CCCCCCCCCCN(=O)(C)C,train
+1934,0,Not P1585,COc1ccc(cc1)C=O,train
+1935,0,Not P1586,CCCCCCO,train
+1936,0,Not P1587,CN(C)C(OC)OC,train
+1937,0,Not P1588,O=C(OCCOP(=O)([O-])OCC[N+](C)(C)C)C(=C)C,train
+1938,0,Not P1589,Cc1c(cccc1O)O,train
+1939,0,Not P1590,CCCC=O,train
+1940,0,Not P1591,OCCOCCOc1ccccc1,train
+1941,0,Not P1592,CCCN(C)C,train
+1942,0,Not P1593,c1ccccc1c1ccccc1,train
+1943,0,Not P1594,CCCCCCCCCCCCCCCCOP(=O)(O)O,train
+1944,0,Not P1595,CCC(=O)C,train
+1945,0,Not P1596,ClCC(=O)C(Cl)Cl,train
+1946,0,Not P1597,NNC(=O)CCCCCCCCC(=O)NN,train
+1947,0,Not P1598,CCCCCC/C=C/C(=O)OC,train
+1948,0,Not P1599,CCCCCCC=CC(=O)OC,train
+1949,0,Not P1600,OCCCCC(O)CO,train
+1950,0,Not P1601,COC(=O)CC(=C)C(=O)OC,train
+1951,0,Not P1602,CC(C)CO,test
+1952,0,Not P1603,Cc1cc(C)c(Cl)c(O)c1,train
+1953,0,Not P1604,COc1ccc(CC=C)cc1OC,train
+1954,0,Not P1605,O=c1oc2ccccc2cc1,train
+1955,0,Not P1606,C[C@@H]1CC[C@H]([C@@H](C1)O)C(=C)C,train
+1956,0,Not P1607,CC1CCC(C(O)C1)C(=C)C,train
+1957,0,Not P1608,CC12CCC3C(CCC4CC5OC5CC34C)C1CC(N1CCCC1)C2=O,train
+1958,0,Not P1609,CCCCCCCCCCCCNCCC(=O)O,test
+1959,0,Not P1610,C(=O)(C=C)OCC[N+](C)(C)C,train
+1960,0,Not P1611,COC(=O)[C@@H](N)CO,train
+1961,0,Not P1612,CCCCCCCCCCCC(=O)NC(CCC(=O)[O-])C(=O)[O-],train
+1962,0,Not P1613,C(=O)([O-])NC(=O)N,train
+1963,0,Not P1614,[O-]S(=O)(=O)C1=CC(=NNc2ccc(c3ccccc23)S(=O)(=O)[O-])C(=O)c2ccccc12,test
+1964,0,Not P1615,OCC(O)COP(=O)([O-])[O-],train
+1965,0,Not P1616,CCCCCC1C(O)CCC1CC(=O)[O-],train
+1966,0,Not P1617,NC(=O)c1ccc[n+](c1)[C@@H]1O[C@H](COP(=O)([O-])OP(=O)([O-])OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)n2cnc3c(N)ncnc23)[C@@H](O)[C@H]1O,train
+1967,0,Not P1618,CCCCCCCC(CCCCCCCC[ClH2+2])CCCCCCCC[ClH2+2],train
+1968,0,Not P1619,CC[N+](C)(C)CCOC(=O)C(=C)C,train
+1969,0,Not P1620,C1=Cc2cc(S(=O)(=O)[O-])ccc2C(=NNc2ccc(S(=O)(=O)[O-])cc2)C1=O,train
+1970,0,Not P1621,C(=O)([O-])[O-],train
+1971,0,Not P1622,CCCCOP(=O)(S)OCCCC,train
+1972,0,Not P1623,OC(C(=O)[O-])S(=O)(=O)O,train
+1973,0,Not P1624,CN(C(C(=O)[O-])P(=O)(O)O)C(=N)N,train
+1974,0,Not P1625,O=C1N(Cc2ccccc2)C2C[S+]3CCCC3C2N1Cc1ccccc1,test
+1975,0,Not P1626,C(C(C1C(=C(C(=O)O1)O)[O-])O)O,test
+1976,0,Not P1627,[O-]C(=O)CCNCCCN(CCC(=O)[O-])CCC(=O)[O-],train
+1977,0,Not P1628,N[C@@H](CC(=O)O)C(=O)[O-],train
+1978,0,Not P1629,CC(C)CC(C)OC(=O)CC(C(=O)OC(C)CC(C)C)S(=O)(=O)[O-],train
+1979,0,Not P1630,CCCCCCCCC(CC)c1ccc(cc1)S(=O)(=O)[O-],train
+1980,0,Not P1631,CCCCCCCCCCCCCCCOS(=O)(=O)[O-],train
+1981,0,Not P1632,CCCCCCCCCCOS(=O)(=O)[O-],train
+1982,0,Not P1633,CC(=O)[CH-]C(=O)C,train
+1983,0,Not P1634,CCN(CC)c1cc2[o+]c3cc(ccc3c(c3ccccc3C(=O)O)c2cc1)N(CC)CC,train
+1984,0,Not P1635,CC(C)c1ccc(cc1)S(=O)(=O)[O-],train
+1985,0,Not P1636,C(CCCCCC)(CCCC)COS(=O)(=O)[O-],train
+1986,0,Not P1637,[O-]S(=O)(=O)c1cc(c2ccc3c4c(ccc1c24)c(cc3S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-],train
+1987,0,Not P1638,CCCCCCCCCCCC(=O)N(C)CCS(=O)(=O)[O-],train
+1988,0,Not P1639,CC(C)CCCCCCCOCCCN,train
+1989,0,Not P1640,Cn1sc(Cl)cc1=O,train
+1990,0,Not P1641,CCCCCCCC/C=C\CCCCCCCC(=O)N(C)CC(=O)[O-],train
+1991,0,Not P1642,CCCCCCCC/C=C/CCCCCCCC(=O)NCC[N+](C)(CCO)CC(O)CS(=O)(=O)[O-],train
+1992,0,Not P1643,CCCC[N+](CCCC)(CCCC)CCCC,train
+1993,0,Not P1644,OCCCCCCBr,train
+1994,0,Not P1645,Cc1cc(ccc1N=Nc1c(O)ccc2ccccc12)S(=O)(=O)[O-],train
+1995,0,Not P1646,O[C@H]([C@@H](O)C(=O)O)C(=O)O,train
+1996,0,Not P1647,c1cccc([S-])n1=O,train
+1997,0,Not P1648,C(=O)(O)NCC(C)O,train
+1998,0,Not P1649,COc1ccc(N/N=C\2/C(=O)c3ccc(Nc4nc(nc(Nc5ccc6C(=O)/C(=N\Nc7ccc(OC)cc7S(=O)(=O)[O-])/C(=Cc6c5)S(=O)(=O)[O-])n4)N4CCOCC4)cc3C=C2S(=O)(=O)[O-])c(c1)S(=O)(=O)[O-],train
+1999,0,Not P1650,OCCN(CCO)CC(=O)[O-],train
+2000,0,Not P1651,Cc1ccc(cc1)S(=O)[O-],train
+2001,0,Not P1652,NC(CSCC(=O)O)C(=O)O,train
+2002,0,Not P1653,CCCCCCCCCCCCCC[N+](C)(C)C,train
+2003,0,Not P1654,[O-]OC(=O)c1ccccc1C(=O)[O-],test
+2004,0,Not P1655,NC(=O)c1ccc[n+](Cc2ccccc2)c1,train
+2005,0,Not P1656,[O-]S(=O)(=O)CCN1C(=O)c2ccccc2C1=O,train
+2006,0,Not P1657,C[N+](C)(CCO)CCCNC(=O)C(O)C(O)C(O)C(O)CO,train
+2007,0,Not P1658,C(=O)([O-])CCCCCCCC(CCCCCCCCC)S(=O)(=O)[O-],train
+2008,0,Not P1659,CC[O-],test
+2009,0,Not P1660,CCCCCCCCCCCC(=O)NC(=N)NCCC[C@H](N)C(=O)OCC,train
+2010,0,Not P1661,CCCC[N+](C)(CCCC)CCCC,train
+2011,0,Not P1662,CCCCC(CC)COC(=O)CC(C(=O)OCC(CC)CCCC)S(=O)(=O)[O-],train
+2012,0,Not P1663,CCN(CC)c1ccc(cc1)C(=N)c1ccc(cc1)N(CC)CC,test
+2013,0,Not P1664,Oc1c(N=Nc2ccc3c(cccc3c2S(=O)(=O)[O-])S(=O)(=O)O)c(cc2cc(Nc3nc(Cl)nc(Nc4ccc(cc4)S(=O)(=O)CCOS(=O)(=O)O)n3)ccc12)S(=O)(=O)O,train
+2014,0,Not P1665,CCCCCCCC[N+](C)(C)C,train
+2015,0,Not P1666,C[N+](C)(CCO)CCCO,train
+2016,0,Not P1667,OC/C=C/1\O[C@@H]2CC(=O)N2[C@H]1C(=O)O,test
+2017,0,Not P1668,Oc1ccc(O)c(c1)S(=O)(=O)[O-],test
+2018,0,Not P1669,CCCCC/C=C\C/C=C\CCCCCCCC(=O)NCCC[N+](C)(C)CC(O)COP(=O)(OCC(O)C[N+](C)(C)CCCNC(=O)CCCCCCC/C=C\C/C=C\CCCCC)OCC(O)C[N+](C)(C)CCCNC(=O)CCCCCCC/C=C\C/C=C\CCCCC,train
+2019,0,Not P1670,C/C(=N\NC(=O)Nc1cc(F)cc(F)c1)/c1ncccc1C(=O)[O-],train
+2020,0,Not P1671,Cc1ccccc1Cc1cc(Cc2ccccc2C)c(O)c(c1)C(=O)[O-],train
+2021,0,Not P1672,CC(C)c1ccccc1S(=O)(=O)[O-],train
+2022,0,Not P1673,O=S([O-])c1ccccc1,train
+2023,0,Not P1674,CCCCCCCCCC[N+](C)(C)CCCCCCCCCC,train
+2024,0,Not P1675,C(=O)(O)CCCCCCCCCCCCC(CCCCCCCC)S(=O)(=O)[O-],train
+2025,0,Not P1676,CC(O)C[N+](C)(C)C,train
+2026,0,Not P1677,CC(=O)O[BH-](OC(=O)C)OC(=O)C,train
+2027,0,Not P1678,C[C@@H](C(=O)[O-])O,train
+2028,0,Not P1679,CCCCCCCCCCCC(=O)NCC(=O)[O-],test
+2029,0,Not P1680,COS(=O)(=O)[O-],train
+2030,0,Not P1681,Cc1ncc(C[n+]2csc(CCO)c2C)c(N)n1,test
+2031,0,Not P1682,c1(N)c(N)cnn1CCO,train
+2032,0,Not P1683,ON(CCS(=O)(=O)O)CCS(=O)(=O)[O-],train
+2033,0,Not P1684,Nc1cc(C(=O)[O-])c(/N=N/c2c(cc(cc2)S(=O)(=O)CCOS(=O)(=O)O)S(=O)(=O)O)c(N)c1/N=N/c1ccc(cc1)S(=O)(=O)CCOS(=O)(=O)O,train
+2034,0,Not P1685,CCCCCCCCCCCCCCCCCOS(=O)(=O)[O-],train
+2035,0,Not P1686,[O-]C(=O)CCC(=O)C(=O)[O-],train
+2036,0,Not P1687,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O,train
+2037,0,Not P1688,CC(C(c1ccccc1)O)NC,train
+2038,0,Not P1689,C[N+](C)(C)CC(O)CC(=O)N,train
+2039,0,Not P1690,OCC(O)C(O)C(O)C(O)C(O)C(=O)[O-],train
+2040,0,Not P1691,CCCCCCCCCCCCc1ccc(cc1)S(=O)(=O)[O-],train
+2041,0,Not P1692,C(=O)(N)[O-],train
+2042,0,Not P1693,C(C(=O)[O-])Oc1ccccc1,train
+2043,0,Not P1694,CC(=O)C(=O)[O-],train
+2044,0,Not P1695,[O-]C(=O)c1ccc(NC(=O)c2ccc(Cl)cc2)cc1,train
+2045,0,Not P1696,CCN(CC)C(=S)[S-],train
+2046,0,Not P1697,CC1(C)[C@H](CC[C@@]2(C)[C@H]1CC[C@]1(C)[C@@H]2C(=O)C=C2[C@@H]3C[C@](C)(CC[C@]3(C)CC[C@@]12C)C(=O)O)O[C@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C(=O)[O-])C(=O)[O-],train
+2047,0,Not P1698,CC12CCC(C)(CC1C1=CC(=O)C3C4(C)CCC(OC5OC(C(O)C(O)C5OC5OC(C(O)C(O)C5O)C(=O)O)C(=O)O)C(C)(C)C4CCC3(C)C1(C)CC2)C(=O)O,train
+2048,0,Not P1699,C[N+](C)(C)CC1CO1,train
+2049,0,Not P1700,CC12CCC3C(CCC4=CC(=O)C=CC34C)C1CCC2=O,train
+2050,0,Not P1701,CC(C)(N=NC(C)(C)C1=NCCN1)C1=NCCN1,train
+2051,0,Not P1702,CCCCOCCOCC(=O)[O-],train
+2052,0,Not P1703,CCCCCCCC[N+](C)(C)CCCCCCCC,train
+2053,0,Not P1704,OC(=O)CCC(=O)NCCCC[C@H](NC(=O)CCC(=O)O)C(=O)O,train
+2054,0,Not P1705,CCCCC(CC)COS(=O)(=O)[O-],train
+2055,0,Not P1706,CCCCCCCCCCCCOS(=O)(=O)[O-],train
+2056,0,Not P1707,CCCCCCCCCCCC(=O)NCCC[N+](C)(C)CC(=O)O,train
+2057,0,Not P1708,CCCCCCCCCCCCCC(=O)NC(CCC(=O)[O-])C(=O)[O-],train
+2058,0,Not P1709,[O-]C(=O)C(=O)[O-],train
+2059,0,Not P1710,CN(C)C(=S)[S-],train
+2060,0,Not P1711,[c+]1n(C)ccn1CC,train
+2061,0,Not P1712,CCCCCCCCCCCCCC(=O)N(C)CC(=O)[O-],train
+2062,0,Not P1713,C=CS(=O)(=O)[O-],train
+2063,0,Not P1714,Cc1nn(c2ccccc2)c([O-])c1N=Nc1cc(cc(c1[O-])S(=O)(=O)[O-])N(=O)=O,train
+2064,0,Not P1715,CCCCCCCCCCCCCCCC(=O)N1C(CCC1=O)C(=O)[O-],train
+2065,0,Not P1716,CCCCC(CC)CN(CCC(=O)O)CCC(=O)[O-],train
+2066,0,Not P1717,CCCCC(CC)C(=O)[O-],train
+2067,0,Not P1718,Cc1ccc(cc1)C(=O)CCC(=O)O,test
+2068,0,Not P1719,CC(C)[O-],train
+2069,0,Not P1720,CC(CC(=O)[O-])CC(C)(C)C,train
+2070,0,Not P1721,CC(Cc1cc(C)cc(=O)n1O)CC(C)(C)C,train
+2071,0,Not P1722,CCN(Cc1ccccc1)c1ccc(/C=C(\C#N)/C(=O)OCC[N+](C)(C)C)cc1,train
+2072,0,Not P1723,c1ccc(S(=O)(=O)[O-])cc1N(=O)=O,train
+2073,0,Not P1724,CC(C)(ON=C(C(=O)NC1C2SCC(=C(N2C1=O)C(=O)O)C[n+]1ccccc1)c1csc(N)n1)C(=O)O,train
+2074,0,Not P1725,C(=O)([O-])C(O)C(C)(C)CO,test
+2075,0,Not P1726,OP(=O)(O)CN(CCNCCN(CP(=O)(O)O)CP(=O)(O)O)CP(=O)(O)O,train
+2076,0,Not P1727,CCCCCCCC1N(CCO)C=CN1CCC(=O)[O-],train
+2077,0,Not P1728,CC(C)CP(=S)([S-])CC(C)C,train
+2078,0,Not P1729,Nc1c(N=Nc2cc(Nc3nc(Cl)nc(Nc4ccc(cc4)S(=O)(=O)CCOS(=O)(=O)O)n3)ccc2S(=O)(=O)O)c(cc2cc(c(N=Nc3ccc4c(cccc4c3S(=O)(=O)[O-])S(=O)(=O)O)c(O)c12)S(=O)(=O)O)S(=O)(=O)O,train
+2079,0,Not P1730,C(=O)(C(CC(=O)OCCCCCCCC(C)C)S(=O)(=O)[O-])OCCCCCCCC(C)C,train
+2080,0,Not P1731,CCCCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1,train
+2081,0,Not P1732,C[N+](C)(C)C,train
+2082,0,Not P1733,NC(Cc1c[nH]c2ccccc12)C(=O)O,train
+2083,0,Not P1734,CCCCCCCCCC(CC)c1ccc(cc1)S(=O)(=O)O,train
+2084,0,Not P1735,[O-]C(=O)c1cccc(c1)S(=O)(=O)[O-],train
+2085,0,Not P1736,CC(=O)[O-],train
+2086,0,Not P1737,CCCCCCCCCCCC(=O)OCC[N+](C)(C)C,train
+2087,0,Not P1738,C[N+](C)(CCO)CCCNC=O,train
+2088,0,Not P1739,Oc1ccc2ccccc2c1N=Nc1ccc(cc1)S(=O)(=O)[O-],test
+2089,0,Not P1740,C([C@H]([C@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O)O,train
+2090,0,Not P1741,CCCCCCCCCCCCCCCC[N+](C)(C)CC(=O)OCC,train
+2091,0,Not P1742,Oc1cc(O)c(cc1)N=Nc1ccccn1,train
+2092,0,Not P1743,CC(C)C1=CC2=CC[C@@H]3[C@@]([C@H]2CC1)(CCC[C@@]3(C)C(=O)[O-])C,train
+2093,0,Not P1744,C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,train
+2094,0,Not P1745,Cc1ccc(cc1)S(=O)(=O)[N-]Cl,train
+2095,0,Not P1746,C(=O)(CCCCCCCCCCC)OC(C)CS(=O)(=O)O,train
+2096,0,Not P1747,C(O)S(=O)[O-],train
+2097,0,Not P1748,CCCCCCCCCCOP(=O)(O)O,train
+2098,0,Not P1749,CCCCC(CC)COP(=O)([O-])OCC(CC)CCCC,train
+2099,0,Not P1750,C[N+](C)(C)CCCNC(=O)CCCCCCCCC=C,test
+2100,0,Not P1751,CCCCCCCC/C=C\CCCCCCCC[N+](C)(CCO)CCO,train
+2101,0,Not P1752,CCCCCCCCCCCCOCCOCC(CC(=O)[O-])S(=O)(=O)[O-],train
+2102,0,Not P1753,Cc1ccc2nc(sc2c1S(=O)(=O)O)c1ccc(cc1)N=NC1C(=O)NC(=NC1=O)NC#N,train
+2103,0,Not P1754,CNCCS(=O)(=O)[O-],train
+2104,0,Not P1755,[O-]C(=O)C(=C)Cl,train
+2105,0,Not P1756,CCCCCCCCCCCCCC(=O)[O-],train
+2106,0,Not P1757,CCCCCCCC/C=C/CCCCCCCCOC(=O)C(CC(=O)[O-])S(=O)(=O)[O-],train
+2107,0,Not P1758,[O-]C(=O)c1ccc2ccccc2c1,train
+2108,0,Not P1759,CC(C)OC(=S)[S-],train
+2109,0,Not P1760,CC(=C)C(=O)OCC[N+](C)(C)C,train
+2110,0,Not P1761,CC(CC(=O)NCCCCCC(=O)[O-])CC(C)(C)C,train
+2111,0,Not P1762,C(=O)([O-])CC(CCC)CC,train
+2112,0,Not P1763,CCCCCCCCOS(=O)(=O)[O-],train
+2113,0,Not P1764,Nc1c(OCCO)nn2ccccc12,train
+2114,0,Not P1765,[O-]C(=O)CC[C@H](N(CC(=O)[O-])CC(=O)[O-])C(=O)[O-],train
+2115,0,Not P1766,Nc1ccc2c(O)c(N=Nc3ccc(cc3)S(=O)(=O)CCOS(=O)(=O)O)c(cc2c1N=Nc1ccc(cc1S(=O)(=O)O)S(=O)(=O)CCOS(=O)(=O)O)S(=O)(=O)[O-],train
+2116,0,Not P1767,CCCCCCCCCCC(N)CO,train
+2117,0,Not P1768,CCCC(=O)OCCS(=O)(=O)[O-],train
+2118,0,Not P1769,CCCCCCCCCCCC[N+](C)(C)C,train
+2119,0,Not P1770,CN1c2ccccc2C(C)(C)C1=CC=CC1=[N+](C)c2ccccc2C1(C)C,train
+2120,0,Not P1771,COC(=O)/C=C(/C)\NC(C(=O)[O-])c1ccc(O)cc1,train
+2121,0,Not P1772,CC(=C)C(=O)NCCC[N+](C)(C)C,train
+2122,0,Not P1773,CCCCCC[C@@H](O)C/C=C\CCCCCCCC(=O)[O-],train
+2123,0,Not P1774,CCCCCCC(O)CC=CCCCCCCCC(=O)[O-],test
+2124,0,Not P1775,CCCCCCCCCCCCc1ccccc1S(=O)(=O)[O-],train
+2125,0,Not P1776,OCNCC(=O)[O-],train
+2126,0,Not P1777,N[C@@H](CCC(=O)O)C(=O)O,train
+2127,0,Not P1778,CCCCCCCCOCC,train
+2128,0,Not P1779,CCCCCCCCS(=O)(=O)[O-],train
+2129,0,Not P1780,CCN(CC)c1ccc2cc(c3[n+](C)c4ccccc4n3C)c(=O)oc2c1,train
+2130,0,Not P1781,[O-]n1ccccc1=S,train
+2131,0,Not P1782,CC(O)S(=O)(=O)[O-],train
+2132,0,Not P1783,[O-]S(=O)(=O)c1cccc(c1)S(=O)(=O)[O-],train
+2133,0,Not P1784,CCC1CCC(CCC(=O)[O-])C1,train
+2134,0,Not P1785,CCCCOCCOS(=O)(=O)[O-],train
+2135,0,Not P1786,CC1=CC(=O)C(=C(C)[O-])C(=O)O1,test
+2136,0,Not P1787,C[N+](C)(C)CC(O)CCl,train
+2137,0,Not P1788,NC(=O)c1ccc[n+](c1)[C@@H]1O[C@H](COP(=O)([O-])OP(=O)([O-])OC[C@H]2O[C@H]([C@H](OP(=O)(O)[O-])[C@@H]2O)n2cnc3c2ncnc3N)[C@@H](O)[C@H]1O,train
+2138,0,Not P1789,[C@@H](CCCNC(=N)N)(NC(=O)CCCCCCCCCCC)C(=O)OCC,train
+2139,0,Not P1790,CCOC(=O)[CH-]C(=O)C,train
+2140,0,Not P1791,NC(CS)C(=O)O,test
+2141,0,Not P1792,O=N(=O)c1ccc(OP(=O)([O-])[O-])cc1,train
+2142,0,Not P1793,CCCCCCCCCCCC(=O)NCCC[N+](C)(C)C,train
+2143,0,Not P1794,c1cccc(O)c1C(=O)[O-],train
+2144,0,Not P1795,C[N+](C)(C)CCOP(=O)([O-])[O-],train
+2145,0,Not P1796,C(=O)(C(N)C(C)C)OCc1ccccc1,train
+2146,0,Not P1797,CCCCC(CC)CO,train
+2147,0,Not P1798,C(=[N-])=[N-],train
+2148,0,Not P1799,NNC(=O)C(N)CO,train
+2149,0,Not P1800,OC(CCCC(O)S(=O)(=O)[O-])S(=O)(=O)[O-],train
+2150,0,Not P1801,OCC([O-])C[O-],train
+2151,0,Not P1802,CCNc1cc2[o+]c3cc(NCC)c(C)cc3c(c3ccccc3C(=O)OC)c2cc1C,train
+2152,0,Not P1803,[O-]C1=C(C=CC(=NNc2ccc(cc2)S(=O)(=O)[O-])C1=O)N=Nc1cc(cc(c1[O-])N(=O)=O)N(=O)=O,train
+2153,0,Not P1804,C(#N)[S-],train
+2154,0,Not P1805,CCOC(=S)[S-],train
+2155,0,Not P1806,CCCCCCCC/C=C/CCCCCCCC(=O)O,train
+2156,0,Not P1807,CCCCCCCCC=CCCCCCCCC(=O)[O-],train
+2157,0,Not P1808,C1C=CC=C1,test
+2158,0,Not P1809,C(=Cc1ccc(N=Nc2ccc(N=Nc3ccc(S(=O)(=O)[O-])cc3)cc2)cc1S(=O)(=O)[O-])c1ccc(N=Nc2ccc(S(=O)(=O)[O-])cc2)cc1S(=O)(=O)[O-],train
+2159,0,Not P1810,C1CNCCN1,train
+2160,0,Not P1811,OC(O)CCOCCC(O)O,train
+2161,0,Not P1812,OCC(O)COCC(O)CO,train
+2162,0,Not P1813,C1O[C@@H]([C@@H]([C@H]1O)O)[C@H](O)CO,train
+2163,0,Not P1814,C([N+])CN,train
+2164,0,Not P1815,OC(=O)[C@@H]1CCC(=O)N1,train
+2165,0,Not P1816,CCCCCCCC/C=C\CCCCCCCCN,train
+2166,0,Not P1817,[cH-]1cccc1,train
+2167,0,Not P1818,[O-]C(C)C,train
+2168,0,Not P1819,OC(=O)/C=C\C(=O)O,train
+2169,0,Not P1820,C([C@H](CCl)O)O,train
+2170,0,Not P1821,[O-]S1(=O)=NC(=O)c2ccccc12,train
+2171,0,Not P1822,CC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,train
+2172,0,Not P1823,CN[C@@H](C)[C@@H](O)c1ccccc1,train
+2173,0,Not P1824,CN[C@@H](C)[C@H](O)c1ccccc1,train
+2174,0,Not P1825,[C@H]1(C[C@@H]2CCN1C[C@@H]2C=C)[C@H](O)c1ccnc2ccc(OC)cc12,train
+2175,0,Not P1826,CN1CCC[C@H]1c1cccnc1,train
+2176,0,Not P1827,CC12CCC3C(C=CC4=CC(=O)CCC34C)C1CCC12CCC(=O)O1,train
+2177,0,Not P1828,Cc1c(C)c(ccc1)S(=O)(=O)O,train
+2178,0,Not P1829,OC(=O)CC(C(=O)O)O,train
+2179,0,Not P1830,CCCCC(C(=O)O)CC,train
+2180,0,Not P1831,OC(=O)C(CC(=O)O)(CC(=O)O)O,train
+2181,0,Not P1832,OC(=O)c1ccccc1O,train
+2182,0,Not P1833,CC(CC(C)(C)C)CC(=O)O,train
+2183,0,Not P1834,CC(=C)C1CC=C(C(=O)C1)C,train
+2184,0,Not P1835,OCCNC(=O)C=C,train
+2185,0,Not P1836,CCCCC(COP(=O)(O)O)CC,train
+2186,0,Not P1837,OCC1CO[Zn]O1,train
+2187,0,Not P1838,CC(C(=O)OCC(C(C(C)C)O)(C)C)C,train
+2188,0,Not P1839,OCC(OCC(O)C)C,train
+2189,0,Not P1840,OCC(OC(COCC(OC(COCC(OCC(COC(COCC(OC(COCC(OC(CO)C)C)C)C)C)(COCC(OC(COCC(OC(COCC(O)C)C)C)C)C)CC)C)C)C)C)C,train
+2190,0,Not P1841,CC(=O)CC1(C)OO1,train
+2191,0,Not P1842,NC(=O)CCC(C(=O)O)NC(=O)C(N)C,test
+2192,0,Not P1843,CCCCCCCCCCCCCCCCN,train
+2193,0,Not P1844,CCCCCCCC(=O)c1ccc(c(c1)C(=O)O)O,train
+2194,0,Not P1845,C=CCCCCCCCCC(=O)NC(C(=O)O)Cc1ccccc1,train
+2195,0,Not P1846,[O-]C(=O)C(=O)[O-],train
+2196,0,Not P1847,OCCN(CC(=O)[O-])CC(=O)[O-],train
+2197,0,Not P1848,OC(C(C(=O)[O-])O)C(=O)[O-],train
+2198,0,Not P1849,Cc1ccc(cc1)S(=O)(=O)[O-],train
+2199,0,Not P1850,O=N(=O)c1cc(N)c(c(c1)N(=O)=O)[O-],test
+2200,0,Not P1851,[O-]C(=O)C(C(C(=O)O)O)O,train
+2201,0,Not P1852,OCCS(=O)(=O)[O-],train
+2202,0,Not P1853,[O-]C(=O)CNC,train
+2203,0,Not P1854,[S-]C,train
+2204,0,Not P1855,CC(C(=O)[O-])C,train
+2205,0,Not P1856,[O-]C(=O)Cc1ccccc1,train
+2206,0,Not P1857,[NH2+]=C(NC(=N)Nc1ccc(cc1)Cl)NCCCCCCNC(=[NH2+])NC(=N)Nc1ccc(cc1)Cl,train
+2207,0,Not P1858,OCC(C(C(C(C(=O)[O-])O)O)O)O,train
+2208,0,Not P1859,[O-]S(=O)(=O)C,train
+2209,0,Not P1860,OCc1cccnc1,train
+2210,0,Not P1861,CCCCCCCC(=O)[O-],train
+2211,0,Not P1862,[O-]C(=O)C[C@@H](C(=O)[O-])NCCN[C@H](C(=O)[O-])CC(=O)O,train
+2212,0,Not P1863,CC(CC(C)(C)C)CC(=O)[O-],train
+2213,0,Not P1864,OC(CO)COC=O,train
+2214,0,Not P1865,OCC(OC=O)CO,train
+2215,0,Not P1866,O=COCC(COC=O)O,train
+2216,0,Not P1867,O=COCC(OC=O)CO,train
+2217,0,Not P1868,C1=C(C=C(C(=C1Cl)Cl)Cl)O,train
+2218,0,Not P1869,CN1C(=O)C=C(S1)Cl,train
+2219,0,Not M1,CCCC[Sn](CCCC)(CCCC)CCCC,train
+2220,0,Not M2,Cc1cc(Cc2cc(C)cc(C3CCCCC3)c2O)c(O)c(c1)C1CCCCC1,train
+2221,0,Not M3,C(CCCC)(CC)CN(CC(CCCC)CC)Cn1cncn1,train
+2222,0,Not M4,COc1ccc(cc1)N1CCN(CC1)c1ccc(cc1)N(=O)=O,train
+2223,0,Not M5,C(C)(C)(C(C)C(C)(C)C)SSSC(C)(C)C(C)C(C)(C)C,train
+2224,0,Not M6,COc1ccc(Cl)cc1NC(=O)C(N=Nc1ccc(cc1OC)N(=O)=O)C(=O)C,train
+2225,0,Not M7,OC(=O)CN(CC(=O)O)CP(=O)(O)O,train
+2226,0,Not M8,Cc1ccc(cc1N/N=C\1/C(=O)C(=Cc2ccccc12)C(=O)Nc1ccc(Cl)cc1)N(=O)=O,train
+2227,0,Not M9,CCCCCCCCCCCCCCCCC=CC1CC(=O)N(CCNCCNCCNCCN2C(=O)CC(C=CCCCCCCCCCCCCCCCC)C2=O)C1=O,train
+2228,0,Not M10,CC(C)(c1cc(ccc1)C(C)(C)N=C=O)N=C=O,train
+2229,0,Not M11,Cc1cc(Cc2cc(C)c(O)c(C)c2)cc(C)c1O,train
+2230,0,Not M12,c1(N=Nc2ccccc2)ccc(N(CCOC(C)OCC(C)C)CC)cc1,train
+2231,0,Not M13,O=N(=O)c1cc(ccc1Nc1ccccc1)S(=O)(=O)Nc1ccccc1,train
+2232,0,Not M14,Cc1ccc(cc1)C1CCC(CC1)C1CCC(CC1)C=C,train
+2233,0,Not M15,CCOc1ccccc1NC(=O)c1cc2ccccc2c(N=Nc2ccc(C(=O)N)cc2)c1O,train
+2234,0,Not M16,CCCC1CCC(CC1)c1c(F)c(F)c(OCC)cc1,train
+2235,0,Not M17,CC(C)CCCC(C)CCCC(C)CCCC(=CCO)C,train
+2236,0,Not M18,Cc1ccc(cc1)C1=CCC(CC1)C1CCC2(CC1)OCCO2,train
+2237,0,Not M19,ClC(Cl)(Cl)SN(c1ccccc1)S(=O)(=O)c1ccccc1,test
+2238,0,Not M20,COc1cc(c(O)c(c1)C(C)(C)C)c1cc(OC)cc(c1O)C(C)(C)C,train
+2239,0,Not M21,CC(=C)C(=O)OCCC(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,train
+2240,0,Not M22,CCCC1CCC(CC1)C1CCC(CC1)c1c(F)c(F)c(OCC)cc1,test
+2241,0,Not M23,CC12CCC3C(=CC=C4CC5(CCC34C)OCCO5)C1CCC2C1(C)OCCO1,train
+2242,0,Not M24,c1(C2(c3cc(Cl)c(N)cc3)c3c(c4c2cccc4)cccc3)cc(Cl)c(N)cc1,train
+2243,0,Not M25,C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C,train
+2244,0,Not M26,CC(=O)Nc1ccc(Nc2ccc(O)c3c2C(=O)c2ccccc2C3=O)cc1,train
+2245,0,Not M27,CCC(C)C1(C)COC(OC1)C1CCC(=CC1C)C,train
+2246,0,Not M28,C1CCCCCCCCCCC1,train
+2247,0,Not M29,CCOc1c(F)c(F)c(cc1)c1ccc(cc1)C1CCC(CC)CC1,train
+2248,0,Not M30,c1(Cl)c(Cc2ccc(OCC)cc2)cc(C2C(OC(=O)C)C(OC(=O)C)C(OC(=O)C)C(COC(=O)C)O2)cc1,train
+2249,0,Not M31,Cc1cc(C)cc(C)c1Nc1ccc(Nc2c(C)cc(C)cc2C)c2c1C(=O)c1ccccc1C2=O,train
+2250,0,Not M32,CC(C)(C)OOC(C)(C)CCC(C)(C)OOC(C)(C)C,train
+2251,0,Not M33,CC(C)CCCCCCN(CCCCCCC(C)C)C(=S)S[Zn]SC(=S)N(CCCCCCC(C)C)CCCCCCC(C)C,train
+2252,0,Not M34,C(=O)(c1c(O)c(N=Nc2c(OC)ccc(C(=O)Nc3ccc(C(=O)N)cc3)c2)c2c(cccc2)c1)Nc1c(OC)cc(OC)c(Cl)c1,train
+2253,0,Not M35,C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C,train
+2254,0,Not M36,O=C(c1ccc(cc1O)N(CC)CC)c1ccccc1C(=O)OCCCCCC,train
+2255,0,Not M37,CCCCC(CC)CNC1(CC=Cc2ccccc12)N=Nc1ccc(cc1C)N=Nc1ccccc1C,train
+2256,0,Not M38,CCCCC(CC)COC(=O)C(=C(c1ccccc1)c1ccccc1)C#N,train
+2257,0,Not M39,C(=O)(O)c1cc(Br)nn1c1c(Cl)cccn1,train
+2258,0,Not M40,CCC[C@H]1CC[C@@H](OC1)c1ccc(cc1)c1cc(F)c(c(F)c1)C(F)(F)Oc1cc(F)c(F)c(F)c1,train
+2259,0,Not M41,CCCCC(CC)COC(=O)CC(CC(=O)OCC(CC)CCCC)(C(=O)OCC(CC)CCCC)OC(=O)C,train
+2260,0,Not M42,CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc12,train
+2261,0,Not M43,CC(CC)CCCC(C)CCCC(C)CCCC(C)C,test
+2262,0,Not M44,CCOC(=O)OCCOc1cc(O)c2C(=O)c3ccccc3C(=O)c2c1N,train
+2263,0,Not M45,CC(C)(c1ccccc1)C(C)(C)c1ccccc1,train
+2264,0,Not M46,CCOC(F)(C(F)(F)C(F)(F)C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F,train
+2265,0,Not M47,CCC(C)CCCOC(=O)CCc1cc(n2nc3ccccc3n2)c(O)c(c1)C(C)(C)C,train
+2266,0,Not M48,C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)C,train
+2267,0,Not M49,Clc1ccc(Oc2cccc(Cl)c2)cc1,train
+2268,0,Not M50,CCC(Cl)CCC(Cl)C(Cl)CC(Cl)C(Cl)C(Cl)CCl,train
+2269,0,Not M51,COc1ccccc1NC(=O)c1cc2ccccc2c(N=Nc2ccc(cc2)C(=O)N)c1O,train
+2270,0,Not M52,CCCCCC(Cl)CCCC,train
+2271,0,Not M53,Cc1cc(c(cc1Sc1cc(c(cc1C)O)C(C)(C)C)C(C)(C)C)O,train
+2272,0,Not M54,c12C(=O)c3c(C(=O)c1c(Nc1c(CC)cc(C)cc1CC)ccc2Nc1c(CC)cc(C)cc1CC)cccc3,train
+2273,0,Not M55,COc1ccc(Cl)cc1NC(=O)c1cc2ccccc2c(N=Nc2cc(ccc2OC)C(=O)Nc2ccccc2)c1O,test
+2274,0,Not M56,CC(C)(CCCCCCCCCCCCCCCC)CNCCNCCCCCC(=O)CCCCCCC/C=C/CCCCCCCC,train
+2275,0,Not M57,CCCCCCCCCc1ccc(O)cc1,train
+2276,0,Not M58,S=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,train
+2277,0,Not M59,NCCN1CCNCC1,train
+2278,0,Not M60,CCC(C)(C)OOC1(CCCCC1)OOC(C)(C)CC,train
+2279,0,Not M61,C[Si]1(O[Si](O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)(C)C)C,train
+2280,0,Not M62,CCC(C)(C)OOC(C)(CC)OOC(C)(C)CC,train
+2281,0,Not M63,CC1(C)CC2(CC(C)(C)N1)OC1(CCCCCCCCCCC1)NC2=O,train
+2282,0,Not M64,Cc1ccc(N=Nc2c(O)ccc3ccccc23)c(C)c1,train
+2283,0,Not M65,CC(C)(c1c(Br)cc(OCC2CO2)cc1Br)c1c(Br)cc(OCC2CO2)cc1Br,train
+2284,0,Not M66,CC(C)(CCCCCCCCC)SSSC(C)(C)CCCCCCCCC,train
+2285,0,Not M67,CCCC1CCC(CC1)C1CCC(=CC1)c1ccc(OCC)c(F)c1F,train
+2286,0,Not M68,Cc1ccccc1NC(=O)c1cc2ccccc2c(N=Nc2ccc(N(=O)=O)cc2C)c1O,train
+2287,0,Not M69,C(F)(F)(C(F)(F)C(F)(F)C(F)(F)F)S(=O)(=O)N(C)CCOC(=O)C=C,train
+2288,0,Not M70,CSc1ccc2Sc3ccccc3N(CCC3CCCCN3C)c2c1,train
+2289,0,Not M71,CC(C)[Si](OC(=O)C(=C)C)(C(C)C)C(C)C,train
+2290,0,Not M72,COc1ccc(cc1N/N=C/1\C(=O)C(=Cc2ccccc12)C(=O)N)C(=O)Nc1ccccc1,train
+2291,0,Not M73,CCCCOc1c(F)c(F)c(cc1)C1CCC(CCC)CC1,train
+2292,0,Not M74,CC(C)(C)OC(=O)NC(Cc1ccccc1)C(O)CN(Cc1ccc(cc1)c1ccccn1)NC(=O)OC(C)(C)C,train
+2293,0,Not M75,CCCCCCCCCC(C)(C)SSC(C)(C)CCCCCCCCC,train
+2294,0,Not M76,CCCCCCOc1cc(O)c(cc1)c1nc(nc(n1)c1ccccc1)c1ccccc1,train
+2295,0,Not M77,C(C)(C)(C)c1c(O)c(C(C)(C)C)cc(CSCC(=O)OCCCCCCCC(C)C)c1,train
+2296,0,Not M78,Cc1cc(C)cc(OP(=O)(Oc2cc(C)cc(C)c2)Oc2cc(C)cc(C)c2)c1,train
+2297,0,Not M79,CCCCN(CCCC)C(=S)SCSC(=S)N(CCCC)CCCC,train
+2298,0,Not M80,CCN(CC)S(=O)(=O)c1ccc(OC)c(N=Nc2c3ccccc3cc(C(=O)Nc3cc(Cl)c(OC)cc3OC)c2O)c1,train
+2299,0,Not M81,CCCCCCCCCCCCCCCCCC(=O)NN(C(=O)CCCCCCCCCCCCCCC)C(=N)NC(=O)CCCCCCC/C=C/CCCCCCCC,test
+2300,0,Not M82,C(=O)(O)C(C)(C)c1ccc(C#CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,train
+2301,0,Not M83,OC(=O)c1ccccc1Nc1cccc(C(F)(F)F)c1,test
+2302,0,Not M84,CCC(=O)OCC(C)(C)OC(C)C1CCCC(C)(C)C1,train
+2303,0,Not M85,CCCCC(CC)COP(=S)(OCC(CC)CCCC)S[Mo]12(=O)S[Mo]1(=O)(SP(=S)(OCC(CC)CCCC)OCC(CC)CCCC)S2,train
+2304,0,Not M86,CC(C)(c1cc(Br)c(OCC(Br)CBr)c(Br)c1)c1cc(Br)c(OCC(Br)CBr)c(Br)c1,train
+2305,0,Not M87,CCCc1ccc(cc1)c1c(F)cc(cc1)c1ccc(CC)cc1,train
+2306,0,Not M88,COC(=O)c1ccc(cc1N=Nc1c(O)c(cc2ccccc12)C(=O)Nc1ccccc1OC)C(=O)Nc1cc(Cl)ccc1Cl,train
+2307,0,Not M89,CC(=O)C(N=Nc1ccc(C)cc1N(=O)=O)C(=O)Nc1ccccc1,train
+2308,0,Not M90,CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC,train
+2309,0,Not M91,Cc1cc(Sc2cc(C)cc(c2O)C(C)(C)C)c(O)c(c1)C(C)(C)C,train
+2310,0,Not M92,CC1CC(CC(C1)(OOC(C)(C)C)OOC(C)(C)C)(C)C,train
+2311,0,Not M93,C(O)CN(C)CCOCCN(C)C,train
+2312,0,Not M94,CCN(CC)c1ccc(cc1)C(O)(c1ccc(cc1)N(CC)CC)c1ccc(cc1)N(CC)CC,train
+2313,0,Not M95,O=c1n2c3cccc4cccc(nc2c2cccc5cccc1c25)c34,train
+2314,0,Not M96,CC/C(=C(\c1ccccc1)/c1ccc(OCCN(C)C)cc1)/c1ccccc1,train
+2315,0,Not M97,c12C(=O)c3c(C(=O)c1c(Nc1c(C)cccc1CC)ccc2Nc1c(C)cccc1CC)cccc3,train
+2316,0,Not M98,CCN(CCOc1ccc(cc1)C1CCCCC1)c1ccc(C=C(C#N)C#N)c(C)c1,train
+2317,0,Not M99,c12C(=O)c3c(C(=O)c1cc(CCC=C(C)C)cc2)cccc3,train
+2318,0,Not M100,O=C(c1ccc(Oc2ccccc2)cc1)c1ccc(cc1)C(=O)c1ccc(Oc2ccccc2)cc1,train
+2319,0,Not M101,CC(C)(C)OOC(C)(C)C#CC(C)(C)OOC(C)(C)C,train
+2320,0,Not M102,Cc1ccccc1Nc1ccc(Nc2ccccc2C)c2c1C(=O)c1ccccc1C2=O,train
+2321,0,Not M103,c1(OC)c(N=NC(C(=O)C)C(=O)Nc2c(OC)cccc2)cc(N(=O)=O)cc1,train
+2322,0,Not M104,CCCCCCCCCCCCCCCCCCCCCC(=O)N,train
+2323,0,Not M105,Cc1ccc(cc1)[C@@H]1CC[C@H](CC1)C1CC[C@@H](CC1)CCC=C,train
+2324,0,Not M106,Clc1ccc(c(Cl)c1)[C@@]1(CBr)OC[C@@H](COC(=O)c2ccccc2)O1,train
+2325,0,Not M107,CCCC(c1cc(c(cc1C)O)C(C)(C)C)c1cc(c(cc1C)O)C(C)(C)C,train
+2326,0,Not M108,CC(C)(C)c1cc(C(C)(C)C)cc(C(C)(C)C)c1O,train
+2327,0,Not M109,Cc1cc(C2CCCCC2)c2OP(O)Oc3c(Cc2c1)cc(C)cc3C1CCCCC1,test
+2328,0,Not M110,C[Sn](C)(Cl)Cl,train
+2329,0,Not M111,Cc1cccc(Cc2ccccc2)c1Cc1ccccc1,train
+2330,0,Not M112,CC(C)[Si](OC(=O)C=C)(C(C)C)C(C)C,train
+2331,0,Not M113,Cc1cc(c(cc1C(C)CC(c1cc(c(cc1C)O)C(C)(C)C)c1cc(c(cc1C)O)C(C)(C)C)C(C)(C)C)O,train
+2332,0,Not M114,CCCCCCCCCCCCCNCCCCCCCCCCCCC,train
+2333,0,Not M115,CCCCCCCCCCCCCNc1ccc2ccccc2c1N=Nc1ccc(cc1C)N=Nc1ccccc1C,train
+2334,0,Not M116,Cc1ccccc1Nc1ccc(Nc2ccccc2)cc1,train
+2335,0,Not M117,O=C(OCCCCCCCCCCCCCC)Nc1cc(NC(=O)NCc2cccc(c2)CNC(=O)Nc2cc(NC(=O)OCCCCCCCCCCCCCC)c(C)cc2)c(C)cc1,train
+2336,0,Not M118,COc1ccccc1NC(=O)C(N=Nc1ccc(Cl)cc1N(=O)=O)C(=O)C,train
+2337,0,Not M119,O=C1c2cccc(NC3CCCCC3)c2C(=O)c2cccc(NC3CCCCC3)c12,train
+2338,0,Not M120,CC(=O)C(N=Nc1ccc(Cl)cc1N(=O)=O)C(=O)Nc1ccccc1Cl,train
+2339,0,Not M121,CC(C)c1ccc(cc1)C(C)(C)C(C)(C)c1ccc(cc1)C(C)C,train
+2340,0,Not M122,C(C)(C)(C)C(C(C)C)N(c1ccccc1)c1ccccc1,train
+2341,0,Not M123,C[Si](C)(C)O[Si](C)(O[Si](C)(C)C)O[Si](C)(C)C,train
+2342,0,Not M124,FC(F)C(F)(F)Oc1c(Cl)cc(NC(=O)NC(=O)c2c(F)cccc2F)cc1Cl,train
+2343,0,Not M125,CC(=O)OCCN(CCC#N)c1ccc(cc1)N=Nc1c(Cl)cc(cc1Cl)N(=O)=O,train
+2344,0,Not M126,CCCc1ccc(cc1)c1c(F)c(F)c(OCC)cc1,train
+2345,0,Not M127,O=C(NC1CCCCC1)Nc1ccc(Cc2ccc(NC(=O)NC3CCCCC3)cc2)cc1,train
+2346,0,Not M128,BrC1(Br)CCCCCCCCCC(Br)(Br)C1(Br)Br,train
+2347,0,Not M129,Fc1cc(OC(F)(F)c2c(F)cc(Br)cc2F)cc(F)c1F,train
+2348,0,Not M130,C(F)(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CC,train
+2349,0,Not M131,COc1ccc(cc1N=Nc1c(O)c(cc2ccccc12)C(=O)Nc1cccc(c1)N(=O)=O)N(=O)=O,train
+2350,0,Not M132,CCCCCCCCCCCCN(CCCCCCCCCCCC)CCCCCCCCCCCC,train
+2351,0,Not M133,CC(C)C(c1cc(C)cc(C)c1O)c1cc(C)cc(C)c1O,train
+2352,0,Not M134,C1CC=CC(C1)c1ccc(cc1)C1CCC=CC1,train
+2353,0,Not M135,Clc1c(Cl)c(Cl)c2C3=Nc4cccc5cccc(N3C(=O)c2c1Cl)c45,train
+2354,0,Not M136,Nc1cccc(c1)Oc1ccc(cc1)c1ccc(cc1)Oc1cccc(N)c1,train
+2355,0,Not M137,CC(=O)C(C(=O)Nc1ccccc1OC)N=Nc1ccc(OC)cc1N(=O)=O,train
+2356,0,Not M138,CCC(Cc1ccccc1)(N(C)C)C(=O)c1ccc(cc1)N1CCOCC1,train
+2357,0,Not M139,C(=O)(c1c(O)c(N=Nc2c(Cl)ccc(C(=O)N)c2)c2c(cccc2)c1)Nc1ccc(NC(=O)C)cc1,train
+2358,0,Not M140,CC(C)(c1ccccc1)c1ccc(cc1)Nc1ccc(cc1)C(C)(C)c1ccccc1,test
+2359,0,Not M141,CC(C)n1c(C=CC(O)CC(O)CC(=O)OC(C)(C)C)c(c2ccc(F)cc2)c2ccccc12,train
+2360,0,Not M142,CCCCC(CC)COC(=O)c1c(Br)c(Br)c(Br)c(Br)c1C(=O)OCC(CC)CCCC,train
+2361,0,Not M143,CCCCCCCCCCCCCCCCCCNC(=O)NCCCNC(=O)NCCCCCCCCCCCCCCCCCC,train
+2362,0,Not M144,O=C1C(=Cc2ccccc2C1=NNc1cc(Cl)ccc1Cl)C(=O)Nc1ccccc1,train
+2363,0,Not M145,CC(C)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(O)c(Br)c1,train
+2364,0,Not M146,C[Si]1(O[Si](O[Si](O[Si](O1)(C)C=C)(C)C=C)(C)C=C)C=C,train
+2365,0,Not M147,C[Si](C)(C)O[Si](O[Si](C)(C)C)(O[Si](C)(C)C)O[Si](C)(C)C,train
+2366,0,Not M148,C(F)(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCOC(=O)C=C,train
+2367,0,Not M149,CCCCCCCCCCCCCCCCCCCl,train
+2368,0,Not M150,CCN(CCOC(C)OCC(C)C)c1ccc(cc1)N=Nc1ccc(cc1Cl)N(=O)=O,train
+2369,0,Not M151,C(N1CCN(Cc2ccccc2)CCN(Cc2ccccc2)CCN(Cc2ccccc2)CC1)c1ccccc1,train
+2370,0,Not M152,c1cc2ccccc2c2ccc3ccccc3c12,train
+2371,0,Not M153,CC(C)CCCC(C)CCCC(C)CCCC1(C)CCc2c(C)c(O)cc(C)c2O1,train
+2372,0,Not M154,C1CC=CCC1C1OCC2(CO1)COC(C1CCC=CC1)OC2,test
+2373,0,Not M155,C(Oc1ccc2ccccc2c1)c1ccccc1,train
+2374,0,Not M156,COc1cc(NC(=O)C(N=Nc2cc(OC)c(cc2OC)S(=O)(=O)Nc2ccccc2)C(=O)C)c(OC)cc1Cl,test
+2375,0,Not M157,O=P(O)(O)OC(CCCCCCC)/C=C\CCCCCCCC(=O)OCC(COC(=O)CCCCCCC/C=C\C(CCCCCCC)OP(=O)(O)O)OC(=O)CCCCCCC/C=C\C(CCCCCCC)OP(=O)(O)O,train
+2376,0,Not M158,Fc1ccc(Oc2ccnc3cc(Cl)cc(Cl)c23)cc1,train
+2377,0,Not M159,COc1ccc(cc1N=Nc1c(O)c(cc2ccccc12)C(=O)Nc1cc(Cl)ccc1C)C(=O)Nc1ccccc1,train
+2378,0,Not M160,Cc1ccccc1NC(=O)c1cc2ccccc2c(N=Nc2ccc(Cl)cc2N(=O)=O)c1O,train
+2379,0,Not M161,CCC(CCCC)COCC(O)COc1cc(O)c(cc1)c1nc(nc(n1)c1ccc(C)cc1C)c1ccc(C)cc1C,train
+2380,0,Not M162,c1ccc(cc1)c1ccc(cc1)c1ccccc1,train
+2381,0,Not M163,CC(C)c1cccc(C(C)C)c1N=C=Nc1c(cccc1C(C)C)C(C)C,test
+2382,0,Not M164,C[Si]1(O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)C,train
+2383,0,Not M165,C1(C)(CC)C(C)C(=O)CC(C)(CC)N1OC(C)c1ccccc1,train
+2384,0,Not M166,CC(C)CCCC(C)C1CCC2C3CC=C4CC(CCC4(C)C3CCC12C)OC(=O)C,train
+2385,0,Not M167,CC(C)CC1CCC(CCC=O)CC1,train
+2386,0,Not M168,c1(c2c(O)cc(OCC(CCCC)CC)cc2)nc(c2c(O)cc(OCC(CCCC)CC)cc2)nc(c2ccc(OC)cc2)n1,train
+2387,0,Not M169,Cc1ccc(N(=O)=O)cc1N=Nc1c2ccccc2cc(C(=O)Nc2ccccc2)c1O,train
+2388,0,Not M170,OP(=O)(O)CN(CP(=O)(O)O)CP(=O)(O)O,train
+2389,0,Not M171,C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C,train
+2390,0,Not M172,CCCc1ccc(cc1)c1cc(F)c(c(F)c1)C(F)(F)Oc1cc(F)c(F)c(F)c1,train
+2391,0,Not M173,FC(C(F)(F)F)C(F)(F)Oc1c(Cl)cc(NC(=O)NC(=O)c2c(F)cccc2F)c(F)c1Cl,train
+2392,0,Not M174,CCC(C)Nc1ccc(Cc2ccc(NC(C)CC)cc2)cc1,train
+2393,0,Not M175,CCC(Cl)CCCCCCCCCCC,train
+2394,0,Not M176,Oc1ccc(cc1)C(=O)c1c2cc(ccc2oc1CCCC)N(=O)=O,train
+2395,0,Not M177,Cc1c(OC(=O)c2ccc(OC(=O)OCCCCOC(=O)C=C)cc2)ccc(OC(=O)c2ccc(OC(=O)OCCCCOC(=O)C=C)cc2)c1,train
+2396,0,Not M178,CC(C)(CC(=C)c1ccccc1)c1ccccc1,train
+2397,0,Not M179,C1CC=CCCC=CCCC=C1,train
+2398,0,Not M180,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc12,train
+2399,0,Not M181,CCCCCCCCCN(CCCCCCCCC)CCCCCCCCC,train
+2400,0,Not M182,CC(C)(C)c1cc(cc(c1O)C(C)(C)C)CCC(=O)OCCCCCC(C)CC(C)CCC,train
+2401,0,Not M183,CC(CN(C)C)CN1c2ccccc2CCc2ccccc12,train
+2402,0,Not M184,CC(C)(O)c1ccccc1CCC(O)c1cccc(C=Cc2ccc3ccc(Cl)cc3n2)c1,train
+2403,0,Not M185,CC1=CC(C(CC1)C1OCC2COC(C3CCC(=CC3C)C)N12)C,train
+2404,0,Not M186,COc1ccc(cc1N/N=C/1\C(=O)C(=Cc2ccccc12)C(=O)Nc1cccc(c1)N(=O)=O)C(=O)Nc1ccccc1,train
+2405,0,Not M187,[O-]C(=O)c1ccccc1c1c2cc(Br)c([O-])c(Br)c2oc2-c1cc(c(=O)c2Br)Br,train
+2406,0,Not M188,C1(C)(C)C(=C(C)C(=O)C(O)C1)C=C/C(=C\C[P+](c1ccccc1)(c1ccccc1)c1ccccc1)/C,train
+2407,0,Not M189,CCN(CC[N+](C)(C)CC(C)O)c1ccc(cc1)N=Nc1ccc(cc1Cl)N(=O)=O,train
+2408,0,Not M190,c1(C[P+](c2ccccc2)(c2ccccc2)N(CC)CC)ccccc1,test
+2409,0,Not M191,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,test
+2410,0,Not M192,OCCN(CCO)c1nc(Nc2ccc(/C=C/c3ccc(Nc4nc(nc(Nc5ccccc5)n4)N(CCO)CCO)cc3S(=O)(=O)[O-])c(c2)S(=O)(=O)[O-])nc(Nc2ccccc2)n1,train
+2411,0,Not M193,CC(O)(P(=O)([O-])[O-])P(=O)([O-])[O-],train
+2412,0,Not M194,Oc1c(Br)c2c(cc1Br)C(c1c(O2)c(Br)c(O)c(Br)c1)c1c(Cl)c(Cl)c(Cl)c(Cl)c1C(=O)[O-],train
+2413,0,Not M195,CCCCCCCCCCCCc1ccc(OP(=S)([S-])Oc2ccc(CCCCCCCCCCCC)cc2)cc1,train
+2414,0,Not M196,N(c1ccccc1)c1ccc(cc1)C(=C1C=CC(=Nc2ccccc2)C=C1)c1ccc(Nc2ccccc2)cc1,train
+2415,0,Not M197,CCCCCCCCCCCCCCCC[n+]1ccccc1,train
+2416,0,Not M198,C(=O)(O)c1c(c2ccc(Cn3c4c(c(C)cc(c5n(C)c6c(cccc6)n5)c4)nc3CCC)cc2)cccc1,test
+2417,0,Not M199,CN(C)c1ccc(cc1)[C+](c1ccc(cc1)N(C)C)c1ccc(Nc2ccccc2)c2ccccc12,test
+2418,0,Not M200,CNC1CCC(c2cc(Cl)c(Cl)cc2)c2ccccc12,train
+2419,0,Not M201,Nc1cc2cc(c(/N=N/c3ccc(cc3)/N=N/c3ccc(cc3)S(=O)(=O)[O-])c(O)c2cc1)S(=O)(=O)[O-],train
+2420,0,Not M202,Nc1ccc2c(O)c(N=Nc3ccc(cc3)N=Nc3ccc(cc3)S(=O)(=O)O)c(cc2c1)S(=O)(=O)O,train
+2421,0,Not M203,C(=O)(c1c(/N=N\c2c(O)c(/N=N\c3c(C(=O)OCCN(C)C)cccc3)c(O)cc2)cccc1)OCCN(C)C,train
+2422,0,Not M204,[O-]c1c(N=O)c2ccccc2cc1,train
+2423,0,Not M205,CCCCCCCCCCCCCCN(C(=O)OCCCCCCCCCCCC)c1cc(N=C=O)c(C)cc1,train
+2424,0,Not M206,Cc1c(NC(=O)O)cc(cc1)N=C=O,train
+2425,0,Not M207,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,train
+2426,0,Not M208,Clc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,train
+2427,0,Not M209,c1ccc2c(c1)c1cccc3cccc2c13,train
+2428,0,Not M210,c1cc2cc3c(cc2cc1)c1c2c3cccc2ccc1,train
+2429,0,Not M211,Clc1ccc(cc1Cl)c1c(Cl)cc(Cl)c(Cl)c1,train
+2430,0,Not M212,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,train
+2431,0,Not M213,COP(=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl,train
+2432,0,Not M214,Clc1cc(c(Cl)cc1)c1cc(Cl)c(Cl)cc1,train
+2433,0,Not M215,Clc1ccc(Cl)c(c1)c1c(Cl)cc(Cl)c(Cl)c1,train
+2434,0,Not M216,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+2435,0,Not M217,CCC(Cc1c(I)cc(I)c(N)c1I)C(=O)O,train
+2436,0,Not M218,[C@H]12C[C@H](C=C1)[C@@H]1[C@H]2[C@]2(Cl)C(=C(Cl)[C@@]1(Cl)C2(Cl)Cl)Cl,train
+2437,0,Not M219,Clc1cc(Cl)c(cc1Cl)c1c(Cl)c(Cl)c(Cl)cc1,train
+2438,0,Not M220,Brc1ccc(Oc2ccc(Br)cc2Br)c(Br)c1,train
+2439,0,Not M221,Clc1ccc(cc1)C(c1ccc(Cl)cc1)C(Cl)(Cl)Cl,test
+2440,0,Not M222,CC(C)CCCCCCCCCCCCCCCOC(=O)CCCCCCCCCCCCCCC(C)C,train
+2441,0,Not M223,C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C,train
+2442,0,Not M224,CCN1C(=O)/C(=N\Nc2ccc(cc2)C(=O)OCCOCCOC)/C(=C(C#N)C1=O)C,train
+2443,0,Not M225,CC(=O)/C=C(\C)/[C@]12C[C@]3(C)CC[C@H]1[C@]3(C)CCC2,train
+2444,0,Not M226,CC(c1cc(c(O)c(c1)c1ccccc1)c1ccccc1)(c1cc(c(O)c(c1)c1ccccc1)c1ccccc1)C(F)(F)F,train
+2445,0,Not M227,CC(C)(C)C(C(=O)OC(CCC=O)N1CCC(CC1)C(O)(c1ccccc1)c1ccccc1)c1ccccc1,train
+2446,0,Not M228,CC(=C)C(=O)OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,test
+2447,0,Not M229,CC(C)(C)c1ccc2oc(nc2c1)c1ccc(s1)c1nc2cc(ccc2o1)C(C)(C)C,train
+2448,0,Not M230,CCCC1CCC(CC1)C1CCC(CC1)c1ccc(OC(F)(F)F)cc1,train
+2449,0,Not M231,C=C[C@@H]1CCC(CC1)[C@@H]1CC[C@H](CC1)CCCCC,train
+2450,0,Not M232,CCCc1ccc(cc1)c1c(F)c(F)c(cc1)c1ccc(CC)cc1,train
+2451,0,Not M233,CCC(C)C(C)C(C)CCc1ccc(O)cc1,train
+2452,0,Not M234,CCCCC(CC)CNC(=O)c1ccc(N/N=C\2/C(=C(C#N)C(=O)N(C)C2=O)C)cc1,train
+2453,0,Not M235,c1ccc2ccc3cccc4ccc1c2c34,train
+2454,0,Not M236,O=C(C)c1ccc(cc1Cl)Oc1ccc(Cl)cc1,test
+2455,0,Not M237,CN(CCOC(=O)C(=C)C)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,train
+2456,0,Not M238,CCC(C)c1cc(c(O)c(c1)C(C)(C)C)C(C)(C)C,train
+2457,0,Not M239,CO[Si](CCCS[Si](C)(C)C(C)(C)C)(OC)OC,train
+2458,0,Not M240,FC(F)(F)C(Cl)(Cl)Cl,train
+2459,0,Not M241,CCC1CCC(OC1)c1ccc(cc1)c1cc(F)c(c(F)c1)C(F)(F)Oc1cc(F)c(F)c(F)c1,train
+2460,0,Not M242,CCCCc1ccc(Br)cc1,train
+2461,0,Not M243,CC(C)(C)C(=O)OCC1OC(Br)C(OC(=O)C(C)(C)C)C(OC(=O)C(C)(C)C)C1OC(=O)C(C)(C)C,train
+2462,0,Not M244,CCCc1ccc(cc1)c1cc(F)c(cc1)c1cc(F)c(c(F)c1)C(F)(F)Oc1cc(F)c(F)c(F)c1,train
+2463,0,Not M245,c1(c2ccc(c3ccccc3)cc2)nc(c2ccc(c3ccccc3)cc2)nc(c2ccc(c3ccccc3)cc2)n1,train
+2464,0,Not M246,c1(NC(=O)N2C(=O)CCCCC2)ccc(Cc2ccc(NC(=O)N3C(=O)CCCCC3)cc2)cc1,train
+2465,0,Not M247,CC(C)(C)CC(C)(C)c1cc(O)c(cc1O)C(C)(C)CC(C)(C)C,train
+2466,0,Not M248,NC(=O)c1ccccc1OCC(CCCCCC)CCCCCCCC,train
+2467,0,Not M249,OC1(c2ccccc2c2c1cccc2)c1ccc(cc1)c1ccc(cc1)C1(O)c2ccccc2c2c1cccc2,train
+2468,0,Not M250,CCOC(=O)C(C)OC(=O)c1cc(Oc2ccc(cc2Cl)C(F)(F)F)ccc1N(=O)=O,train
+2469,0,Not M251,O=N(=O)c1ccc(N=Nc2ccc(cc2)N(CCC#N)CCc2ccccc2)c(c1)C#N,train
+2470,0,Not M252,CC(C)(C)SSSSSC(C)(C)C,train
+2471,0,Not M253,CN1C(=O)/C(=N\Nc2cccc(OS(=O)(=O)c3ccccc3)c2)/C(=C(C#N)C1=O)C,train
+2472,0,Not M254,CCCCCCCCCCCCCCCCCCNC(=O)CCCCCCCCCCCCCCCCC,train
+2473,0,Not M255,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)OC(=O)C)C)C,train
+2474,0,Not M256,CC[C@]12CC[C@H]3[C@@H](CCC4=C3CC=C(C4)OC)[C@@H]1CC[C@@H]2O,train
+2475,0,Not M257,CCCCC(CC)C(=O)OCC(COC(=O)C(CC)CCCC)(COC(=O)C(CC)CCCC)COC(=O)C(CC)CCCC,train
+2476,0,Not M258,C(=O)(C=CC(=O)OCC)O[Sn](CCCCCCCC)(CCCCCCCC)OC(=O)C=CC(=O)OCC,train
+2477,0,Not M259,CCCCC1CCC(CC1)C1CCC(CC1)c1c(F)c(F)c(OCC)cc1,train
+2478,0,Not M260,CCCC1CCC(CC1)C1CCC(CC1)c1cc(F)c(F)c(F)c1,train
+2479,0,Not M261,CCCCOCCOCCOCc1cc2OCOc2cc1CCC,train
+2480,0,Not M262,CC(C)CCCCCCCOC(=O)c1ccc(C(=O)OCCCCCCCC(C)C)c(c1)C(=O)OCCCCCCCC(C)C,train
+2481,0,Not M263,CC(C)C1CCC2C(C1)CCC1C2(C)CCCC1(C)C(=O)OC,train
+2482,0,Not M264,C/C(=C\CO)/C=C/C=C(\C)/C=C/C1=C(C)CCCC1(C)C,train
+2483,0,Not M265,CCCC1CCC(CC1)C1CCC(CC1)c1c(F)c(F)c(OC)cc1,train
+2484,0,Not M266,C[Si](C)(C)O[Si](C)(C=C)C=C,train
+2485,0,Not M267,CCCCCOc1c(F)c2c(cc1)c1c(o2)c(F)c(OCC)cc1,train
+2486,0,Not M268,Oc1c(C)cc(cc1CSCCCCCCCC)CSCCCCCCCC,train
+2487,0,Not M269,CCCCCCCCCCOc1ccc(cc1C(C)CC)C(c1ccccc1)(c1ccccc1)c1ccccc1,train
+2488,0,Not M270,CNc1ccc(Nc2cccc(C)c2)c2c1C(=O)c1ccccc1C2=O,train
+2489,0,Not M271,CCCCCC1CCC(CC1)C1CCC(CC1)c1c(F)c(F)c(OCC)cc1,train
+2490,0,Not M272,CCCCC(CC)COC(=O)c1cc(C(=O)OCC(CC)CCCC)c(cc1C(=O)OCC(CC)CCCC)C(=O)OCC(CC)CCCC,train
+2491,0,Not M273,c1(Br)c(Br)c(Br)c(Br)c(Br)c1COC(=O)C=C,train
+2492,0,Not M274,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCS,train
+2493,0,Not M275,CCCCC(CC)COP(=O)(OCC(CC)CCCC)OCC(CC)CCCC,train
+2494,0,Not M276,Cc1cc(C)c(c(C)c1)C(=O)P(=O)(C(=O)c1c(C)cc(C)cc1C)c1ccccc1,train
+2495,0,Not M277,c1(N)c(OC)cc(S(=O)(=O)NC)c(C)c1,train
+2496,0,Not M278,C(C)(C)(C)c1c(O)c(C(C)(C)C)cc(CCC(=O)NNC(=O)CCc2cc(C(C)(C)C)c(O)c(C(C)(C)C)c2)c1,train
+2497,0,Not M279,CC(C)(C)C1=CC(=Cc2ccccc2)C=C(C1=O)C(C)(C)C,test
+2498,0,Not M280,Cc1ccc(cc1)S(=O)(=O)O[C@@H]1CC[C@@]2(C)[C@@H](CC[C@H]3[C@@H]4CCC(=O)[C@@]4(C)CC[C@H]23)C1,train
+2499,0,Not M281,CC(C)(C)CC(C)(C)Nc1nc(Cl)nc(Cl)n1,train
+2500,0,Not M282,CCCCCCCCCCCCCCCCCCNC(=O)CCc1cc(c(O)c(c1)C(C)(C)C)C(C)(C)C,train
+2501,0,Not M283,CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,train
+2502,0,Not M284,COc1ccccc1C=Cc1ccc(cc1)c1ccc(C=Cc2ccccc2OC)cc1,train
+2503,0,Not M285,CC(=C)c1cc(ccc1)C(=C)C,test
+2504,0,Not M286,O=C(Nc1ccc(cc1)Cc1ccc(NC(=O)NCCCCCCCCCCCCCCCCCC)cc1)NCCCCCCCCCCCCCCCCCC,train
+2505,0,Not M287,CC(=O)c1cc(cc2c1CCC2(C)C)C(C)(C)C,train
+2506,0,Not M288,Clc1ccc(cc1)N1C(=O)c2ccc3c4ccc5C(=O)N(c6ccc(Cl)cc6)C(=O)c6ccc(c7ccc(C1=O)c2c37)c4c56,train
+2507,0,Not M289,CC(C)C1C(C)C(C)(C)c2cc(C)c(cc12)C(=O)C,train
+2508,0,Not M290,Cc1cc(c(OC(=O)C=C)c(Cc2c(O)c(cc(C)c2)C(C)(C)C)c1)C(C)(C)C,train
+2509,0,Not M291,Nc1c(Cl)cc(cc1Cl)C(F)(F)F,train
+2510,0,Not M292,Fc1ccc(cc1F)C1CCC(CC1)C1CCC(=O)CC1,test
+2511,0,Not M293,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCSCCCCS,train
+2512,0,Not M294,CC(C)(C)CC(C)(C)c1cc(c(cc1)O)n1nc2ccccc2n1,train
+2513,0,Not M295,CC1=CC2C(C1)C1CC2C(=C1)C,test
+2514,0,Not M296,FC(F)(F)C(F)(F)C(F)(F)N(C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F,train
+2515,0,Not M297,c1(C(C)CC)c(O)c(C(C)CC)cc(/N=N/c2ccc(N(=O)=O)cc2)c1,train
+2516,0,Not M298,C1COC2(C1)CC1CC2C2CCCC12,train
+2517,0,Not M299,CCC(CCCC)COC(=O)c1ccc(cc1)Nc1nc(nc(Nc2ccc(cc2)C(=O)OCC(CC)CCCC)n1)Nc1ccc(cc1)C(=O)OCC(CC)CCCC,train
+2518,0,Not M300,Fc1ccc(cc1F)C1=CCC(CC1)C1CCC2(CC1)OCCO2,test
+2519,0,Not M301,CCCCCCCCOC(=O)c1ccc(C(=O)OCCCCCCCC)cc1C(=O)OCCCCCCCC,train
+2520,0,Not M302,Cc1c(Cc2ccc(s2)c2ccc(F)cc2)cc(cc1)[C@@H]1O[C@H](COC(=O)C(C)(C)C)[C@@H](OC(=O)C(C)(C)C)[C@H](OC(=O)C(C)(C)C)[C@H]1OC(=O)C(C)(C)C,train
+2521,0,Not M303,CO[Si](OC)(C1CCCC1)C1CCCC1,train
+2522,0,Not M304,C1(=O)CS[Sn](CCCCCCCC)(CCCCCCCC)O1,train
+2523,0,Not M305,CC(C)(C)c1ccc(OC(=O)c2cc(c(O)c(c2)C(C)(C)C)C(C)(C)C)c(c1)C(C)(C)C,train
+2524,0,Not M306,C=CC1CCC(C=C)C(C1)C=C,train
+2525,0,Not M307,CCc1ccc(cc1)c1cc(F)c(cc1)c1ccc(CCC=C)cc1,train
+2526,0,Not M308,CC(C)(C)c1ccc(Nc2ccc(Nc3ccc(cc3)C(C)(C)C)c3c2C(=O)c2c(O)ccc(O)c2C3=O)cc1,train
+2527,0,Not M309,Clc1c(cccc1)c1c2c3c(cccc3)C(c2ccc1)(c1ccccc1)c1ccccc1,train
+2528,0,Not M310,CC(C)c1cc(Cc2cc(C(C)C)c(N)c(c2)C(C)C)cc(C(C)C)c1N,train
+2529,0,Not M311,CCC(C)c1cc(C(C)CC)cc(C(C)CC)c1O,train
+2530,0,Not M312,CC(C)(C)CC(C)(C)SSSC(C)(C)CC(C)(C)C,train
+2531,0,Not M313,CCC(Oc1ccc(cc1C(C)(C)CC)C(C)(C)CC)C(=O)Nc1cc(Cl)c(CC)c(Cl)c1O,train
+2532,0,Not M314,O=C=Nc1ccc(Cc2ccccc2N=C=O)cc1,test
+2533,0,Not M315,C[Si](C)(C)O[Si](O[Si](C)(C)C)(O[Si](C)(C)C)c1ccccc1,train
+2534,0,Not M316,CCOC(=O)C1(CCCC1)OC(=O)Cc1c(C)cc(C)cc1C,train
+2535,0,Not M317,O=C1CCCCCCCCCCCCCCC1,train
+2536,0,Not M318,CC(C)(C)c1cc(cc(c1O)C(C)(C)C)Cc1cc(c(c(c1)C(C)(C)C)O)C(C)(C)C,test
+2537,0,Not M319,Fc1ccc(cc1)c1ccc(Cc2cc(I)ccc2C)s1,train
+2538,0,Not M320,Clc1ccccc1c1nc(c(n1C1(N=C(C(=N1)c1ccccc1)c1ccccc1)c1ccccc1Cl)c1ccccc1)c1ccccc1,test
+2539,0,Not M321,CCCCc1ccc(cc1)c1c(F)c(F)c(OCC)cc1,test
+2540,0,Not M322,CCCCCCCCC(CCCCCC)C(=O)OCC(COC(=O)C(CCCCCC)CCCCCCCC)(COC(=O)C(CCCCCC)CCCCCCCC)COC(=O)C(CCCCCC)CCCCCCCC,train
+2541,0,Not M323,CCCC[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)CCCOCCOC(=O)C(=C)C,train
+2542,0,Not M324,O=C(Oc1ccc(cc1C)OC(=O)c1ccc(OCCCCOC(=O)C=C)cc1)c1ccc(OCCCCOC(=O)C=C)cc1,train
+2543,0,Not M325,CCOC(=O)CC(C)CC(C)(C)C,train
+2544,0,Not M326,COC1=CCC2=C(C1)CCC1C2CCC2(C)C1CCC2=O,test
+2545,0,Not M327,COC(=O)C1CC2(CCC1(C)C=C2)C(C)C,test
+2546,0,Not M328,CC1(C)c2cc(ccc2c2c1cccc2)N(c1c2c3c(cccc3)C3(c4ccccc4c4c3cccc4)c2ccc1)c1c(cccc1)c1ccccc1,train
+2547,0,Not M329,Nc1c(Oc2ccccc2)c(Oc2ccccc2)c(N)c2c1C(=O)c1ccccc1C2=O,train
+2548,0,Not M330,CC1(C)c2ccccc2c2c1cc(Nc1ccccc1c1ccccc1)cc2,train
+2549,0,Not M331,c1(O)c(NC(=O)C(CCCCCCCC)CCCCCC)cc(C)cc1,train
+2550,0,Not M332,Cc1cc(c(c(c1)n1nc2ccc(cc2n1)Cl)O)C(C)(C)C,train
+2551,0,Not M333,C/C(=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C)/C=C/C=C(\C)/C=C/C1=C(C)CCCC1(C)C,train
+2552,0,Not M334,O=C(O[C@@H](COC(=O)C(CCCCCC)CCCCCCCC)[C@H]1OC(=O)C(=C1OC(=O)C(CCCCCC)CCCCCCCC)OC(=O)C(CCCCCC)CCCCCCCC)C(CCCCCC)CCCCCCCC,train
+2553,0,Not M335,O=C1C=Cc2ccccc2/C/1=C/NN/C=C/1\C(=O)C=Cc2ccccc12,train
+2554,0,Not M336,FC1(F)COC1(F)F,train
+2555,0,Not M337,OC1OC(COCc2ccccc2)C(OCc2ccccc2)C(OCc2ccccc2)C1OCc1ccccc1,train
+2556,0,Not M338,B(c1cccnc1)(CC)CC,train
+2557,0,Not M339,c1(C(C)(C)c2c(O)c(n3nc4c(cccc4)n3)cc(C(C)(C)c3ccccc3)c2)ccccc1,train
+2558,0,Not M340,C1(C)(C)CC(OC(=O)CCCCCCCCC(=O)OC2CC(C)(C)N(OCCCCCCCC)C(C)(C)C2)CC(C)(C)N1OCCCCCCCC,train
+2559,0,Not M341,COC(=O)c1c(OC(=O)c2ccc3cc(OC(=O)OCCCCOC(=O)C=C)ccc3c2)ccc(OC(=O)c2ccc3cc(OC(=O)OCCCCOC(=O)C=C)ccc3c2)c1,train
+2560,0,Not M342,Clc1ccc(cc1Cl)C(=O)Nc1cc(Cl)c(NC(=O)C(CC)S(=O)(=O)c2ccc(OCC(CCCCCC)CCCCCCCC)cc2)cc1O,train
+2561,0,Not M343,C12C(Cl)C(C(C)(C)C)NN1NC(c1ccc(NC(=O)CCC(=O)OCCCCCCCCCCCCCC)cc1)N2,train
+2562,0,Not M344,CCOC1=CC2=CCC3C4CCC(=O)C4(C)CCC3C2(C)CC1,train
+2563,0,Not M345,CCC[C@H]1CC[C@@H](CC1)c1cc(c(O)c(c1)C(C)(C)C)C(C)(C)C,train
+2564,0,Not M346,CC(=O)OC1=CCC2C3CCC4CC=CCC4(C)C3CCC12C,train
+2565,0,Not M347,CC[C@]12CCC3=C(CCc4cc(OC)ccc34)[C@@H]1CCC2=O,train
+2566,0,Not M348,CC1(C)CCCC2(C)C1CCC13COC(C)(CCC21)O3,train
+2567,0,Not M349,Cc1cc(Cc2cc(C)cc(c2O)C2(C)CCCCC2)c(O)c(c1)C1(C)CCCCC1,train
+2568,0,Not M350,COc1c2n3c(nc2ccc1)c1c2c(cccc2c3=O)ccc1,train
+2569,0,Not M351,COCCCN1C(=O)c2ccc3c(=O)n4c5ccc(C)cc5nc4c4c3c2c(cc4)C1=O,train
+2570,0,Not M352,CC1=C(C(CCC1)(C)C)/C=C/C(C)(C=C)O,train
+2571,0,Not M353,CCCC1CCC(CC1)C1CCC(CC1)C(F)(F)Oc1cc(F)c(F)c(F)c1,train
+2572,0,Not M354,CCCCCC1CCC(CC1)C1CCC(=CC1)c1ccc(OCC)c(F)c1F,train
+2573,0,Not M355,CCCCc1ccc(cc1)c1c(F)c(F)c(cc1)c1ccc(CC)cc1,train
+2574,0,Not M356,CC1C(C)(C)C2CCc3c(ncnc3)C2C1(C)C,train
+2575,0,Not M357,C(C)(C)(C)c1c(O)c(C)cc(CCC(=O)OCCOCCOCCOC(=O)CCc2cc(C(C)(C)C)c(O)c(C)c2)c1,train
+2576,0,Not M358,C(F)(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCOC(=O)C=C,train
+2577,0,Not M359,CCOC1=CC2=CCC3C4CCC(O)(C#C)C4(C)CCC3C2CC1,train
+2578,0,Not M360,COc1c(OC(=O)c2ccc(OC(=O)C=C)cc2)ccc(c1)C(=O)O[C@@H]1CO[C@@H]2[C@@H](CO[C@H]12)OC(=O)c1cc(OC)c(OC(=O)c2ccc(OC(=O)C=C)cc2)cc1,train
+2579,0,Not M361,CCOC(=O)C1(CCCCC1)OC(=O)Cc1ccc(Cl)cc1Cl,train
+2580,0,Not M362,C(=O)(C1(C)C2C(C)(C3C(=CC2)C=C(C(C)C)CC3)CCC1)OCCOCCOCCOCCOCCO,train
+2581,0,Not M363,CCCCCC1CCC(CC1)c1c(F)c(F)c(OCC)cc1,train
+2582,0,Not M364,CCCC1CCC(CC1)C1CCC(CC1)c1ccc(c(F)c1)c1cc(F)c(F)c(F)c1,train
+2583,0,Not M365,CC(C)CCC(C)(O)C#CC(C)(O)CCC(C)C,train
+2584,0,Not M366,FC(=C(F)OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)F,train
+2585,0,Not M367,c1(c2c(O)cc(O)cc2)nc(c2ccc(c3ccccc3)cc2)nc(c2ccc(c3ccccc3)cc2)n1,train
+2586,0,Not M368,CCCCc1ccc(cc1)c1c(F)cc(cc1)c1ccc(CC)cc1,train
+2587,0,Not M369,CC1(C)c2ccccc2c2c1cc(cc2)N(c1cc2c(cc1)c1ccccc1C12c2ccccc2c2ccccc12)c1ccccc1c1ccccc1,train
+2588,0,Not M370,CCCC1CCC(CC1)c1ccc(cc1)c1cc(F)c(F)c(F)c1,train
+2589,0,Not M371,O=N(=O)c1ccc(cc1)N=Nc1ccc(cc1)N(CCOC(=O)c1ccccc1)CCC#N,train
+2590,0,Not M372,CC(C)CCCCCCl,train
+2591,0,Not M373,N#COc1ccc(cc1)C(C)c1ccc(OC#N)cc1,train
+2592,0,Not M374,CCCCN(CCCC)C(=O)N(CCCC)CCCC,train
+2593,0,Not M375,CCC(C)Nc1c(cc(cc1N(=O)=O)C(C)(C)C)N(=O)=O,train
+2594,0,Not M376,Cc1cc(c(OP2OCC3(CO2)COP(OC3)Oc2c(cc(C)cc2C(C)(C)C)C(C)(C)C)c(c1)C(C)(C)C)C(C)(C)C,train
+2595,0,Not M377,C(C)(C)(C)c1cc(NC(=O)C(C2=Nc3c(S(=O)(=O)N2CCCOCCCC)cccc3)N2C(=O)C(C)(C)OC2=O)c(SCC(CCCC)CC)cc1,train
+2596,0,Not M378,C(C)(C)(c1c(O)c(C(C)c2c(OC(=O)C=C)c(C(C)(C)CC)cc(C(C)(C)CC)c2)cc(C(C)(C)CC)c1)CC,train
+2597,0,Not M379,CCC(CC)CO[Si](OCC(CC)CC)(OCC(CC)CC)OCC(CC)CC,train
+2598,0,Not M380,CCCOc1ccc(C2=CCC(CC2)C2CCC(CCC)CC2)c(F)c1F,train
+2599,0,Not M381,CCCCCOC(=O)c1c(Cl)c(Cl)cc(Cl)c1OC(=O)C(=O)Oc1c(Cl)cc(Cl)c(Cl)c1C(=O)OCCCCC,train
+2600,0,Not M382,CCC[C@H]1CC[C@@H](CC1)c1cccc(F)c1,train
+2601,0,Not M383,CCN(CCCl)c1ccc(N=Nc2c(Cl)cc(cc2Cl)N(=O)=O)c(C)c1,train
+2602,0,Not M384,C(C)(C)(c1cc2c(cc1)OC(=O)C2c1c(OC(=O)C)ccc(C(C)(C)CC(C)(C)C)c1)CC(C)(C)C,train
+2603,0,Not M385,CCCCOC(=O)C1C(C(=O)OCCCC)C2(Cl)C(=C(Cl)C1(Cl)C2(Cl)Cl)Cl,train
+2604,0,Not M386,c1cc(ccc1Cc1ccc(cc1)N=C=O)N=C=O,train
+2605,0,Not M387,CCCCCCOc1c(OCCCCCC)cc(cc1)C(c1ccccc1)(c1ccccc1)c1ccccc1,train
+2606,0,Not M388,CC1(C)C2CCC3(C2)C1C(=O)CCC3(C)C,train
+2607,0,Not M389,CC1C(C)(C)c2cc(C)c(cc2C1(C)C)C(=O)C,train
+2608,0,Not M390,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCc2c(O1)c(C)cc(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)c2,train
+2609,0,Not M391,CCN(CCC(=O)OC)c1ccc(cc1)N=Nc1c2cc(ccc2ns1)N(=O)=O,train
+2610,0,Not M392,CCc1cc(Cc2cc(CC)c(N)c(CC)c2Cl)c(Cl)c(CC)c1N,test
+2611,0,Not M393,C1CCCC2=C(OCCC2)CCCCCC1,train
+2612,0,Not M394,C[C@H]1CCCC(C)(C)[C@@H]1C(=O)OCC=C,train
+2613,0,Not M395,CC(C)(C)c1cc(Cn2c(=O)n(Cc3cc(c(O)c(c3)C(C)(C)C)C(C)(C)C)c(=O)n(Cc3cc(c(O)c(c3)C(C)(C)C)C(C)(C)C)c2=O)cc(c1O)C(C)(C)C,train
+2614,0,Not M396,CC1(C)C2CCC3(C2)C21OC2CCC3(C)C,train
+2615,0,Not M397,CCOCOC1CCCCCCCCCCC1,train
+2616,0,Not M398,CCCCCCCCCCCCSCCC(=O)OCC(COC(=O)CCSCCCCCCCCCCCC)(COC(=O)CCSCCCCCCCCCCCC)COC(=O)CCSCCCCCCCCCCCC,train
+2617,0,Not M399,c1(C)c(O)c(CSCCCCCCCCCCCC)cc(CSCCCCCCCCCCCC)c1,train
+2618,0,Not M400,C(C)(C(C(C)C(CCCCCCCCC)CC)CCCCCCC)CCCCCC,train
+2619,0,Not M401,CCCCCCCCCCCCCCCC(=O)OCC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C,train
+2620,0,Not M402,CCN(CC)c1ccc(cc1)C(=O)c1ccc(cc1)N(CC)CC,train
+2621,0,Not M403,COc1ccc(cc1)/C(=C(\C#N)/C(=O)OCC(CC)CCCC)/c1ccccc1,test
+2622,0,Not M404,CC(C)(c1ccccc1)c1ccc(OP2OC[C@]3(COP(Oc4ccc(cc4C(C)(C)c4ccccc4)C(C)(C)c4ccccc4)OC3)CO2)c(c1)C(C)(C)c1ccccc1,train
+2623,0,Not M405,COC1CCCCCCCCCCC1,test
+2624,0,Not M406,CCCOc1c(F)c(F)c(cc1)[C@H]1CC[C@@H](CC1)C1CCC(CCC)CC1,train
+2625,0,Not M407,Brc1c(Br)c(Br)c(Br)c(Br)c1Oc1c(Br)c(Br)c(Br)c(Br)c1Br,train
+2626,0,Not M408,CN(C)c1ccc(C(O)(c2ccc(N(C)C)cc2)c2ccc(Nc3ccccc3)c3ccccc23)cc1,train
+2627,0,Not M409,CC(C)c1cc(C(C)C)c(N=C=Nc2c(cc(cc2C(C)C)C(C)C)C(C)C)c(c1)C(C)C,train
+2628,0,Not M410,CC1CC(CC(C1)(C)C)OC(=O)c1ccccc1O,train
+2629,0,Not M411,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,train
+2630,0,Not M412,CC(C)(C)c1cc(OC)cc(c1OP1Oc2ccccc2c2ccccc2O1)c1cc(OC)cc(c1OP1Oc2ccccc2c2ccccc2O1)C(C)(C)C,train
+2631,0,Not M413,CC(C)(C)c1ccc(O)c(c1)n1nc2ccccc2n1,train
+2632,0,Not M414,C(=O)(C1(C)C2C(C)(C3C(CC(C(C)C)CC3)CC2)CCC1)OCCOCCOCCO,train
+2633,0,Not M415,CCC[C@H]1CC[C@@H](CC1)c1ccc(cc1)c1cc(F)c(cc1)c1cc(F)c(OC(F)(F)F)c(F)c1,train
+2634,0,Not M416,COc1ccc(cc1)C(=O)CC(=O)c1ccc(cc1)C(C)(C)C,test
+2635,0,Not M417,Oc1c(NC(=O)CCCCCCCCCCCCCCC)cc(Cl)c(CC)c1Cl,train
+2636,0,Not M418,O=C(OCCCC)NC1CCC(CC1)CC1CCC(NC(=O)OCCCC)CC1,train
+2637,0,Not M419,CCCCCCCCCc1cc(C)cc(Cc2cc(C)cc(CCCCCCCCC)c2O)c1O,train
+2638,0,Not M420,CC(=C)C(=O)OCC1(CCC2C3CCC(C3)C12)COC(=O)C(=C)C,test
+2639,0,Not M421,c1(C)c(OP(=O)(Oc2c(C)cccc2C)Oc2cc(OP(=O)(Oc3c(C)cccc3C)Oc3c(C)cccc3C)ccc2)c(C)ccc1,test
+2640,0,Not M422,CCN(CC)c1ccc(N=Nc2c(Cl)cc(cc2N(=O)=O)N(=O)=O)c(NC(=O)C)c1,test
+2641,0,Not M423,COC1(OC(F)(C(F)(C(F)(F)F)C(F)(F)F)C(F)(F)C1(F)F)C(F)(C(F)(F)F)C(F)(F)F,train
+2642,0,Not M424,CCCCCCCCC(CCCCCC)C(=O)OCC(=O)Nc1ccc(cc1)c1nn2nc(c(Cl)c2[nH]1)C(C)(C)C,train
+2643,0,Not M425,c1(OC)c(OCCCOC)cc(CC(C(C)C)CC(C2CC(C(C)C)C(=O)O2)N=N#N)cc1,train
+2644,0,Not M426,C[C@H]1C(C)(C)C2=C(c3ncncc3CC2)C1(C)C,train
+2645,0,Not M427,C(C)(C)(C)c1c(OP(Oc2c(C(C)(C)C)cc(C(C)(C)C)cc2C)OCC)c(C)cc(C(C)(C)C)c1,train
+2646,0,Not M428,c1(CN(C(=S)SSCCCCCCSSC(=S)N(Cc2ccccc2)Cc2ccccc2)Cc2ccccc2)ccccc1,train
+2647,0,Not M429,CC(C)(C)c1cc(C)cc(c1O)C1CC2CC1C1C2C2CC1C1C2CC2C3C=CC(C3)C12,train
+2648,0,Not M430,CCOC(=O)[C@@]12C[C@H]1/C=C\CCCCN(C)C(=O)[C@@H]1C[C@@H](C[C@H]1C(=O)N2)Oc1c2ccc(OC)c(C)c2nc(c1)c1nc(cs1)C(C)C,train
+2649,0,Not M431,C=CCCCCCCCCCOC(=O)C(=C(c1ccccc1)c1ccccc1)C#N,test
+2650,0,Not M432,CCC(C)(C)c1cc(c(O)c(c1)C(C)(C)CC)n1nc2ccccc2n1,train
+2651,0,Not M433,CC(C)(C)c1cc(CCC(=O)OCCCCCCOC(=O)CCc2cc(c(O)c(c2)C(C)(C)C)C(C)(C)C)cc(c1O)C(C)(C)C,train
+2652,0,Not M434,CC1CC(=O)CC2CCC3C4CCC(OC(=O)C)C4(C)CCC3C12C,train
+2653,0,Not M435,Cc1ccc(OP(Oc2ccc(C)cc2)Oc2ccc(C)cc2)cc1,train
+2654,0,Not M436,CC(=O)Nc1cc(ccc1NC(=O)c1ccc(cc1)C(=O)Nc1ccc(cc1NC(=O)C)N=Nc1ccc(cc1S(=O)(=O)[O-])N=Nc1ccc(cc1)S(=O)(=O)[O-])N=Nc1ccc(cc1S(=O)(=O)[O-])N=Nc1ccc(cc1)S(=O)(=O)[O-],train
+2655,0,Not M437,Fc1ccc(N2C=C[C-]=C2)c(F)c1,train
+2656,0,Not M438,[O-]S(=O)(=O)c1cccc(c1)/N=N/c1ccc(Nc2ccccc2)cc1,train
+2657,0,Not M439,N=C=CC(=O)C(=O)C=C=N,train
+2658,0,Not M440,CCCc1cc(CCC)c(c(c1)CCC)CCC,train
+2659,0,Not M441,Brc1cc(Br)cc(c1Oc1nc(nc(n1)Oc1c(Br)cc(cc1Br)Br)Oc1c(Br)cc(cc1Br)Br)Br,train
+2660,0,Not M442,CC(c1ccc(cc1)C(C(c1ccc(cc1)C(C)C)(C)C)(C)C)C,train
+2661,0,Not M443,CC(c1ccc(cc1)c1[nH]c(=O)c2c1c(=O)[nH]c2c1ccc(cc1)C(C)(C)C)(C)C,train
+2662,0,Not M444,O=c1[nH]c(c2c1c([nH]c2=O)c1ccc(cc1)c1ccccc1)c1ccc(cc1)c1ccccc1,train
+2663,0,Not M445,O=C1C=CC(=c2nc(nc([nH]2)c2ccc(cc2)c2ccccc2)c2ccc(cc2)c2ccccc2)C(=C1)O,test
+2664,0,Not M446,OC(=O)C(c1ccc(cc1)C#CCCN1CCC(CC1)C(c1ccccc1)(c1ccccc1)O)(C)C,train
+2665,0,Not PM1,O=C1CCCCCCCCCCC=CCCC1,train
+2666,0,Not PM2,CCCCC(CC)COC(=O)CS[Sn](C)(SCC(=O)OCC(CC)CCCC)SCC(=O)OCC(CC)CCCC,train
+2667,0,Not PM3,CC1(C)CCC=C(C)C1C(C)CCC=O,train
+2668,0,Not PM4,CC(C)CCCCCCCOP(Oc1ccccc1)Oc1ccccc1,train
+2669,0,Not PM5,CCCCCCCCC=C,train
+2670,0,Not PM6,CCCCCCCCC(=O)OCC(C)(C)COC(=O)CCCCCCCC,train
+2671,0,Not PM7,CC1CCCCCCCCCCCCC(=O)C1,train
+2672,0,Not PM8,CCCCCCCCC=CCCCCCCCC(=O)OCC(C)(C)COC(=O)CCCCCCCC=CCCCCCCCC,train
+2673,0,Not PM9,C(=O)(O)c1c(C(=O)O)cc(C(=O)O)cc1,train
+2674,0,Not PM10,CCCCCCCCCCCCCC[C@@H](O)[C@@H](O)[C@H](CO)NC(=O)CCCCCCC/C=C\CCCCCCCC,train
+2675,0,Not PM11,O=C1OC(=O)CC1C/C=C/C(CCC)CC(CCC)CCC,train
+2676,0,Not PM12,Oc1ccccc1C(=O)OC(C)C/C=C/CC,train
+2677,0,Not PM13,CC(C)CCCCCCCCCCCCCCC(=O)OCC(C)(C)COC(=O)CCCCCCCCCCCCCCC(C)C,train
+2678,0,Not PM14,CCCCCCCCCCCCCC(=O)OC(C)C,train
+2679,0,Not PM15,CC(C)CCCCCCOC(=O)CCCCC(=O)OCCCCCCC(C)C,train
+2680,0,Not PM16,CCCCCCCCCCCC(=O)OCCCCCCCC,train
+2681,0,Not PM17,CC(C)CCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC(C)C,train
+2682,0,Not PM18,CCCCCCCCCCCC(=O)N(C)C,train
+2683,0,Not PM19,CCCCCCCCCCCCCC,train
+2684,0,Not PM20,CC(C)CCOCCc1ccccc1,train
+2685,0,Not PM21,[C@H]12OC[C@H](OC(=O)CCCCCCC)[C@H]1OC[C@H]2OC(=O)CCCCCCC,train
+2686,0,Not PM22,CCCCCCCCCC(=O)OCC(C)(C)COC(=O)CCCCCCCCC,train
+2687,0,Not PM23,C(=O)(CC(C)CC(C)CC)OCCCCCCCCCCCCCCCC,train
+2688,0,Not PM24,CC(C)CCCCCCCCCCCCCCC(=O)OCC(C)O,train
+2689,0,Not PM25,CCCCCCCCC=CCCCCCCCC(=O)OCC(CO)(CO)COC(=O)CCCCCCCC=CCCCCCCCC,train
+2690,0,Not PM26,CCCCCCCCCCCCCCC=C1OC(=O)C1CCCCCCCCCCCCCC,train
+2691,0,Not PM27,CCCCCC(CCC)COP(OCC(CCC)CCCCC)OCC(CCC)CCCCC,train
+2692,0,Not PM28,CCCCCCCCCCCCCCCCCCCCO,train
+2693,0,Not PM29,CCCCCCCCC=CCCCCCCCC(=O)OCCC,train
+2694,0,Not PM30,CCCCCCCCCCCCCCCCO,test
+2695,0,Not PM31,CCCCCCCCCCCCC(CO)CCCCCCCCCC,train
+2696,0,Not PM32,CCCCCCCCCCCCCCCCCCCC,train
+2697,0,Not PM33,CCCCCCCCCCCCCCCCC=C,train
+2698,0,Not PM34,CC(C)CCCC(C)CCCC(C)CCCC(C)(O)C(O)CO,train
+2699,0,Not PM35,CCCCCCCCCCCCCCCCCCN(CCCCCCCCCCCCCCCCCC)C(=O)[N+](OC(=O)c1ccccc1)(CCCCCCCCCCCCCCCCCC)CCCCCCCCCCCCCCCCCC,train
+2700,0,Not PM36,CCCCC(CC)COP(=O)(Oc1ccccc1)Oc1ccccc1,train
+2701,0,Not PM37,CC(C)CCCCCOC(=O)CCCCC(=O)OCCCCCC(C)C,train
+2702,0,Not PM38,CCC12CCC3C(CCc4cc(OC)ccc34)C1CCC2O,train
+2703,0,Not PM39,CC(C)CCCCCCCOC(=O)C(=C)C,train
+2704,0,Not PM40,CC1(C)CCC=C2C(C)(C)C3CCC12C3,train
+2705,0,Not PM41,CCCCCCCCCCC=C,train
+2706,0,Not PM42,C(=O)(OCCCCCCCCCCCCCC)OOC(=O)OCCCCCCCCCCCCCC,train
+2707,0,Not PM43,CCCCCCCCCCCCOC(=O)CCCCCCCCCCC,train
+2708,0,Not PM44,CCCCCCCCOP(=O)OCCCCCCCC,train
+2709,0,Not PM45,Oc1ccccc1C(=O)OCC(CCCC)CCCCCC,test
+2710,0,Not PM46,CCCCCCC(=O)OC(=O)CCCCCC,train
+2711,0,Not PM47,CCCCCCCCC=CCCCCCCCCOCC1CO1,train
+2712,0,Not PM48,CCCCCCCCCCCCCCC(CO)CCCCCCCCCCCC,train
+2713,0,Not PM49,O=C(Oc1cccc2c1c(OC(=O)c1ccccc1)ccc2)c1ccccc1,train
+2714,0,Not PM50,CCCCCCCCCCCCCCCCOC(=O)Oc1c(Cl)cc(cc1Cl)C(=O)OCC,train
+2715,0,Not PM51,CCCCCCCCCCCCCC(=O)OCCCCCCCCCCCC,train
+2716,0,Not PM52,CC(C)CCCC=C,train
+2717,0,Not PM53,CC(CCOC(=O)C)CC(C)(C)C,train
+2718,0,Not PM54,CCCCCCCCCC,train
+2719,0,Not PM55,CCCCCCCCOC(=O)CCCCCCC,train
+2720,0,Not PM56,CCCCC(CC)COB(OCC(CC)CCCC)OCC(CC)CCCC,train
+2721,0,Not PM57,CCCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC,train
+2722,0,Not PM58,CCCCCCCCCCCCCCCCCCO[Si](C)(C)OCCCCCCCCCCCCCCCCCC,train
+2723,0,Not PM59,CCCCCCCCCC=CCCCCCCC(=O)OCC(COC=O)OC=O,train
+2724,0,Not PM60,CC(C)(COC(=O)c1ccccc1)COC(=O)c1ccccc1,train
+2725,0,Not PM61,CCCCCCCCCCCCCCOC(=O)/C=C/C(=O)OCCCCCCCCCCCCCC,train
+2726,0,Not PM62,CCCCCCCCCCCCCCOC(=O)CCCCCCCCCCCCC,train
+2727,0,Not PM63,CCC(=O)OC1CCC(CC1)C(C)C,train
+2728,0,Not PM64,O=C(CCC(C)CC(C)CC(C)CC(C)CC)OC(COC(=O)CCC(C)CC(C)CC(C)CC(C)CC)COC(=O)CCC(C)CC(C)CC(C)CC(C)CC,test
+2729,0,Not PM65,CCCCCCCC(=O)OCC(COC(=O)CCCC)(COC(=O)CCCCCC)COC(=O)CCCCCC,train
+2730,0,Not PM66,CCCCCCCCCCCCCCCCN,train
+2731,0,Not PM67,O=C1CCCCCCCCCCCCCCO1,train
+2732,0,Not PM68,CCCCCCCC/C=C\CCCCCCCCOP(O)OCCCCCCCC/C=C\CCCCCCCC,train
+2733,0,Not PM69,O=C(CCCCCCC/C=C/CCCCCCCC)OCC(CCCC)CC,train
+2734,0,Not PM70,CCCCCCCCC=CCCCCCCCC(=O)OCC(CC)CCCC,train
+2735,0,Not PM71,CCCCCCCCCCCCCCCCCC(=O)OCCOC(=O)CCCCCCCCCCCCCCCCC,train
+2736,0,Not PM72,CCCCCCCCCCCC1=NC(C)(C)CO1,train
+2737,0,Not PM73,CCCCC(CC)C(=O)OCCOCCOCCOC(=O)C(CC)CCCC,train
+2738,0,Not PM74,CCCCCCCCCCCCCCCCOCCO,train
+2739,0,Not PM75,CCCCCCCC(=O)OCCOc1ccccc1,test
+2740,0,Not PM76,CCCC(=O)OC(C)C1CCCCC1,train
+2741,0,Not PM77,CC(CCC=C(C)C)C=C,train
+2742,0,Not PM78,CCCCCCCCCCCC(=O)OCCC(C)C,train
+2743,0,Not PM79,CCOC(=O)CCCCCCCCC=C,train
+2744,0,Not PM80,COC(=O)/C=C/c1ccc(OCCCCCCOC(=O)C(=C)C)cc1,train
+2745,0,Not PM81,C(=O)(CCCCCCCC=CCCCCCCCC)N(C)C,train
+2746,0,Not PM82,CO[Si](CCCCCC[Si](OC)(OC)OC)(OC)OC,train
+2747,0,Not PM83,CC1CCC(C(C)C)C(C1)OC(=O)c1cccnc1,train
+2748,0,Not PM84,CC(CC(=O)OCC(COCC(COC(=O)CC(C)CC(C)(C)C)(COC(=O)CC(C)CC(C)(C)C)COC(=O)CC(C)CC(C)(C)C)(COC(=O)CC(C)CC(C)(C)C)COC(=O)CC(C)CC(C)(C)C)CC(C)(C)C,train
+2749,0,Not PM85,CCCCCCCCCCCCCCCCCCO,train
+2750,0,Not PM86,CCCCCCCCCCCC(=O)OC=C,train
+2751,0,Not PM87,CCCCCCCCCCCCOC(=O)C(=C)C,train
+2752,0,Not PM88,CCCCCCCCC1CC2CC1C=C2,train
+2753,0,Not PM89,CCCCCCCCCCCCCCCCCO,train
+2754,0,Not PM90,O=C(OCC(C)(C)COC(=O)C(CC)CCCC)C(CC)CCCC,train
+2755,0,Not PM91,CC(C)(C)CC(C)(C)c1ccc(Nc2ccc(cc2)C(C)(C)CC(C)(C)C)cc1,train
+2756,0,Not PM92,CCCCCCCCCCCC(=O)OCC(C)(C)C=NC(C)COCC(C)OCC(C)N=CC(C)(C)COC(=O)CCCCCCCCCCC,train
+2757,0,Not PM93,CCCCCCCCCCCCCCC=C,train
+2758,0,Not PM94,CCCCCCCCCCOC(=O)C(=C)C,train
+2759,0,Not PM95,C(=O)/C(=C/c1ccccc1)/CCCCCC,train
+2760,0,Not PM96,CCCCCCCCCCCCCCCCCC[Si](C)(C)Cl,train
+2761,0,Not PM97,CC(C)CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC(C)C,train
+2762,0,Not PM98,CCCCCCCCCCCCOC(=O)/C=C/C(=O)OCCCCCCCCCCCC,train
+2763,0,Not PM99,CCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCC)(COC(=O)CCCCCCC)COC(=O)CC(C)C,train
+2764,0,Not PM100,CCCCCCCCCCCCC=C,train
+2765,0,Not PM101,CCCCCCCCCCC(C)C,train
+2766,0,Not PM102,CC(C)CCCCCCCCCCCCCCCOC(=O)CC(O)C(=O)OCCCCCCCCCCCCCCCC(C)C,train
+2767,0,Not PM103,CCCCCCC(O)CC=CCCCCCCCC(=O)OCCCC,train
+2768,0,Not PM104,CCCCCCOC(=O)CCCCC(=O)OCCCCCC,train
+2769,0,Not PM105,CCCCC(CC)CNc1c2C(=O)c3c(O)ccc(O)c3C(=O)c2c(NCC(CC)CCCC)cc1,train
+2770,0,Not PM106,CC(C)c1ccccc1c1ccccc1,train
+2771,0,Not PM107,CCCCCCCCCCCCCCO,train
+2772,0,Not PM108,CCCCCCCCCCCCCCCCCCOC(=O)C(=C)C,train
+2773,0,Not PM109,C(CCCCCCCCCCCCCC)N(C)CCCCCCCCCCCCCCC,train
+2774,0,Not PM110,CC1CCC2C(C)(C)C3CC12CCC3(C)OC(=O)C,train
+2775,0,Not PM111,CCCCCCCCCCC(CCCCCCCC)COC(=O)[C@@H]1CCC(=O)N1,train
+2776,0,Not PM112,COC1(C)CCC23CC1C(C)(C)C2CCC3C,train
+2777,0,Not PM113,c1ccccc1OP(Oc1ccccc1)Oc1ccccc1,train
+2778,0,Not PM114,CCCCCCCCCCCCCCCCCC(=O)OC[C@@H](O)[C@H]1OC[C@H](O)[C@H]1O,train
+2779,0,Not PM115,CCCCCCCCCCCCCCCC(=O)NCCO,train
+2780,0,Not PM116,CC(=C)C(=O)OCCCCCCCCCCCCOC(=O)C(=C)C,train
+2781,0,Not PM117,CCCCCCCCCCCC(=O)OCC(O)C(O)C(O)C(O)CO,train
+2782,0,Not PM118,CCCCC(CC)COP(=O)OCC(CC)CCCC,train
+2783,0,Not PM119,CCCCCCC1C=CC(CCCCCCCC(=O)OCC(COC(=O)CCCCCCC/C=C\C/C=C\CCCCC)OC(=O)CCCCC/C=C\C/C=C\C/C=C\CCCC)C(CCCCCCCC(=O)OCC(COC(=O)CCCCCCC/C=C\C/C=C\C/C=C\CC)OC(=O)CCCCC/C=C/C/C=C/C/C=C\CCCC)C1C/C=C\CCCCC,train
+2784,0,Not PM120,CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC)(COC(=O)CCCCCCCC)COC(=O)CCCCCCCC,train
+2785,0,Not PM121,C(Sc1nnc(c2ccccc2)c(n1)c1ccccc1)/C=C/CSc1nnc(c2ccccc2)c(n1)c1ccccc1,train
+2786,0,Not PM122,CCCCCCCCCCCCCCCCCCOCCO,train
+2787,0,Not PM123,CC(CCCC1CCCCC1)CO,train
+2788,0,Not PM124,CCC=CCCOC(=O)c1ccccc1O,train
+2789,0,Not PM125,CCCCCCCCCCCCCCCCCC(=O)NC(CO)C(O)C(O)CCCCCCCCCCCCCC,train
+2790,0,Not PM126,CC(=O)OCC1CCC=C(CCC=C(C)C)C1,train
+2791,0,Not PM127,C[C](C)C,test
+2792,0,Not PM128,CCCCCCCCCCCCC,train
+2793,0,Not PM129,CCCCCCCCCCCCCCCC(=O)OCCOC(=O)CCCCCCCCCCCCCCC,train
+2794,0,Not PM130,CC(=O)OC1CCC2C3CCC4CC(=O)CCC4(C)C3CCC12C,train
+2795,0,Not PM131,CCCCC(=O)OCC(CO)(CO)COCC(CO)(CO)CO,train
+2796,0,Not PM132,CC(C)CCCCCCCCCCOP(OCCCCCCCCCCC(C)C)OCCCCCCCCCCC(C)C,train
+2797,0,Not PM133,CCCCC(C)CC(C)C,train
+2798,0,Not PM134,CCO[Si](CC[Si](OCC)(OCC)OCC)(OCC)OCC,train
+2799,0,Not PM135,C(CCCCCCCCCC)[S](CCO)CCO,train
+2800,0,Not PM136,CCCCOC(=O)/C=C/C(=O)OCCCC,train
+2801,0,Not PM137,[Li]OC(CCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCC(O)CCCCCC)OC(=O)CCCCCCCCCCC(O)CCCCCC)CCCCCC,train
+2802,0,Not PM138,O=C1CCCCCCCCCC/C=C\CC1,train
+2803,0,Not PM139,CCCCCC1C(CC2C(CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC3C(CC4C(CCCCC)O4)O3)OC(=O)CCCCCCCC3C(CC4C(CCCCC)O4)O3)O2)O1,train
+2804,0,Not PM140,CC(=CCCC(=CCCC(=C)C=C)C)C,train
+2805,0,Not PM141,CC(C)CCCCCCCCCCCCCCCOC(=O)C(C)(C)C,train
+2806,0,Not PM142,CCCOC(=O)/C(=C/[Si](C)(C)Cl)/C,train
+2807,0,Not PM143,C(=O)(C(CCCC)CC)OOC(C)(C)CCC(C)(C)OOC(=O)C(CCCC)CC,train
+2808,0,Not PM144,CC(C)CCCCC,train
+2809,0,Not PM145,CC(C)C(=O)OC(C)(CCC=C(C)C)C=C,train
+2810,0,Not PM146,C(=O)(c1c(C(=O)OCCCCCC)cccc1)OCCCCCC,train
+2811,0,Not PM147,CCCCCCCCC(=O)OCC(CC)(COC(=O)CCCCCCCC)COC(=O)CCCCCCCC,train
+2812,0,Not PM148,CC(C)CCCC(C)CCCC(C)CCCC(C)(C=C)O,train
+2813,0,Not PM149,CC(CC(=O)OOC(=O)CC(C)CC(C)(C)C)CC(C)(C)C,test
+2814,0,Not PM150,ClC(CCCCCCCCCCCCCCCCCCCCCCCC)CS(=O)(=O)O,train
+2815,0,Not PM151,CCCCCCCCCCCO,test
+2816,0,Not PM152,C(=O)(CCCCCCCC=CCCCCCCCC)OCC(COC(=O)CCCCCCCCC(CCCCCCCC)S(=O)(=O)O)OC(=O)CCCCCCCCC=CCCCCCCCC,train
+2817,0,Not PM153,CCCCCCCCCCCCCCCC=CCC1CC(=O)OC1=O,train
+2818,0,Not PM154,CC(=CCC/C(=C/CC/C(=C/CCO)/C)/C)C,train
+2819,0,Not PM155,CCCC=CCC=CCC=CCCCCCCCOC(=O)C(COC(=O)CCCCCCCC=CCC=CCC=CCC)OC(=O)CCCCCCC=CCC1C(CC=CCCC)O1,train
+2820,0,Not PM156,CCCCC(CC)COC(=O)c1ccc(C(=O)OCC(CC)CCCC)cc1C(=O)OCC(CC)CCCC,train
+2821,0,Not PM157,CCCCOCCO[Si](OCCOCCCC)(OCCOCCCC)OCCOCCCC,train
+2822,0,Not PM158,CCCCC(CC)C(=O)OC(C)C,train
+2823,0,Not PM159,CCCCCCCCC=CCCCCCCCCOCCO,train
+2824,0,Not PM160,C(=O)(CSCC(=O)OCC(CCCC)CC)OCC(CCCC)CC,train
+2825,0,Not PM161,CC(CC)CCCC,train
+2826,0,Not PM162,CC1(CCCCC1)OC(=O)c1ccccc1C(=O)OC1(C)CCCCC1,train
+2827,0,Not PM163,CCCCC(CC)COC(=O)CC(C)CC(C)(C)C,train
+2828,0,Not PM164,CC(CC1=CC=CC1[Fe]C1C=CC=C1)C1=CC=CC1[Fe]C1C=CC=C1,train
+2829,0,Not PM165,CCCCCCCCCCC(CCCCCCCC)CO,train
+2830,0,Not PM166,CC(C)CC1CC(C)CCO1,train
+2831,0,Not PM167,CC(CCCC(=O)C)CCC=C(C)C,train
+2832,0,Not PM168,CCCCC=C,train
+2833,0,Not PM169,CC(C)CCCCCCOC(=O)C,train
+2834,0,Not PM170,CCC(=O)/C=C/C1=C(C)CCCC1(C)C,train
+2835,0,Not PM171,O=C1CCCCCCCCCCCCCCCO1,train
+2836,0,Not PM172,CC(C)CCCCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCCCCCC(C)C)(COC(=O)CCCCCCCCCCCCCCC(C)C)COC(=O)CCCCCCCCCCCCCCC(C)C,train
+2837,0,Not PM173,CCCCCCCCC=CCCCCCCCC(=O)N(CCO)CCO,train
+2838,0,Not PM174,CCCCOC(=O)c1ccc(cc1)C(=O)OCCCC,test
+2839,0,Not PM175,CCCCCCCCCCCCO,train
+2840,0,Not PM176,CC(=C)C(=O)OCCCCCCCCCCOC(=O)C(=C)C,train
+2841,0,Not PM177,CCCCCCCCCCCCCCCCOC(=O)C,train
+2842,0,Not PM178,CCCCCCCCCCCC(=O)OCC(CC)CCCC,train
+2843,0,Not PM179,CCCCCCCCCCCCCOC(=O)CCCCC(=O)OCCCCCCCCCCCCC,train
+2844,0,Not PM180,COC1=CCC2=C(C1)CCC1C2CCC2(C)C1CCC2(O)C#N,train
+2845,0,Not PM181,CCCCCCCCCCCCCCCCCC(=O)OCCCCCCCCCCCCCC,train
+2846,0,Not PM182,CCCCCCCCCCCCCCCCCCCCCC(=O)NCCCN(C)C,train
+2847,0,Not PM183,CC1(C)C(O)CCC2(C)C1CCC1(C)C2C(=O)C=C2C3CC(C)(CCC3(C)CCC12C)C(=O)O,train
+2848,0,Not PM184,CCCCCC(=Cc1ccccc1)C(OCC)OCC,train
+2849,0,Not PM185,CC(C)CCCCCOC(=O)CCC(=O)OCCCCCC(C)C,train
+2850,0,Not PM186,CC(C)CCCCCCCCCCCCCCC(=O)OC(CO)CO,train
+2851,0,Not PM187,CCCCCC(CCC)COC(=O)c1ccccc1C(=O)OCC(CCC)CCCCC,train
+2852,0,Not PM188,O=C1CCCCCCCCCCO1,train
+2853,0,Not PM189,CCCCCCOC(=O)c1ccc(C(=O)OCCCCCC)c(c1)C(=O)OCCCCCC,train
+2854,0,Not PM190,CCCCCCCCCCCCCCCCCC(=O)NCCCN(C)CCCNC(=O)CCCCCCCCCCCCCCCCC,train
+2855,0,Not PM191,CCCCCCCCCCBr,train
+2856,0,Not PM192,CCCCCCCCCCCCCCOCCCOC(=O)CC,train
+2857,0,Not PM193,CC(=O)OC1CCC2(C)C3CCC4(C)C(CCC4=O)C3CC=C2C1,train
+2858,0,Not PM194,CCCCCCCCCCCCCCCCC,train
+2859,0,Not PM195,CCCCCCCCOC(=O)CCCCC(=O)OCCCCCCCC,train
+2860,0,Not PM196,CC(C)CCCCCCCCCCCCCCC(=O)OC(C)C,train
+2861,0,Not PM197,CCCCCCCCC=CCCCCCCCC(=O)NCCCN(C)CCCNC(=O)CCCCCCCC=CCCCCCCCC,train
+2862,0,Not PM198,CCCCCCCCCCCCCCCCCCOC(=O)CCCCCCCCCCCCCCCCC,train
+2863,0,Not PM199,CCCCCCCCOCCCCCCCC,train
+2864,0,Not PM200,CCCCCCCCCCCCCCCCCCCCCCO,train
+2865,0,Not PM201,CC(=CCCC(=C)C=C)CCC=C(C)C=O,train
+2866,0,Not PM202,CCCCC(CC)COC(=O)c1ccc(cc1)N(=O)=O,train
+2867,0,Not PM203,CCCCCCCCCCOC(=O)C(CC)CCCC,train
+2868,0,Not PM204,CCCCCCCCCCC(CCCCCCCC)COC(=O)CCCCCCCC(=O)OCC(CCCCCCCC)CCCCCCCCCC,train
+2869,0,Not PM205,CC(C)(C)CCCCCC(=O)OOC(C)(C)c1ccccc1,test
+2870,0,Not PM206,O=C(CC(=O)c1ccccc1)c1ccccc1,train
+2871,0,Not PM207,C(=O)(CCCCCCCCC(=O)OCCCCCCCC(C)C)OCCCCCCCC(C)C,train
+2872,0,Not PM208,CCCCCCCCCCCCCCCCCCCCCCOC(=O)C(=C)C,train
+2873,0,Not PM209,CCCCCCCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCCCCCCCC)(COC(=O)CCCCCCCCCCCCCCCCC)COC(=O)CCCCCCCCCCCCCCCCC,train
+2874,0,Not PM210,O=C(O)C(CCCCCCCCC)CCCCCCCC(=O)OCC(OC(=O)CCCCCCC/C=C\CCCCCCCC)COC(=O)CCCCCCCCC(CC(CCCCCC)S(=O)(=O)O[Na])S(=O)(=O)O,train
+2875,0,Not PM211,CCCCCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCCCCC,train
+2876,0,Not PM212,C=CCCCCCCCCC=O,train
+2877,0,Not PM213,CCCCCCCCCCCCCCCCCCCCCC(=O)OCC(O)CO,train
+2878,0,Not PM214,CCCCC(CC)CNC(=O)CC(C)CC(C)(C)C,test
+2879,0,Not PM215,C=CCCCCCCCCCCCCCCCCCCCCCCCC,train
+2880,0,Not PM216,O=C(OCCCc1ccccc1)c1ccccc1,train
+2881,0,Not PM217,CC(CCCCCCCCC)OCCOCCOCCOCCOCCO,test
+2882,0,Not PM218,CCCCCCCCC=CCCCCCCCCOP(=O)OCCCCCCCCC=CCCCCCCCC,train
+2883,0,Not PM219,CCCCCCCCCCCCCCCCCC(=O)OC(CCCCCC)CCCCCCCCCCC(=O)OCCCCCCCCCCCCCC(C)C,train
+2884,0,Not PM220,CCCCCCCCCCCCCCCC[Si](OCC)(OCC)OCC,train
+2885,0,Not PM221,C(=O)(O)CCCCCCCC=CCC=CCCCCC,test
+2886,0,Not PM222,CCCCCCCCCCCCOC(=O)CCCCCCCC,train
+2887,0,Not PM223,CCCCCCCCCCCCOC(=O)C=C,train
+2888,0,Not PM224,CCCCCCCOC(=O)CCC(=O)OCCCCCCC,train
+2889,0,Not PM225,CC1(C)CCCC2(C)C3CCC(C13)C2=C,train
+2890,0,Not PM226,C1(C)(C)CC(C(C)OC(=O)COC(=O)CC)CCC1,train
+2891,0,Not PM227,CC(C)CCCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCCCC(C)C,train
+2892,0,Not PM228,CCCCCCCC/C=C\CCCCCCCC(=O)OCC(COC(=O)CCCCCCC/C=C\CCCCCCCC)OC(=O)CCCCCCC/C=C\CCCCCCCC,train
+2893,0,Not PM229,CC(=C)C(=O)OC1CCC(CC1)C(C)(C)C,train
+2894,0,Not PM230,CCCCCCC(C)OC(=O)C=C,train
+2895,0,Not PM231,CC(C)CCOC(=O)c1ccccc1O,train
+2896,0,Not PM232,CCC12CCC3C(CCC4=C3CC=C(C4)OC)C1CCC2=O,train
+2897,0,Not PM233,CC[C@]12CC[C@H]3[C@@H](CCC4=C3CC=C(C4)OC)[C@@H]1CCC2=O,train
+2898,0,Not PM234,CC(C)CCCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)C,train
+2899,0,Not PM235,CCCCCCCCCCCCCCCCCCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCCCCCCCCCCCCCCCCCC,train
+2900,0,Not PM236,CCCCCCCCCCCCCCCCCCOC(=O)CCSCCC(=O)OCCCCCCCCCCCCCCCCCC,train
+2901,0,Not PM237,CCCCCCCCCCCCCCCCOC(=O)CCCCCCCCCCCCCCC,train
+2902,0,Not PM238,CCCCC(CC)COC(=O)OCC(CC)CCCC,train
+2903,0,Not PM239,CCCCCCCCCCCCCCCCCC[Si](Cl)(Cl)Cl,train
+2904,0,Not PM240,CCCCCCCC/C=C\CCCCCCCC(=O)OC(C)C,train
+2905,0,Not PM241,C(=O)(CCCCCCCC=CCCCCCCCC)OC(C)C,train
+2906,0,Not PM242,OCC(O)COC(=O)CCCCCCCCCCCCCCC,train
+2907,0,Not PM243,O=C1CCCCCCC/C=C/CCCCCCO1,train
+2908,0,Not PM244,CC(C1CC1)C1(CO1)c1ccc(Cl)cc1,train
+2909,0,Not PM245,O=C(CCCCCCC)OC(COC(=O)CCCCCC)COC(=O)CCCCCCCCCCC,train
+2910,0,Not PM246,CCCCCCOC(=O)C=CC(=O)OCCCCCC,train
+2911,0,Not PM247,C(=O)(CC(C)CC(C)(C)C)OC(COC(=O)CC(C)CC(C)(C)C)COC(=O)CC(C)CC(C)(C)C,train
+2912,0,Not PM248,C(=O)(CCCCCCCCCCCCCCC(C)C)OCC(CCCCCCCCCC)CCCCCCCC,train
+2913,0,Not PM249,CCCCCCCCCCCCOC(=O)C(C)O,train
+2914,0,Not PM250,C(=O)(CCCCCCCC=CCCCCCCCC)OCC(CO)(CO)CO,train
+2915,0,Not PM251,CCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC,train
+2916,0,Not PM252,CCCC(CC)CCCCOC(=O)c1ccccc1,train
+2917,0,Not PM253,CCCCCCCCC=CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC=CCCCCCCCC)(COC(=O)CCCCCCCC=CCCCCCCCC)COC(=O)CCCCCCCC=CCCCCCCCC,train
+2918,0,Not PM254,C(=O)(OCCCCCCCCCCCCCCCC)OOC(=O)OCCCCCCCCCCCCCCCC,train
+2919,0,Not PM255,CCCCCCCCCCCCCCCCCCN(CCCCCCCCCCCCCCCCCC)C(=O)c1ccccc1C(=O)O,train
+2920,0,Not PM256,C(=O)(CCCCCCCC=CCCCCCCCC)OC,train
+2921,0,Not PM257,CCCCCCCCCCCC(=O)OCCCCCCCCCC,train
+2922,0,Not PM258,CCCCCCCCCCCCCCCCCCN,train
+2923,0,Not PM259,CCC(COC(=O)CC(C)CC(C)(C)C)(COC(=O)CC(C)CC(C)(C)C)COC(=O)CC(C)CC(C)(C)C,train
+2924,0,Not PM260,CCCCCCCCCCCCCCCCCCCCCCOC(=O)c1ccc(O)cc1,train
+2925,0,Not PM261,CCCCCCCCC=CCCCCCCCC(=O)OCCOCC(OCCO)C1OC(CC1OCCO)OCCO,train
+2926,0,Not PM262,CC(=CCCC(C)(O)C1CCC(=CC1)C)C,train
+2927,0,Not PM263,O=C(CCCCCCCCC)OCC(COC(=O)CCCCCCCC)(COC(=O)CCCC)COC(=O)CCCCC,train
+2928,0,Not PM264,CCCCOC(=O)c1ccc(C(=O)OCCCC)c(c1)C(=O)OCCCC,train
+2929,0,Not PM265,CCCCCCCCCCCCCCCCCC(=O)NCCNC(=O)CCCCCCCCCCCCCCCCC,train
+2930,0,Not PM266,CCC(COC(=O)CCCCCCCCCCCCCCC(C)C)(COC(=O)CCCCCCCCCCCCCCC(C)C)COC(=O)CCCCCCCCCCCCCCC(C)C,train
+2931,0,Not PM267,CCCCCCCCCOC(=O)c1ccc(C(=O)OCCCCCCCCC)c(c1)C(=O)OCCCCCCCCC,train
+2932,0,Not PM268,CCCCC(CC)COC(=O)/C=C\C(=O)OCC(CC)CCCC,train
+2933,0,Not PM269,CCCCCCCCCCC,train
+2934,0,Not PM270,CCCCCCCCCCCCCCCCC(CO)CCCCCCCCCCCCCC,train
+2935,0,Not PM271,C(C)(C)CC(C)CC(C)CC(C)COCCOCCOCCOCCOCCO,train
+2936,0,Not PM272,CC(C)CCCCCCCOP(=O)(Oc1ccccc1)Oc1ccccc1,train
+2937,0,Not PM273,CCCCCCCCCCCCCCCCCC,train
+2938,0,Not PM274,CCCCC(CC)CNCC(CC)CCCC,train
+2939,0,Not PM275,C(=O)(CCC(C)CC(C)CC(C)CC(C)CC)OCC(COC(=O)CCC(C)CC(C)CC(C)CC(C)CC)(COC(=O)CCC(C)CC(C)CC(C)CC(C)CC)COC(=O)CCC(C)CC(C)CC(C)CC(C)CC,test
+2940,0,Not PM276,CCCCCCCCCCCCCCCC(=O)OCC(CC)CCCC,train
+2941,0,Not PM277,CCCCCCOP(=O)(OCCCCCC)OCCCCCC,train
+2942,0,Not PM278,CCCCCCCCC(=O)OCC(C)OC(=O)CCCCCCCC,train
+2943,0,Not PM279,CC(CO)Cc1ccc(cc1)C(C)(C)C,train
+2944,0,Not PM280,CC(C)CCCCCCCCCCOC(=O)CCCCCC(C)C,train
+2945,0,Not PM281,CCCCCCCCCCCCCCCCCC[Si](OC)(OC)OC,train
+2946,0,Not PM282,CCCCCCCCCCCCCCCCCCNC(=O)OCCOC(=O)C=C,train
+2947,0,Not PM283,CCCCCCCCCCCC,test
+2948,0,Not PM284,CCC(=O)/C=C/C=C(\C)/CCC=C(C)C,train
+2949,0,Not PM285,CCCCCCCCCCCCCCCCCCCCC=C,train
+2950,0,Not PM286,CCCCCCCCCCCCCCCCCCCCCCOC(=O)CCCCCCCCCCCCCCCCC,train
+2951,0,Not PM287,CCCCCCCC(=O)OOC(=O)CCCCCCC,train
+2952,0,Not PM288,CCCCCCCCC/C=C/C=O,train
+2953,0,Not PM289,CCCCC(CC)COC(=O)CCS,train
+2954,0,Not PM290,CC/C=C\CCCCCCCCCCCCCCOCCOCCOCCOCCOCCO,train
+2955,0,Not PM291,CCCCCCCCCCCCCC(=O)OC(CO)CO,train
+2956,0,Not PM292,CCCCC(CC)COC(=O)c1ccccc1,train
+2957,0,Not PM293,CCCCCCCC/C=C\CCCCCCCCCCCC(=O)N,train
+2958,0,Not PM294,CCCCCCCCCCCCCCCCCC[Si](C)(OC)OC,train
+2959,0,Not PM295,COc1ccc(C=CC(=O)OCCC(C)C)cc1,train
+2960,0,Not PM296,CC=C(C)C(=O)OCCC(C)CCC=C(C)C,train
+2961,0,Not PM297,CCCCCCCC/C=C\CCCCCCCC#N,train
+2962,0,Not PM298,CC(CCOC(=O)CC(C)CC(C)(C)C)CC(C)(C)C,train
+2963,0,Not PM299,CCCCCCCCCCCC(=O)OC(C)C,train
+2964,0,Not PM300,CCOc1c(O)ccc(CO)c1,train
+2965,0,Not PM301,CCCCCCCCC=CCCCCCCCC(=O)NCCOCCO,train
+2966,0,Not PM302,C(CCCCCCCCCCCCCC)SSCCCCCCCCCCCCCCC,train
+2967,0,Not PM303,CCCCCCCCCCOC(=O)CCCCCCCCCCCCCCC(C)C,train
+2968,0,Not PM304,CCCCC(CC)COC(=O)CSP(=O)(SCC(=O)OCC(CC)CCCC)SCC(=O)OCC(CC)CCCC,train
+2969,0,Not PM305,CC(CC(C)(C)C)CC(C)(C)CC(C)(C)C,train
+2970,0,Not PM306,CCCCC/C(=C\c1ccc(C)cc1)/C=O,train
+2971,0,Not PM307,CC(CC(C)(C)C)CC(C)(C)C,train
+2972,0,Not PM308,CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)OC(=O)CCCCCCC,train
+2973,0,Not PM309,O=C(CCCCCCCCCCC)OC(COC(=O)CCCCCCCCCCC)COC(=O)CCCCCCCCCCC,train
+2974,0,Not PM310,CCC(=O)/C=C/C1C(=CCCC1(C)C)C,test
+2975,0,Not PM311,C(C)(C)(/C=N/CCCCCC/N=C/C(C)(C)COC(=O)CCCCCCCCCCC)COC(=O)CCCCCCCCCCC,train
+2976,0,Not PM312,CC(C)c1cc(cc(c1)C(C)C)C(C)C,train
+2977,0,Not PM313,CCC(=O)OC(C)(CCC=C(C)C)C=C,train
+2978,0,Not PM314,C(=O)(CCCCCCC)OCC(C)(C)COC(=O)CCCCCCC,train
+2979,0,Not PM315,CCCCCCCCCCCCCCCCCCCCCC(=O)OCC(CO)(CO)COC(=O)CCCCCCCCCCCCCCCCCCCCC,train
+2980,0,Not PM316,CC(CO)C1CCCCCCCCCCC1,train
+2981,0,Not PM317,CC(C)CCCCCCCOC(=O)CCCCCCCC(=O)OCCCCCCCC(C)C,train
+2982,0,Not PM318,CCCCC(CC)COC(=O)CCC(=O)OCC(CC)CCCC,train
+2983,0,Not PM319,C(C)(C)CCCCCCCCCCCCCCCO,test
+2984,0,Not PM320,CC(C)CCCCCCCCCCOC(=O)CCCCC(=O)OCCCCCCCCCCC(C)C,train
+2985,0,Not PM321,O=C(c1ccc(Cl)cc1Cl)OOC(=O)c1ccc(Cl)cc1Cl,train
+2986,0,Not PM322,CCCCCCCCCCCCCCCCCC(=O)NCCCN(C)C,train
+2987,0,Not PM323,CCCCC(CC)C(=O)OOC(C)(C)C,train
+2988,0,Not PM324,CCCCC(CC)COC(=O)c1ccc(cc1)N(C)C,train
+2989,0,Not PM325,O=C(CCCCCCC)OCCCOC(=O)CCCCCCC,train
+2990,0,Not PM326,CC(C)CCCCCCCCCCO[P+](=O)OCCCCCCCCCCC(C)C,train
+2991,0,Not PM327,CCCCCCCCCCCc1ccccc1,train
+2992,0,Not PM328,COC1=CCC2=C(CC[C@@H]3[C@@H]2CC[C@]2(C)[C@@H](O)CC[C@@H]32)C1,train
+2993,0,Not PM329,CC(C)OC(=O)CCCCCCCCC(=O)OC(C)C,train
+2994,0,Not PM330,CC(C)(C)C(=O)OC1CCC2(C)C3CCC4(C)C(C(CC4=O)OC(=O)C(C)(C)C)C3C(O)C=C2C1,train
+2995,0,Not PM331,CCCCCCCCCCCCCO,train
+2996,0,Not PM332,CCCCCCCCCCCCCCCCCCOC(=O)/C=C/C(=O)OCCCCCCCCCCCCCCCCCC,train
+2997,0,Not PM333,C(=O)(C(CCCC)CC)OCCCCCCCCCCCCCCCC,train
+2998,0,Not PM334,CCCCCCCCCC(=O)OOC(=O)CCCCCCCCC,train
+2999,0,Not PM335,C(=O)(CCCCCCCCCCC)N(C)CC(=O)OC(C)C,train
+3000,0,Not PM336,CCCCCCCCCCCCCCCCCC(=O)OC(CCCCCC)CCCCCCCCCCC(=O)OCC(CCCCCCCC)CCCCCCCCCC,train
+3001,0,Not PM337,CCCCCCC(CCCC)CO,train
+3002,0,Not PM338,CCCCC(CC)COCCOCCOC(=O)C=C,train
+3003,0,Not PM339,CCCC(=O)OCCC(C)CCC=C(C)C,test
+3004,0,Not PM340,CCCCCCCCCCCCCCCC(=O)OC(C)C,train
+3005,0,Not PM341,CCCCCCCCC(CCCCCC)CO,test
+3006,0,Not PM342,Cc1cc(c(O)c(C)c1Cn1c(=O)n(Cc2c(C)cc(c(O)c2C)C(C)(C)C)c(=O)n(Cc2c(C)cc(c(O)c2C)C(C)(C)C)c1=O)C(C)(C)C,train
+3007,0,Not PM343,C(=O)(CS[Sn](C)(C)SCC(=O)OCC(CCCC)CC)OCC(CCCC)CC,train
+3008,0,Not PM344,CCCCC(CC)COC(=O)/C=C/c1ccc(OC)cc1,train
+3009,0,Not PM345,CCC(C)CCCC(C)CCCC(C)C,train
+3010,0,Not PM346,C(=O)(CCCCCCCCC)OCC(C)OC(=O)CCCCCCC,train
+3011,0,Not PM347,CCCCCCCCCCCCC/C=C/CC,train
+3012,0,Not PM348,CCCCCCCCCCCC(=O)OOC(=O)CCCCCCCCCCC,train
+3013,0,Not PM349,C(=O)(CCCCCCCCCCCCCCC(C)C)OCC(O)C(O)C(O)C(O)O,train
+3014,0,Not PM350,CC(C)CCCCCCCOC(=O)CCCCC(=O)OCCCCCCCC(C)C,train
+3015,0,Not PM351,Cc1ccc(Nc2cccc3C(=O)c4cccc(Nc5ccc(C)cc5)c4C(=O)c23)cc1,train
+3016,0,Not PM352,CC(C)CCCCCCOC(=O)c1ccc(C(=O)OCCCCCCC(C)C)c(c1)C(=O)OCCCCCCC(C)C,train
+3017,0,Not PM353,NCCCCCCCCCCN,test
+3018,0,Not PM354,C(C)(C)(C=O)COC(=O)CCCCCCCCCCC,train
+3019,0,Not PM355,CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC)OC(=O)CCCCCCCC,train
+3020,0,Not PM356,Cc1ccccc1OP(=O)(Oc1ccccc1C)Oc1ccccc1C,train
+3021,0,Not PM357,CCCCCCCCCCCC(=O)OCCCCCCCCCCC(C)C,train
+3022,0,Not PM358,C(C)(C)(CC(C)(C)C)OOC(=O)CCCCCCCCC,train
+3023,0,Not PM359,CC(=CCCC(=CCCC(=CCCC=C(C)CCC=C(C)CCC=C(C)C)C)C)C,train
+3024,0,Not PM360,CC(C)CCC(C)CCC(C)C,train
+3025,0,Not PM361,CCCCC(CC)COC(=O)OOC(=O)OCC(CC)CCCC,train
+3026,0,Not PM362,CCCCCCCCC=CCCCCCCCC(=O)OCC(O)C1OCC(OC(=O)CCCCCCCC=CCCCCCCCC)C1OC(=O)CCCCCCCC=CCCCCCCCC,train
+3027,0,Not PM363,CC(C)CCCCCCCCCCOP(OCCCCCCCCCCC(C)C)Oc1ccccc1,train
+3028,0,Not PM364,CCCCC(CC)COC(=O)CCCCCCCC(=O)OCC(CC)CCCC,train
+3029,0,Not PM365,CC1CC=CCCCCCCCCC(=O)C1,train
+3030,0,Not PM366,CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)O,train
+3031,0,Not PM367,CCOC(C)OC(C)(CCC=C(C)C)C=C,test
+3032,0,Not PM368,C(=O)(c1c(C(=O)OCCCCCCCCC)cccc1)OCCCCCCCC,train
+3033,0,Not PM369,CC(=CCCC(=CCC1CCCC1=O)C)C,train
+3034,0,Not PM370,COC(=O)CCCCCCCCCCCCCCCCC(=O)OC,train
+3035,0,Not PM371,O=C(CCCC)OCC(COC(=O)CCCC)(COC(=O)CCCC)COC(=O)CCCC,train
+3036,0,Not PM372,OC(COC(O)CCCCCCC)COC(=O)CCCCCCCCC,train
+3037,0,Not PM373,CCCCCCCCCCCC(=O)OCC(C)(C)C=NC(C)COCC(CC)(COCC(C)N=CC(C)(C)COC(=O)CCCCCCCCCCC)COCC(C)/N=C/C(C)(C)COC(=O)CCCCCCCCCCC,train
+3038,0,Not PM374,CC(C)CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC(C)C,train
+3039,0,Not PM375,CC(C)CC(C)Nc1ccc(cc1)Nc1ccccc1,train
+3040,0,Not PM376,CC(C)(C)C1=CC(=O)C(=CC1=O)C(C)(C)C,train
+3041,0,Not PM377,CCCCCCCCCCCCCCCCCC(=O)NCCC[N+](C)(C)CC(=O)OCCCCCCCCCCCCCC,train
+3042,0,Not PM378,CCCCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCCCC,train
+3043,0,Not PM379,CCCCCCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1,train
+3044,0,Not PM380,C(=O)(CCCCCCC/C=C/CCCCCCCC)O[Ca+],train
+3045,0,Not PM381,C(=O)(CCCCCCCC(CCCCCCCCC)S(=O)(=O)[O-])OCC(COC(=O)CCCCCCCCC(CCCCCCCC)S(=O)(=O)[O-])OC(=O)CCCCCCCCC(CCCCCCCC)S(=O)(=O)[O-],train
+3046,0,Not PM382,CN(C)c1ccc(cc1)C(=C1C=CC(=[N+](C)C)C=C1)c1ccc(cc1)N(C)C,train
+3047,0,Not PM383,CC(O)COCC(C)OC1CC2CCC1(C)C2(C)C,train
+3048,0,Not PM384,C(C)(C)(C)/C=C(/C)\CC(C)(C)C,train
+3049,0,Not PM385,CCCCCCCCCCCCOS(=O)(=O)c1ccc(Oc2ccc(cc2)S(=O)(=O)[O-])cc1,train
+3050,0,Not PM386,CCCCCCC(C/C=C\CCCCCCCC(=O)OCC(COC(=O)CCCCCCC/C=C\CC(CCCCCC)OS(=O)(=O)[O-])OC(=O)CCCCCCC/C=C\CC(CCCCCC)OS(=O)(=O)[O-])OS(=O)(=O)[O-],train
+3051,0,Not PM387,CCCCCCCCCCCCCCCC(=O)NCCC[N+](C)(C)C,train
+3052,0,Not PM388,CCCCCCCCCCCCCCCCCC[N+](C)(C)C,train
+3053,0,Not PM389,CCCCCCCCCCCCCCCC(=O)OCC[N+](C)(C)CCOC(=O)CCCCCCCCCCCCCCC,train
+3054,0,Not PM390,CCCCCCCCCCCCCCCC[N+](C)(C)C,train
+3055,0,Not PM391,CCCCCCCCCCCCCCCC[N+](C)(C)CCO,train
+3056,0,Not PM392,CCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1,train
+3057,0,Not PM393,CCCCCCCCCCCCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCCCCCCCCC,train
+3058,0,Not PM394,CCCCCCCCCCCCCCCCCC(=O)OCCCCCCCCCCCCCCCC,train
+3059,0,Not PM395,C(C)(C)(C)CC(=C)CC(C)(C)C,train
+3060,0,Not PM396,CC(O)COC(C)COC1CC2CCC1(C)C2(C)C,train
+3061,0,Not PM397,CC(CO)OCC(C)OC1CC2CCC1(C)C2(C)C,train
+3062,0,Not PM398,CC(CO)OC(C)COC1CC2CCC1(C)C2(C)C,train
+3063,0,Not PM399,Cc1ccc(OP(=O)(Oc2ccc(C)cc2)Oc2ccc(C)cc2)cc1,train
+3064,0,Not PM400,CCCCCCCC/C=C\CCCCCCCCO,train
+3065,0,Not PM401,CCCCCCCCCCCCCCOC(=O)C(=C)C,train
+3066,0,Not PM402,CCCCCCCCC(C)C,train
+3067,0,Not PM403,CCCCCCCCCCCCCCCC(=O)OC,train
+3068,0,Not PM404,CCCCCCCCCCCCCCCCCC(=O)OC,train
+3069,0,Not PM405,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,train
+3070,0,Not PM406,CCCCCCCCCCCCCCCCC(=O)O,train
+3071,0,Not PM407,CCCCCCCCCCCCSC,train
+3072,0,Not PM408,C(=O)(OCCCCCCCC)OCCCCCCCC,train
+3073,0,Not PM409,Cc1cc(n[nH]1)C,train
+3074,0,Not PM410,CCCCCCCCCCCCCCCCCCC=C,train
+3075,0,Not PM411,CCCCCCCCCCCCCCCCCCCC(=O)O,train
+3076,0,Not PM412,C=CCCCCCCCCCCC,train
+3077,0,Not PM413,CCCCCCCCCCCCCCC,train
+3078,0,Not PM414,CCCCCCCCCCCCCC(=O)OC,train
+3079,0,Not PM415,CCCCCCCCCCCCCCCCOC(=O)C(=C)C,train
+3080,0,Not PM416,C(=O)(C=CC(=O)OCCCCCCCCCCCCCCCCC)OCCCCCCCCCCCCCCCCC,train
+3081,0,Not PM417,CCCCCCCCCCCC(=O)N(CCO)CCO,train
+3082,0,Not PM418,O=C(CCCCCCC/C=C/CCCCCCCC)O[Na],train
+3083,0,Not PM419,CC(CCCCCCCCCC)CCCCCCCC,train
+3084,0,Not PM420,CCCCCCCCCCCCCCCCCCOC(=O)C=C,train
+3085,0,Not PM421,CCCCCCCCCCCCCCCCCC(=O)N,train
+3086,0,Not PM422,C(=O)(CCCCCCCC=CCC(O)CCCCCC)OC(COC(=O)CCCCCCCC=CCC(O)CCCCCC)COC(=O)CCCCCCCC(CCC(O)CCCCCC)OO,train
+3087,0,Not PM423,CC(CCCCCCCCC=C)CCCCCCCC,train
+3088,0,Not PM424,C(=O)(C=C)OCCCCCCCCCCCCCCCC,train
+3089,0,Not PM425,O=C(CCCCCCCCCCC)OC(COC(=O)CCCCCCCCCCCCCCC)COC(=O)CCCCCCCCCCCCC,train
+3090,0,Not PM426,CCCCCCCCCCCCCCCCCCCCCCCCO,train
+3091,0,Not PM427,O=C(CCCCCCC/C=C\CCCCCCCC)OCCCC,train
+3092,0,Not PM428,C(=O)(C=C)OCCCCCCCCCCCCCC,train
+3093,0,Not PM429,CCCCCCCCCCCCCCCCCC(=O)OC(CO)CO,train
+3094,0,Not PM430,CC(C)CCCCCOC(=O)CCS,train
+3095,0,Not PM431,O=C/C(=C/c1ccccc1)/C,train
+3096,0,Not PM432,CCCCCCCCCCCCOC(CCl)CO,train
+3097,0,Not PM433,CCCCC=CCCC,train
+3098,0,Not PM434,CC(Cc1ccccc1OP(=O)(Oc1ccccc1CC(C)C)Oc1ccccc1CC(C)C)C,train
+3099,0,Not PM435,O=CCC(c1cccc(c1)C(=C)C)C,train
+3100,0,Not PM436,N#CC12C3CC4C([C@@]2(C)CCC(C1C3=O)O)[C@H](O)C[C@]1(C4CCC21CCC(=O)O2)C,train
+3101,0,Not PM437,CCC(=O)OCC(=O)OC(C1CCCC(C1)(C)C)C,train
+3102,0,Not PM438,O=C(Nc1ccccc1C(=O)O)CCc1ccc(cc1)O,train
+3103,0,Not PM439,CCCCCCCC=CC,train
+3104,0,Not PM440,CCCCCC=CC,train
+3105,0,Not PM441,CCCCCCCCCCCCCC=CC,test
+3106,0,Not PM442,CCCCCCCCCCCCCCCC=CC,train
+3107,0,Not PM443,CCCCC(C(=O)OCC(O)C)CC,train
+3108,0,Not PM444,[O-]C(=O)CCCCCNS(=O)(=O)c1ccc(cc1)C,train
+3109,0,Not PM445,CCCCCCCCCC(=O)Nc1cc(C)ccc1O,train
+3110,0,Not PM446,CCCCCCCCCCCCCCc1ccc2c(c1)cccc2,train
